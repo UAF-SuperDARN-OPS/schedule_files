@@ -71,6 +71,7 @@ duration  0
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2013 08 28 00 00    360  10 normalsound -stid adw -ep 51000 -sp 51001 -bp 51100 -fast -df 13600 -nf 10750 -c 1
 2013 08 28 06 00   2880  10 normalsound -stid adw -ep 51000 -sp 51001 -bp 51100 -fast -df 13600 -nf 10750 -c 1
+2013 08 29 20 00    240  20 pcodescan_15km   -stid adw -ep 51000 -sp 51001 -bp 51100 -di -fast -df 13600 -nf 10750 -c 1 
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2013 08 30 06 00    360  10 rbspscan -stid adw -ep 51000 -sp 51001 -bp 51100 -meribm 18 -westbm 19 -eastbm 21 -df 13600 -nf 10750 -c 1
 2013 08 30 12 00    720  10 normalsound -stid adw -ep 51000 -sp 51001 -bp 51100 -fast -df 13600 -nf 10750 -c 1
