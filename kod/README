@@ -1,0 +1,17 @@
+
+KOD campaign files are for special events on the kodiak radar which override the normal monthly schedule.
+The campaign files must use the new priority and duration syntax in order to work correctly.
+
+Note:
+Because KOD is multi-channel operational, care should be taken to ensure all channels are running the same
+pulse sequence at any given time.
+
+campaign file events should be scheduled for all active channels with matching durations to ensure a common
+pulse sequence is used on all channels, to avoid mismatched TR windows across channels.
+
+
+To turn off a channel for a specific period of time, set the controlprogram to noopscan for that channel.
+
+
+
+
