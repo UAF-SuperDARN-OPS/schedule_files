@@ -1,4 +1,5 @@
 path /home/radar/rst/usr/bin
+channel a
 default normalscan -stid ade -fast -c 1
 priority  0
 duration  0
