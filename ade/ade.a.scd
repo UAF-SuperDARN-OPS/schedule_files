@@ -44,36 +44,36 @@ duration  0
 2013 12 17 06 00   2520  10 normalsound  -fast 
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2013 12 19 00 00    360  10 rbspscan  -meribm 1 -westbm 0 -eastbm 3 
-2013 12 19 06 00   1080  10 normalsound  -fast 
+2013 12 19 06 00   1080  10 normalsound  -fast -xcf 1 
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 12 20 00 00    360  10 normalsound  -fast 
-2013 12 20 06 00   1080  10 normalsound  -fast 
-2013 12 21 00 00   1440  10 normalscan  -fast 
+2013 12 20 00 00    360  10 normalsound  -fast -xcf 1
+2013 12 20 06 00   1080  10 normalsound  -fast -xcf 1
+2013 12 21 00 00   1440  10 normalscan  -fast  -xcf 1
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 12 22 00 00    360  10 rbspscan  -meribm 1 -westbm 0 -eastbm 3 
-2013 12 22 06 00   1080  10 normalsound  -fast 
+2013 12 22 00 00    360  10 rbspscan  -meribm 1 -westbm 0 -eastbm 3 -xcf 1 
+2013 12 22 06 00   1080  10 normalsound  -fast -xcf 1
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 12 23 00 00    360  10 normalsound  -fast 
-2013 12 23 06 00   1080  10 normalsound  -fast 
-2013 12 24 00 00   1440  10 normalscan  -fast 
+2013 12 23 00 00    360  10 normalsound  -fast -xcf 1
+2013 12 23 06 00   1080  10 normalsound  -fast -xcf 1
+2013 12 24 00 00   1440  10 normalscan  -fast  -xcf 1
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 12 25 00 00    360  10 rbspscan  -meribm 1 -westbm 0 -eastbm 3 
-2013 12 25 06 00   1080  10 normalsound  -fast 
+2013 12 25 00 00    360  10 rbspscan  -meribm 1 -westbm 0 -eastbm 3  -xcf 1
+2013 12 25 06 00   1080  10 normalsound  -fast -xcf 1
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 12 26 00 00    360  10 normalsound  -fast 
-2013 12 26 06 00   1800  10 normalsound  -fast 
+2013 12 26 00 00    360  10 normalsound  -fast -xcf 1
+2013 12 26 06 00   1800  10 normalsound  -fast -xcf 1
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 12 27 12 00    360  10 normalsound  -fast 
-2013 12 27 18 00    360  10 normalsound  -fast 
+2013 12 27 12 00    360  10 normalsound  -fast -xcf 1
+2013 12 27 18 00    360  10 normalsound  -fast -xcf 1
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 12 28 00 00    360  10 rbspscan  -meribm 1 -westbm 0 -eastbm 3 
-2013 12 28 06 00   1080  10 normalsound  -fast 
+2013 12 28 00 00    360  10 rbspscan  -meribm 1 -westbm 0 -eastbm 3 -xcf 1
+2013 12 28 06 00   1080  10 normalsound  -fast -xcf 1
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 12 29 00 00    360  10 normalsound  -fast 
-2013 12 29 06 00   1800  10 normalsound  -fast 
+2013 12 29 00 00    360  10 normalsound  -fast -xcf 1
+2013 12 29 06 00   1800  10 normalsound  -fast -xcf 1
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 12 30 12 00    360  10 normalsound  -fast 
-2013 12 30 18 00    360  10 normalsound  -fast 
+2013 12 30 12 00    360  10 normalsound  -fast -xcf 1
+2013 12 30 18 00    360  10 normalsound  -fast -xcf 1
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 12 31 00 00    360  10 rbspscan  -meribm 1 -westbm 0 -eastbm 3 
-2013 12 31 06 00   1080  10 normalsound  -fast 
+2013 12 31 00 00    360  10 rbspscan  -meribm 1 -westbm 0 -eastbm 3 -xcf 1 
+2013 12 31 06 00   1080  10 normalsound  -fast -xcf 1
