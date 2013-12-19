@@ -43,7 +43,7 @@ duration  0
 2013 12 17 00 00    360  10 rbspscan  -meribm 1 -westbm 0 -eastbm 3 
 2013 12 17 06 00   2520  10 normalsound  -fast 
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 12 19 00 00    360  10 rbspscan  -meribm 1 -westbm 0 -eastbm 3 
+2013 12 19 00 00    360  10 rbspscan  -meribm 1 -westbm 0 -eastbm 3 -xcf 1 
 2013 12 19 06 00   1080  10 normalsound  -fast -xcf 1 
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2013 12 20 00 00    360  10 normalsound  -fast -xcf 1
