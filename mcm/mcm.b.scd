@@ -1,148 +1,6 @@
 path /home/radar2/rst/usr/bin
 default normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
 
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 08 01 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 08 01 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 08 03 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 08 03 12 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 08 04 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 08 04 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 08 06 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 08 06 12 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 08 07 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 08 07 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 08 08 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 08 08 12 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 08 09 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 08 09 12 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 08 10 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 08 10 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -di -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 08 11 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 08 11 12 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -di -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 08 12 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 08 12 12 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -di -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 08 13 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 08 13 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -di -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 08 14 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 08 14 12 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -di -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 08 15 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 08 15 12 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -di -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 08 19 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 08 19 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -di -fast -df 12550 -nf 12550 -c 2
-2013 08 20 18 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 08 21 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 08 21 12 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 08 22 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 08 22 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 08 24 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 08 24 12 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 08 25 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 08 25 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 08 27 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 08 27 12 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 08 28 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 08 28 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 08 30 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 08 30 12 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 08 31 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 08 31 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-
-path /home/radar2/rst/usr/bin
-default normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-
-2013 09 01 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 09 01 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 09 01 12 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 09 02 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 09 02 12 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 09 03 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 09 03 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 09 04 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 09 04 12 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 09 05 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 09 05 12 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 09 06 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 09 06 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -di -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 09 08 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 09 08 12 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -di -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 09 09 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 09 09 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -di -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 09 15 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 09 15 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -di -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 09 16 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 09 16 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 09 18 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 09 18 12 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 09 19 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 09 19 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 09 20 18 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 09 21 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 09 21 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 09 21 12 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 09 22 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 09 22 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 09 23 18 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 09 24 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 09 24 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 09 24 12 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 09 25 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 09 25 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 09 26 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 09 26 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 09 27 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 09 27 12 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 09 28 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 09 28 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 09 29 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 09 29 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2013 09 30 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-2013 09 30 12 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
-
 2013 12 01 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -di -fast -df 12550 -nf 12550 -c 2
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2013 12 01 18 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
@@ -214,3 +72,73 @@ default normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 1
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2013 12 31 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
 2013 12 31 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
+2014 01 01 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 01 01 18 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
+2014 01 02 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
+2014 01 03 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 01 03 18 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
+2014 01 04 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 01 04 18 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
+2014 01 05 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 01 05 12 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
+2014 01 05 18 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 01 06 18 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
+2014 01 07 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 01 07 18 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
+2014 01 08 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 01 09 18 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
+2014 01 10 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 01 10 18 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
+2014 01 11 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 01 11 12 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
+2014 01 11 18 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -di -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 01 12 18 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 01 13 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
+2014 01 13 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -di -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 01 14 12 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
+2014 01 14 18 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -di -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 01 15 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
+2014 01 15 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -di -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 01 18 18 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
+2014 01 19 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -di -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 01 19 18 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
+2014 01 20 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -di -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 01 20 12 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
+2014 01 20 18 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -di -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 01 21 18 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
+2014 01 22 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -di -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 01 22 18 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
+2014 01 23 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 01 24 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
+2014 01 24 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 01 27 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
+2014 01 27 06 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 01 28 18 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
+2014 01 29 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 01 29 18 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
+2014 01 30 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 01 30 18 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
+2014 01 31 00 00   normalscan -stid mcm -ep 42000 -sp 42001 -bp 42100 -fast -df 12550 -nf 12550 -c 2
