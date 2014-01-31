@@ -1,4 +1,4 @@
-path /home/radar2/rst/usr/bin
+path /home/radar/rst/usr/bin
 default normalscan -stid mcm -ep 41000 -sp 41001 -bp 41100 -fast -df 10750 -nf 10750 -c 1
 
 2014 01 01 00 00   normalscan -stid mcm -ep 41000 -sp 41001 -bp 41100 -fast -df 10750 -nf 10750 -c 1
