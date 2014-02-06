@@ -78,7 +78,7 @@ default normalscan -stid mcm -ep 41000 -sp 41001 -bp 41100 -fast -df 10750 -nf 1
 2014 02 05 00 00   normalsound -stid mcm -ep 41000 -sp 41001 -bp 41100 -di -fast -df 10750 -nf 10750 -c 1
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2014 02 07 18 00   normalscan -stid mcm -ep 41000 -sp 41001 -bp 41100 -fast -df 10750 -nf 10750 -c 1
-2014 02 08 00 00   normalscan -stid mcm -ep 41000 -sp 41001 -bp 41100 -di -fast -df 10750 -nf 10750 -c 1
+2014 02 08 00 00   normalsound -stid mcm -ep 41000 -sp 41001 -bp 41100 -di -fast -df 10750 -nf 10750 -c 1
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2014 02 09 18 00   normalscan -stid mcm -ep 41000 -sp 41001 -bp 41100 -fast -df 10750 -nf 10750 -c 1
 2014 02 10 00 00   normalscan -stid mcm -ep 41000 -sp 41001 -bp 41100 -di -fast -df 10750 -nf 10750 -c 1
