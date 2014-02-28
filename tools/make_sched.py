@@ -21,7 +21,7 @@ parser.add_argument('-v', '--verbose',default=False,action='store_true')
 parser.add_argument('-y', '--year',type=int)
 parser.add_argument('-d', '--dsched',default=None,help="Discretionary schedule file")
 parser.add_argument('-x', '--ext',default="scd",help="File extention default: scd")
-parser.add_argument('-r', '--radar',default=default_radar,help="Radarname default: kod")
+parser.add_argument('-r', '--radar',default=default_radar,help="Formatted as  stid.chan.  Leave off the \".chan\" for not-multichannel aware radars. Radarname default: %s" % (default_radar))
 parser.add_argument('schedule_file', type=argparse.FileType('r'),help="SuperDARN input schedule text files")
 opts=parser.parse_args()
 if opts.radar not in radars:
@@ -47,9 +47,19 @@ except: pass
 try:
   if int(date_string[1]) >= datetime.datetime.now().year :
     year=int(date_string[1])
+    opts.year=year
+  else:
+    year=int(date_string[1])
 except: pass
+print opts.year, year
+
 if opts.month is not None: month=opts.month
 if opts.year is not None: year=opts.year
+if opts.year !=year:
+  print "This appears to be an old schedule file from year: %s" % (date_string[1])
+  print "You must specify the year as a commandline argument to confirm intent to use this file"
+  sys.exit(0)
+print year,month
 begin=datetime.datetime(year=year,month=month,day=1,hour=0,minute=0)
 if month < 12:
   end=datetime.datetime(year=year,month=month+1,day=1,hour=0,minute=0)
@@ -109,6 +119,12 @@ cp+=" "+radars[opts.radar]["required_pre_args"]
 cp+=" "+radars[opts.radar]["modes"]["default"]["args"]
 cp+=" "+radars[opts.radar]["required_post_args"]
 f.write("default %s\n" % cp)
+if "stationid" in radars[opts.radar]:
+  f.write("stationid %s\n" % radars[opts.radar]["stationid"])
+if "sitelib" in radars[opts.radar]:
+  f.write("sitelib %s\n" % radars[opts.radar]["sitelib"])
+if "channel" in radars[opts.radar]:
+  f.write("channel %s\n" % radars[opts.radar]["channel"])
 if "priority" in radars[opts.radar]["modes"]["default"]:
   default_priority=radars[opts.radar]["modes"]["default"]["priority"]
   has_default_priority=True

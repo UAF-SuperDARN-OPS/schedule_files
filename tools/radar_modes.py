@@ -6,27 +6,32 @@ default_radar='tst'
 #Radars is a nested dictionary of known radars and the settings
 radars={'kod':{},"kod.a": {}, "kod.b":{},"kod.c":{},"kod.d":{},
         "mcm":{},"mcm.a":{},"mcm.b":{},
-        "ade.a":{},"ade.b":{},
+        "ade":{},"ade.a":{},"ade.b":{},
         "sps":{},"sps.a":{},"sps.b":{},
-        "adw.a":{},"adw.b":{},
-        "fhe":{},"fhw":{}, "cve":{},"cvw":{}, "ksr": {}}
+        "adw":{},"adw.a":{},"adw.b":{},
+        "fhe":{},
+        "fhw":{}, 
+        "cve":{},
+        "cvw":{}, 
+        "ksr":{},
+       }
 
 #Required controlprogram arguments which must be first in the argument list
-radars['kod']["required_pre_args"]  ="-stid kod -ep 40000 -sp 40001 -bp 40100"
-radars['kod.a']["required_pre_args"]="-stid kod -ep 41000 -sp 41001 -bp 41100"
-radars['kod.b']["required_pre_args"]="-stid kod -ep 42000 -sp 42001 -bp 42100"
-radars['kod.c']["required_pre_args"]="-stid kod -ep 43000 -sp 43001 -bp 43100"
-radars['kod.d']["required_pre_args"]="-stid kod -ep 44000 -sp 44001 -bp 44100"
+radars['kod']["required_pre_args"]  ="-stid kod -xcf 1"
+radars['kod.a']["required_pre_args"]="-stid kod -xcf 1"
+radars['kod.b']["required_pre_args"]="-stid kod -xcf 1"
+radars['kod.c']["required_pre_args"]="-stid kod -xcf 1"
+radars['kod.d']["required_pre_args"]="-stid kod -xcf 1"
 radars['mcm']["required_pre_args"]  ="-stid mcm -ep 44000 -sp 44001 -bp 44100"
 radars['mcm.a']["required_pre_args"]="-stid mcm -ep 41000 -sp 41001 -bp 41100"
 radars['mcm.b']["required_pre_args"]="-stid mcm -ep 42000 -sp 42001 -bp 42100"
 radars['sps']["required_pre_args"]  ="-stid sps -ep 41000 -sp 41001 -bp 41100"
 radars['sps.a']["required_pre_args"]  ="-stid sps -ep 41000 -sp 41001 -bp 41100"
 radars['sps.b']["required_pre_args"]  ="-stid sps -ep 42000 -sp 42001 -bp 42100"
-radars['ade.a']["required_pre_args"]="-stid ade -ep 41000 -sp 41001 -bp 41100"
-radars['ade.b']["required_pre_args"]="-stid ade -ep 42000 -sp 42001 -bp 42100"
-radars['adw.a']["required_pre_args"]="-stid adw -ep 51000 -sp 51001 -bp 51100"
-radars['adw.b']["required_pre_args"]="-stid adw -ep 52000 -sp 52001 -bp 52100"
+radars['ade.a']["required_pre_args"]="-stid ade -ep 41000 -sp 41001 -bp 41100 -xcf 1"
+radars['ade.b']["required_pre_args"]="-stid ade -ep 42000 -sp 42001 -bp 42100 -xcf 1"
+radars['adw.a']["required_pre_args"]="-stid adw -ep 51000 -sp 51001 -bp 51100 -xcf 1"
+radars['adw.b']["required_pre_args"]="-stid adw -ep 52000 -sp 52001 -bp 52100 -xcf 1"
 radars['ksr']["required_pre_args"]  ="-stid ksr -ep 41000 -sp 41001 -bp 41100"
 radars['fhe']["required_pre_args"]  ="-stid fhe -ep 44000 -sp 44001 -bp 44100"
 radars['fhw']["required_pre_args"]  ="-stid fhw -ep 44000 -sp 44001 -bp 44100"
@@ -76,6 +81,42 @@ radars['cve']["path"]="/home/radar2/rst/usr/bin"
 radars['fhe']["path"]="/home/radar2/rst/usr/bin"
 radars['fhw']["path"]="/home/radar2/rst/usr/bin"
 radars['ksr']["path"]="/home/radar/rst/usr/bin"
+#Stationid
+radars['ade']["stationid"]="ade"
+radars['ade.a']["stationid"]="ade"
+radars['ade.b']["stationid"]="ade"
+radars['adw']["stationid"]="adw"
+radars['adw.a']["stationid"]="adw"
+radars['adw.b']["stationid"]="adw"
+radars['kod']["stationid"]="kod"
+radars['kod.a']["stationid"]="kod"
+radars['kod.b']["stationid"]="kod"
+radars['kod.c']["stationid"]="kod"
+radars['kod.d']["stationid"]="kod"
+#Channel
+radars['ade']["channel"]="a"
+radars['ade.a']["channel"]="a"
+radars['ade.b']["channel"]="b"
+radars['adw']["channel"]="a"
+radars['adw.a']["channel"]="a"
+radars['adw.b']["channel"]="b"
+radars['kod']["channel"]="a"
+radars['kod.a']["channel"]="a"
+radars['kod.b']["channel"]="b"
+radars['kod.c']["channel"]="c"
+radars['kod.d']["channel"]="d"
+#sitelib
+radars['ade']["sitelib"]="ros"
+radars['ade.a']["sitelib"]="ros"
+radars['ade.b']["sitelib"]="ros"
+radars['adw']["sitelib"]="ros"
+radars['adw.a']["sitelib"]="ros"
+radars['adw.b']["sitelib"]="ros"
+radars['kod']["sitelib"]="ros"
+radars['kod.a']["sitelib"]="ros"
+radars['kod.b']["sitelib"]="ros"
+radars['kod.c']["sitelib"]="ros"
+radars['kod.d']["sitelib"]="ros"
 
 #Schedule modes mapped to Controlprograms 
 radars['kod']["modes"]={}
@@ -94,9 +135,9 @@ radars['kod']["modes"]['Special:ST-APOG']["altargs"]="-df 10400 -nf 10400 -fast"
 
 radars['kod.a']["modes"]={}
 radars['kod.a']["modes"]['default']={"controlprogram":"normalscan","args":"-fast -df 10400 -nf 10400"}
-radars['kod.a']["modes"]['Discretionary']={"controlprogram":"normalsound","args":"-di -fast -df 10400 -nf 10400 -rank 4"}
-radars['kod.a']["modes"]['Common']={"controlprogram":"normalsound","args":"-df 10400 -nf 10400 -rank 4"}
-radars['kod.a']["modes"]['Common:1-min']={"controlprogram":"normalsound","args":"-fast -df 10400 -nf 10400 -rank 4"}
+radars['kod.a']["modes"]['Discretionary']={"controlprogram":"normalsound","args":"-di -fast -df 10400 -nf 10400"}
+radars['kod.a']["modes"]['Common']={"controlprogram":"normalsound","args":"-df 10400 -nf 10400"}
+radars['kod.a']["modes"]['Common:1-min']={"controlprogram":"normalsound","args":"-fast -df 10400 -nf 10400"}
 radars['kod.a']["modes"]['Common:THEMIS']={"controlprogram":"themisscan","args":"-df 10400 -nf 10400"}
 radars['kod.a']["modes"]['Special:THEMIS']={"controlprogram":"themisscan","args":"-df 10400 -nf 10400"}
 radars['kod.a']["modes"]['Common:no switching']={"controlprogram":"normalscan","args":"-df 10400 -nf 10400"}
@@ -104,9 +145,9 @@ radars['kod.a']["modes"]['Common:1-min:no switching']={"controlprogram":"normals
 
 radars['kod.b']["modes"]={}
 radars['kod.b']["modes"]['default']={"controlprogram":"normalscan","args":"-fast -df 10400 -nf 10400"}
-radars['kod.b']["modes"]['Discretionary']={"controlprogram":"normalsound","args":"-di -fast -df 10400 -nf 10400 -rank 3"}
-radars['kod.b']["modes"]['Common']={"controlprogram":"normalsound","args":"-df 10400 -nf 10400 -rank 3"}
-radars['kod.b']["modes"]['Common:1-min']={"controlprogram":"normalsound","args":"-fast -df 10400 -nf 10400 -rank -3"}
+radars['kod.b']["modes"]['Discretionary']={"controlprogram":"normalsound","args":"-di -fast -df 10400 -nf 10400"}
+radars['kod.b']["modes"]['Common']={"controlprogram":"normalsound","args":"-df 10400 -nf 10400"}
+radars['kod.b']["modes"]['Common:1-min']={"controlprogram":"normalsound","args":"-fast -df 10400 -nf 10400"}
 radars['kod.b']["modes"]['Common:THEMIS']={"controlprogram":"themisscan","args":"-df 10400 -nf 10400"}
 radars['kod.b']["modes"]['Special:THEMIS']={"controlprogram":"themisscan","args":"-df 10400 -nf 10400"}
 radars['kod.b']["modes"]['Common:no switching']={"controlprogram":"normalscan","args":"-df 10400 -nf 10400"}
@@ -129,9 +170,9 @@ radars['kod.c']["modes"]['Special:ST-APOG']["altargs"]="-sb 3 -eb 3 -fast -df 10
 
 radars['kod.d']["modes"]={}
 radars['kod.d']["modes"]['default']={"controlprogram":"normalscan","args":"-fast -df 10400 -nf 10400"}
-radars['kod.d']["modes"]['Discretionary']={"controlprogram":"normalsound","args":"-di -fast -df 10400 -nf 10400 -rank 1"}
-radars['kod.d']["modes"]['Common']={"controlprogram":"normalsound","args":"-df 10400 -nf 10400 -rank 1"}
-radars['kod.d']["modes"]['Common:1-min']={"controlprogram":"normalsound","args":"-fast -df 10400 -nf 10400 -rank 1"}
+radars['kod.d']["modes"]['Discretionary']={"controlprogram":"normalsound","args":"-di -fast -df 10400 -nf 10400"}
+radars['kod.d']["modes"]['Common']={"controlprogram":"normalsound","args":"-df 10400 -nf 10400"}
+radars['kod.d']["modes"]['Common:1-min']={"controlprogram":"normalsound","args":"-fast -df 10400 -nf 10400"}
 radars['kod.d']["modes"]['Common:THEMIS']={"controlprogram":"themisscan","args":"-df 10400 -nf 10400"}
 radars['kod.d']["modes"]['Special:THEMIS']={"controlprogram":"themisscan","args":"-df 10400 -nf 10400"}
 radars['kod.d']["modes"]['Common:no switching']={"controlprogram":"normalscan","args":"-df 10400 -nf 10400"}
@@ -140,7 +181,7 @@ radars['kod.d']["modes"]['Special:ST-APOG']={"controlprogram":"rbspscan","args":
 #radars['kod.d']["modes"]['Special:ST-APOG']={"controlprogram":"normalscan","args": "-df 10750 -nf 10750 -fast","priority":"1","duration": "a"}
 # Alternative program if radar not participating in Special program 
 radars['kod.d']["modes"]['Special:ST-APOG']["altprogram"]="normalsound"
-radars['kod.d']["modes"]['Special:ST-APOG']["altargs"]="-fast -df 10400 -nf 10400 -rank 1"
+radars['kod.d']["modes"]['Special:ST-APOG']["altargs"]="-fast -df 10400 -nf 10400"
 
 radars['mcm.a']["modes"]={}
 radars['mcm.a']["modes"]['default']={"controlprogram":"normalscan","args":"-fast -df 10750 -nf 10750"}
