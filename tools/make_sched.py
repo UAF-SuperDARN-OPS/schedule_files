@@ -119,6 +119,12 @@ cp+=" "+radars[opts.radar]["required_pre_args"]
 cp+=" "+radars[opts.radar]["modes"]["default"]["args"]
 cp+=" "+radars[opts.radar]["required_post_args"]
 f.write("default %s\n" % cp)
+if "stationid" in radars[opts.radar]:
+  f.write("stationid %s\n" % radars[opts.radar]["stationid"])
+if "sitelib" in radars[opts.radar]:
+  f.write("sitelib %s\n" % radars[opts.radar]["sitelib"])
+if "channel" in radars[opts.radar]:
+  f.write("channel %s\n" % radars[opts.radar]["channel"])
 if "priority" in radars[opts.radar]["modes"]["default"]:
   default_priority=radars[opts.radar]["modes"]["default"]["priority"]
   has_default_priority=True
