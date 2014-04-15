@@ -29,3 +29,10 @@ priority 5
 2014 4  25 0 0 1440 10 pcodescan_15km -stid kod -ep 44000 -sp 44001 -bp 44100 -di -fast -df 12100 -nf 12100 -xcf 1 -c 4
 2014 4  26 0 0 1440 10 pcodescan_15km -stid kod -ep 44000 -sp 44001 -bp 44100 -di -fast -df 12100 -nf 12100 -xcf 1 -c 4
 2014 4  27 0 0 1440 10 pcodescan_15km -stid kod -ep 44000 -sp 44001 -bp 44100 -di -fast -df 12100 -nf 12100 -xcf 1 -c 4
+
+# Modes to support Gennady Milkh
+2014 04 16 21 25   25   20 pcodescan_15km  -stid kod -ep 44000 -sp 44001 -bp 44100 -di -df 12100 -nf 12100 -fast -xcf 1 -c 4
+2014 04 17 21 20   25   20 pcodescan_15km  -stid kod -ep 44000 -sp 44001 -bp 44100 -di -df 12100 -nf 12100 -fast -xcf 1 -c 4
+2014 04 18 21 15   25   20 pcodescan_15km  -stid kod -ep 44000 -sp 44001 -bp 44100 -di -df 12100 -nf 12100 -fast -xcf 1 -c 4
+2014 04 19 21 15   25   20 pcodescan_15km  -stid kod -ep 44000 -sp 44001 -bp 44100 -di -df 12100 -nf 12100 -fast -xcf 1 -c 4
+
