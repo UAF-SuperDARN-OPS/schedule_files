@@ -27,6 +27,10 @@ priority 5
 2014 04 25 00 00   1440 10 pcodecamp_bm9_15km  -stid kod -ep 43000 -sp 43001 -bp 43100 -di -df 13400 -nf 13400 -fast -xcf 1 -c 3
 2014 04 26 00 00   1440 10 pcodecamp_bm9_15km  -stid kod -ep 43000 -sp 43001 -bp 43100 -di -df 13400 -nf 13400 -fast -xcf 1 -c 3
 2014 04 27 00 00   1440 10 pcodecamp_bm9_15km  -stid kod -ep 43000 -sp 43001 -bp 43100 -di -df 13400 -nf 13400 -fast -xcf 1 -c 3
+2014 04 28 00 00   1440 10 pcodecamp_bm9_15km  -stid kod -ep 43000 -sp 43001 -bp 43100 -di -df 13400 -nf 13400 -fast -xcf 1 -c 3
+2014 04 29 00 00   1440 10 pcodecamp_bm9_15km  -stid kod -ep 43000 -sp 43001 -bp 43100 -di -df 13400 -nf 13400 -fast -xcf 1 -c 3
+2014 04 30 00 00   1440 10 pcodecamp_bm9_15km  -stid kod -ep 43000 -sp 43001 -bp 43100 -di -df 13400 -nf 13400 -fast -xcf 1 -c 3
+2014 05 01 00 00    480 10 pcodecamp_bm9_15km  -stid kod -ep 43000 -sp 43001 -bp 43100 -di -df 13400 -nf 13400 -fast -xcf 1 -c 3
 
 # Test mode for onesec camp:: duration: 30 minutes  priority: 20  :: clearsearch every 10 seconds
 2014 04 16 17 00   30   20 pcodecamp_bm9_15km  -stid kod -ep 43000 -sp 43001 -bp 43100 -di -df 13400 -nf 13400 -onesec -xcf 1 -c 3

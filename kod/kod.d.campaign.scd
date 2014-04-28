@@ -30,6 +30,9 @@ priority 5
 2014 4  26 0 0 1440 10 pcodescan_15km -stid kod -ep 44000 -sp 44001 -bp 44100 -di -fast -df 12100 -nf 12100 -xcf 1 -c 4
 2014 4  27 0 0 1440 10 pcodescan_15km -stid kod -ep 44000 -sp 44001 -bp 44100 -di -fast -df 12100 -nf 12100 -xcf 1 -c 4
 2014 4  28 0 0 1440 10 pcodescan_15km -stid kod -ep 44000 -sp 44001 -bp 44100 -di -fast -df 12100 -nf 12100 -xcf 1 -c 4
+2014 4  29 0 0 1440 10 pcodescan_15km -stid kod -ep 44000 -sp 44001 -bp 44100 -di -fast -df 12100 -nf 12100 -xcf 1 -c 4
+2014 4  30 0 0 1440 10 pcodescan_15km -stid kod -ep 44000 -sp 44001 -bp 44100 -di -fast -df 12100 -nf 12100 -xcf 1 -c 4
+2014 5  01 0 0  480 10 pcodescan_15km -stid kod -ep 44000 -sp 44001 -bp 44100 -di -fast -df 12100 -nf 12100 -xcf 1 -c 4
 
 # Modes to support Bristow
 # Disable scanning and only run onesec camping beam on chann C
