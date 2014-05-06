@@ -44,6 +44,8 @@ priority 5
 2014 04 24 02 00   90   20 pcodecamp_bm9_15km  -stid kod -ep 43000 -sp 43001 -bp 43100 -di -df 13400 -nf 13400 -onesec -xcf 1 -c 3
 2014 04 25 00 00   180   20 pcodecamp_bm9_15km  -stid kod -ep 43000 -sp 43001 -bp 43100 -di -df 13400 -nf 13400 -onesec -xcf 1 -c 3
 2014 04 28 00 30   140   20 pcodecamp_bm9_15km  -stid kod -ep 43000 -sp 43001 -bp 43100 -di -df 13400 -nf 13400 -onesec -xcf 1 -c 3
+2014 04 29 00 30   140   20 pcodecamp_bm9_15km  -stid kod -ep 43000 -sp 43001 -bp 43100 -di -df 13400 -nf 13400 -onesec -xcf 1 -c 3
+2014 04 30 00 30   140   20 pcodecamp_bm9_15km  -stid kod -ep 43000 -sp 43001 -bp 43100 -di -df 13400 -nf 13400 -onesec -xcf 1 -c 3
 
 # Modes to support Paul Bernhardt (onesec)
 2014 04 19 23 50 10 15 pcodecamp_bm9_15km  -stid kod -ep 43000 -sp 43001 -bp 43100 -di -df 13400 -nf 13400 -onesec -xcf 1 -c 3
@@ -54,6 +56,9 @@ priority 5
 2014 04 22 01 10 60 12 pcodecamp_bm9_15km  -stid kod -ep 43000 -sp 43001 -bp 43100 -di -df 11400 -nf 11400 -onesec -xcf 1 -c 3
 2014 04 22 06 50 70 12 pcodecamp_bm9_15km  -stid kod -ep 43000 -sp 43001 -bp 43100 -di -df 11400 -nf 11400 -onesec -xcf 1 -c 3
 2014 04 23 00 00 90 12 pcodecamp_bm9_15km  -stid kod -ep 43000 -sp 43001 -bp 43100 -di -df 13400 -nf 13400 -onesec -xcf 1 -c 3
+2014 04 29 07 30 90 12 pcodecamp_bm9_15km  -stid kod -ep 43000 -sp 43001 -bp 43100 -di -df 13400 -nf 13400 -onesec -xcf 1 -c 3
+2014 04 30 07 40 80 12 pcodecamp_bm9_15km  -stid kod -ep 43000 -sp 43001 -bp 43100 -di -df 13400 -nf 13400 -onesec -xcf 1 -c 3
+
 # Modes to support Gennady Milkh
 2014 04 16 21 25   25   20 pcodecamp_bm9_15km  -stid kod -ep 43000 -sp 43001 -bp 43100 -di -df 13400 -nf 13400 -onesec -xcf 1 -c 3
 2014 04 17 21 20   25   20 pcodecamp_bm9_15km  -stid kod -ep 43000 -sp 43001 -bp 43100 -di -df 13400 -nf 13400 -onesec -xcf 1 -c 3
