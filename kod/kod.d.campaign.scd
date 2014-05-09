@@ -15,11 +15,14 @@ priority 5
 
 ## Useful example mode line
 ##Priority 0 noop example 120 minute duration: this will turn this channel off for the duration specified if nothing higher priority is scheduled
-#2014 4  02 18 0 120 0 noopscan  --stid kod -c 4 
+#2014 4  02 18 0 120 0 noopscan  -stid kod -c 4 
 ##Priority 99 noop example 120 minute duration: this will turn this channel off for the duration specified even if lower priority things are running 
-#2014 4  02 18 0 120 99 noopscan  --stid kod -c 4 
+#2014 4  02 18 0 120 99 noopscan  -stid kod -c 4 
 ##Onesec scanning example duration 10 minutes priority 11:
 #2014 4  19 23 50 10 11 pcodescan_15km -stid kod -ep 44000 -sp 44001 -bp 44100 -di -onesec -df 13400 -nf 13400 -xcf 1 -c 4
+
+## Timscan on Chan B: incompatible with normal SuperDARN operations, use high priority noopscan 
+2014  5 17 13 00  1 99 noopscan  -stid kod -c 4
 
 ## Brioche campaign priority 10: 15 km scan across all beams
 2014 5  25 0 0 1440 10 pcodescan_15km -stid kod -ep 44000 -sp 44001 -bp 44100 -di -fast -df 12100 -nf 12100 -xcf 1 -c 4
