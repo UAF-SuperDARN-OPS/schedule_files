@@ -22,7 +22,7 @@ priority 5
 #2014 4  19 23 50 10 11 pcodecamp_bm9_15km -stid kod -ep 43000 -sp 43001 -bp 43100 -di -onesec -df 13400 -nf 13400 -xcf 1 -c 3
 #
 ## Timscan on Chan B: incompatible with normal SuperDARN operations, use high priority noopscan 
-2014  5 11 20 50  1 99 noopscan  -stid kod -c 3
+2014  5 11 21 30  1 99 noopscan  -stid kod -c 3
 2014  5 17 13 00  1 99 noopscan  -stid kod -c 3
 
 

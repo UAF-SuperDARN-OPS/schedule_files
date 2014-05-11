@@ -13,5 +13,5 @@ duration 0
 priority 5
 
 # One minute duration priority 10
-2014 05 11 20 50  1 10  timscan 
+2014 05 11 21 30  1 10  timscan 
 2014 05 17 13 00  1 10  timscan 
