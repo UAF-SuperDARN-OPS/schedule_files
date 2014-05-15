@@ -15,12 +15,17 @@ priority 5
 # Columns:
 # year month day hour minute  duration_in_mins   priority   command   command_args
 
+
+# One minute duration priority 10
+2014 05 11 21 30  1 10  timscan 
 # Two minute duration priority 10
 2014 05 12 00 10  2 10  timscan --mppul 15  
 2014 05 12 01 10  2 10  timscan --mppul 15  
+# Di time request: 2 minute camp mode
+2014 05 17 12 00  2 10  timscan --sb 2 --eb 2   --df 10750 --nf 10750 --onesec --clrskip 60
+2014 05 17 12 10  2 10  timscan --sb 3 --eb 3   --df 10750 --nf 10750 --onesec --clrskip 60
+2014 05 17 12 20  2 10  timscan --sb 4 --eb 4   --df 10750 --nf 10750 --onesec --clrskip 60
 
-# May 17th Di period: 5 minute duration priority 10
-#  --fast  1 minute scan periods  ~ 3.5 sec per beam
-#  --clrskip 0  ensures clrsearch happens ahead over every beam integration period
-#  --clrskip 10 , minimum of 10 seconds between clrsearch
-2014 05 17 13 00  5 10  timscan --mppul 15 --df 10750 --nf 10750 --clrskip 0
+2014 05 17 13 00  2 10  timscan --sb 2 --eb 2   --df 10750 --nf 10750 --onesec --clrskip 60
+2014 05 17 13 10  2 10  timscan --sb 3 --eb 3   --df 10750 --nf 10750 --onesec --clrskip 60
+2014 05 17 13 20  2 10  timscan --sb 4 --eb 4   --df 10750 --nf 10750 --onesec --clrskip 60
