@@ -25,7 +25,6 @@ priority 5
 ## Timscan on Chan B: incompatible with normal SuperDARN operations, use high priority noopscan 
 2014  5 12 00 10  2 99 noopscan  -stid kod -c 3
 2014  5 12 01 10  2 99 noopscan  -stid kod -c 3
-2014  5 17 13 00  5 99 noopscan  -stid kod -c 3
 
 2014 05 17 12 00  2 99 noopscan  -stid kod -c 3 
 2014 05 17 12 10  2 99 noopscan  -stid kod -c 3
