@@ -22,10 +22,10 @@ priority 5
 2014 05 12 00 10  2 10  timscan --mppul 15  
 2014 05 12 01 10  2 10  timscan --mppul 15  
 # Di time request: 2 minute camp mode
-2014 05 17 12 00  2 10  timscan --sb 2 --eb 2   --df 10750 --nf 10750 --onesec --clrskip 60
-2014 05 17 12 10  2 10  timscan --sb 3 --eb 3   --df 10750 --nf 10750 --onesec --clrskip 60
-2014 05 17 12 20  2 10  timscan --sb 4 --eb 4   --df 10750 --nf 10750 --onesec --clrskip 60
+2014 05 17 12 00  2 10  timscan --sb 2 --eb 2 --mppul 15  --df 10750 --nf 10750 --onesec --clrskip 60
+2014 05 17 12 10  2 10  timscan --sb 3 --eb 3 --mppul 15  --df 10750 --nf 10750 --onesec --clrskip 60
+2014 05 17 12 20  2 10  timscan --sb 4 --eb 4 --mppul 15  --df 10750 --nf 10750 --onesec --clrskip 60
 
-2014 05 17 13 00  2 10  timscan --sb 2 --eb 2   --df 10750 --nf 10750 --onesec --clrskip 60
-2014 05 17 13 10  2 10  timscan --sb 3 --eb 3   --df 10750 --nf 10750 --onesec --clrskip 60
-2014 05 17 13 20  2 10  timscan --sb 4 --eb 4   --df 10750 --nf 10750 --onesec --clrskip 60
+2014 05 17 13 00  2 10  timscan --sb 2 --eb 2 --mppul 15  --df 10750 --nf 10750 --onesec --clrskip 60
+2014 05 17 13 10  2 10  timscan --sb 3 --eb 3 --mppul 15  --df 10750 --nf 10750 --onesec --clrskip 60
+2014 05 17 13 20  2 10  timscan --sb 4 --eb 4 --mppul 15  --df 10750 --nf 10750 --onesec --clrskip 60
