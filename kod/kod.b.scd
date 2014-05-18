@@ -30,4 +30,10 @@ priority 5
 2014 05 17 13 10  2 10  timscan --sb 3 --eb 3 --mppul 15  --df 10750 --nf 10750 --clrskip 60
 2014 05 17 13 20  2 10  timscan --sb 4 --eb 4 --mppul 15  --df 10750 --nf 10750 --clrskip 60
 
+2014 05 18 02 00  2 10  timscan --sb 2 --eb 2 --mppul 15  --df 10750 --nf 10750 --clrskip 60
+2014 05 18 02 10  2 10  timscan --sb 3 --eb 3 --mppul 15  --df 10750 --nf 10750 --clrskip 60
+2014 05 18 02 20  2 10  timscan --sb 4 --eb 4 --mppul 15  --df 10750 --nf 10750 --clrskip 60
 
+2014 05 18 03 00  2 10  timscan --sb 2 --eb 2 --mppul 15  --df 10750 --nf 10750 --clrskip 60
+2014 05 18 03 10  2 10  timscan --sb 3 --eb 3 --mppul 15  --df 10750 --nf 10750 --clrskip 60
+2014 05 18 03 20  2 10  timscan --sb 4 --eb 4 --mppul 15  --df 10750 --nf 10750 --clrskip 60

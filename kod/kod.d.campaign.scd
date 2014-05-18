@@ -33,7 +33,13 @@ priority 5
 2014 05 17 13 10  2 99 noopscan  -stid kod -c 4
 2014 05 17 13 20  2 99 noopscan  -stid kod -c 4
 
+2014 05 18 02 00  2 99 noopscan  -stid kod -c 4
+2014 05 18 02 10  2 99 noopscan  -stid kod -c 4
+2014 05 18 02 20  2 99 noopscan  -stid kod -c 4
 
+2014 05 18 03 00  2 99 noopscan  -stid kod -c 4
+2014 05 18 03 10  2 99 noopscan  -stid kod -c 4
+2014 05 18 03 20  2 99 noopscan  -stid kod -c 4
 ## Brioche campaign priority 10: 15 km scan across all beams
 2014 5  25 0 0 1440 10 pcodescan_15km -stid kod -ep 44000 -sp 44001 -bp 44100 -di -fast -df 12100 -nf 12100 -xcf 1 -c 4
 2014 5  26 0 0 1440 10 pcodescan_15km -stid kod -ep 44000 -sp 44001 -bp 44100 -di -fast -df 12100 -nf 12100 -xcf 1 -c 4

@@ -34,6 +34,13 @@ priority 5
 2014 05 17 13 10  2 99 noopscan  -stid kod -c 3
 2014 05 17 13 20  2 99 noopscan  -stid kod -c 3
 
+2014 05 18 02 00  2 99 noopscan  -stid kod -c 3
+2014 05 18 02 10  2 99 noopscan  -stid kod -c 3
+2014 05 18 02 20  2 99 noopscan  -stid kod -c 3
+
+2014 05 18 03 00  2 99 noopscan  -stid kod -c 3
+2014 05 18 03 10  2 99 noopscan  -stid kod -c 3
+2014 05 18 03 20  2 99 noopscan  -stid kod -c 3
 
 ## Brioche campaign priority 10: 15 km bm9 camping
 2014 05 25 00 00   1440 10 pcodecamp_bm9_15km  -stid kod -ep 43000 -sp 43001 -bp 43100 -di -df 13400 -nf 13400 -fast -xcf 1 -c 3
