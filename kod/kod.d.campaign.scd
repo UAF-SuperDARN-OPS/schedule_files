@@ -58,6 +58,13 @@ priority 5
 2014 6   8 0 0 1440 10 pcodescan_15km -stid kod -ep 44000 -sp 44001 -bp 44100 -di -fast -df 12100 -nf 12100 -xcf 1 -c 4
 2014 6   9 0 0 1440 10 pcodescan_15km -stid kod -ep 44000 -sp 44001 -bp 44100 -di -fast -df 12100 -nf 12100 -xcf 1 -c 4
 
+## Fixed frequency during BRN time to support transponder experiments
+2014 5  27 0 0 60 12 pcodescan_15km -stid kod -ep 44000 -sp 44001 -bp 44100 -di -fast -df 12100 -nf 12100 -xcf 1 -c 4 -fixfrq 12100
+2014 5  28 2 35 120 12 pcodescan_15km -stid kod -ep 44000 -sp 44001 -bp 44100 -di -fast -df 12100 -nf 12100 -xcf 1 -c 4 -fixfrq 12100
+2014 5  29 3 45 60 12 pcodescan_15km -stid kod -ep 44000 -sp 44001 -bp 44100 -di -fast -df 12100 -nf 12100 -xcf 1 -c 4 -fixfrq 12100
+2014 5  30 2 30 70 12 pcodescan_15km -stid kod -ep 44000 -sp 44001 -bp 44100 -di -fast -df 12100 -nf 12100 -xcf 1 -c 4 -fixfrq 12100
+2014 5  31 1  5 55 12 pcodescan_15km -stid kod -ep 44000 -sp 44001 -bp 44100 -di -fast -df 12100 -nf 12100 -xcf 1 -c 4 -fixfrq 12100
+2014 5  31 23 45 55 12 pcodescan_15km -stid kod -ep 44000 -sp 44001 -bp 44100 -di -fast -df 12100 -nf 12100 -xcf 1 -c 4 -fixfrq 12100
 ## Place modes to support individual experiments inside Brioche below:
 ## Use priority higher than 10 to ensure break-in over Brioche campaign mode.
 ## Might want to use same priority for all experiment specific modes to 
