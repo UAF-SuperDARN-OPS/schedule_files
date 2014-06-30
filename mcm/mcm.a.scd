@@ -27,10 +27,15 @@ channel a
 2014 05 06 18 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
 2014 05 07 00 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
+
 2014 05 07 12 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
+#2014 05 07 16 00   uafscan --stid mcm -c 1 --onesec --sb 10 --eb 10 --cp 9930 --df 10750 --nf 10750 
 2014 05 07 18 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
+2014 05 07 22 00   uafscan --stid mcm -c 1 --fast --sb 10 --eb 10 --cp 9930 --df 12550 --nf 12550 
+2014 05 08 00 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2014 05 08 14 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
+#2014 05 08 17 00   uafscan --stid mcm -c 1 --onesec --clrskip 30 --nowait --cp 9940 --df 10750 --nf 10750 
 2014 05 08 20 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2014 05 09 18 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
