@@ -60,6 +60,7 @@ priority 5
 2014 06  8 00 00   1440 10 pcodecamp_bm9_15km  -stid kod -ep 43000 -sp 43001 -bp 43100 -di -df 13400 -nf 13400 -fast -xcf 1 -c 3
 2014 06  9 00 00   1440 10 pcodecamp_bm9_15km  -stid kod -ep 43000 -sp 43001 -bp 43100 -di -df 13400 -nf 13400 -fast -xcf 1 -c 3
 
+2014 06  4 03 05   95 12 normalscan -stid kod -ep 43000 -sp 43001 -bp 43100 -di -df 13400 -nf 13400 -fast -xcf 1 -c 3 -sb 8 -eb 8
 ## Place modes to support individual experiments inside Brioche below:
 ## Use priority higher than 10 to ensure break-in over Brioche campaign mode.
 ## Might want to use same priority for all experiment specific modes to 
