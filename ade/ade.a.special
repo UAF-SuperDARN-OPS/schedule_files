@@ -1,3 +1,5 @@
+# This file is for special campaign or testing modes
+#  File must use duration/priority format
 path /home/radar/rst/usr/bin
 
 priority 7 
