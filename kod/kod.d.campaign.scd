@@ -1,6 +1,6 @@
 # Kodiak Radar Channel D
 # Campaign Event Schedule
-#
+# file must use duration/priority format
 #
 
 # Default values, needed to indicate to scheduler to parse schedule events as set duration
