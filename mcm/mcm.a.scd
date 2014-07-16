@@ -76,3 +76,58 @@ channel a
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2014 07 28 10 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
 2014 07 28 16 00   normalscan -stid mcm -di -fast -df 10750 -nf 10750 -c 1
+
+2014 08 01 00 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 08 02 08 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
+2014 08 02 14 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 08 03 10 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
+2014 08 03 16 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 08 05 08 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
+2014 08 05 14 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 08 06 10 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
+2014 08 06 16 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 08 08 08 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
+2014 08 08 14 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 08 09 10 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
+2014 08 09 16 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 08 11 10 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
+2014 08 11 16 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 08 12 10 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
+2014 08 12 16 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 08 14 10 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
+2014 08 14 16 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 08 15 10 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
+2014 08 15 16 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 08 17 10 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
+2014 08 17 16 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 08 18 10 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
+2014 08 18 16 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
+2014 08 19 18 00   normalscan -stid mcm -di -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 08 21 10 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
+2014 08 21 16 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
+2014 08 23 16 00   normalscan -stid mcm -di -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 08 24 08 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
+2014 08 24 14 00   normalscan -stid mcm -di -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 08 25 08 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
+2014 08 25 14 00   normalscan -stid mcm -di -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 08 27 08 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
+2014 08 27 14 00   normalscan -stid mcm -di -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 08 28 08 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
+2014 08 28 14 00   normalscan -stid mcm -di -fast -df 10750 -nf 10750 -c 1
