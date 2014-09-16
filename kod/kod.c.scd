@@ -51,6 +51,8 @@ channel c
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2014 09 14 06 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
 2014 09 14 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2014 09 16 21 30   normalscan -stid kod -xcf 1 -sb 3 -eb 3  -tim -df 10400 -nf 10400 -c 3 
+2014 09 17 00 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2014 09 17 06 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
 2014 09 17 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
