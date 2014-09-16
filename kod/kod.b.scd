@@ -38,6 +38,9 @@ priority 5
 2014 05 18 03 10  2 10  timscan --sb 3 --eb 3 --mppul 15  --df 10750 --nf 10750 --clrskip 60
 2014 05 18 03 20  2 10  timscan --sb 4 --eb 4 --mppul 15  --df 10750 --nf 10750 --clrskip 60
 
+# Test or Rankin like coord experiment mode.
+2014 09 16 22 00 30 10  timscan --scanoffset 50 --scansc 60 --intsc 10 --eb 7 --sb 7 --fixfrq 11000 --mppul 1 --nrang 500 --rsep 15 --notransmit
+
 # Tim wants frequency hopping between pulse sequences. And Tim gets what he wants.
 2014 09 21 00 00  2 10  timscan --sb 7 --eb 7  --scansc 60 --noint --mppul 1 --baud 5 --clrscan  --clrskip 30 --frqstepsize 1  --frqsteps 300  --frqmodulo 10 --xcf 1
 2014 09 21 00 03  2 10  timscan --sb 8 --eb 8  --scansc 60 --noint --mppul 1 --baud 5 --clrscan  --clrskip 30 --frqstepsize 1  --frqsteps 300  --frqmodulo 10 --xcf 1

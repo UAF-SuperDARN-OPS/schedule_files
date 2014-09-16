@@ -15,6 +15,11 @@ priority 5
 
 
 ## Timscan on Chan B: incompatible with normal SuperDARN operations, use high priority noopscan 
+
+# Move to normalscan with 3 second beams during Rankin coord experiments
+2014 09 16 22 00   30 99 normalscan  -stid kod -xcf 1 -tim -df 10400 -nf 10400 -c 4 
+
+
 # turn off this channel 10 minutes for timscan operation on chan B
 2014 09 21 00 00   10 99 noopscan  -stid kod -c 4 
  

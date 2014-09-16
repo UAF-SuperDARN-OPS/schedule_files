@@ -24,6 +24,9 @@ priority 5
 
 ## Timscan on Chan B: incompatible with normal SuperDARN operations, use high priority noopscan 
 
+# Turn off camping beam when we want to do Rankin coord experiments
+2014 09 16 22 00   30 99 noopscan -stid kod -c 3
+
 # turn off this channel 10 minutes for timscan operation on chan B
 2014 09 21 00 00   10 99 noopscan  -stid kod -c 3
 
