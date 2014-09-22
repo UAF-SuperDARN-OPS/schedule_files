@@ -45,3 +45,8 @@ priority 5
 2014 09 21 00 00  2 10  timscan --sb 7 --eb 7  --scansc 60 --noint --mppul 1 --baud 5 --clrscan  --clrskip 30 --frqstepsize 1  --frqsteps 300  --frqmodulo 10 --xcf 1
 2014 09 21 00 03  2 10  timscan --sb 8 --eb 8  --scansc 60 --noint --mppul 1 --baud 5 --clrscan  --clrskip 30 --frqstepsize 1  --frqsteps 300  --frqmodulo 10 --xcf 1
 2014 09 21 00 06  2 10  timscan --sb 9 --eb 9  --scansc 60 --noint --mppul 1 --baud 5 --clrscan  --clrskip 30 --frqstepsize 1  --frqsteps 300  --frqmodulo 10 --xcf 1
+
+2014 09 22 13 00  2 10  timscan --sb 7 --eb 7  --scansc 60 --noint --mppul 1 --baud 5 --clrscan  --clrskip 30 --frqstepsize 1  --frqsteps 300  --frqmodulo 10 --xcf 1
+2014 09 22 13 03  2 10  timscan --sb 8 --eb 8  --scansc 60 --noint --mppul 1 --baud 5 --clrscan  --clrskip 30 --frqstepsize 1  --frqsteps 300  --frqmodulo 10 --xcf 1
+2014 09 22 13 06  2 10  timscan --sb 9 --eb 9  --scansc 60 --noint --mppul 1 --baud 5 --clrscan  --clrskip 30 --frqstepsize 1  --frqsteps 300  --frqmodulo 10 --xcf 1
+
