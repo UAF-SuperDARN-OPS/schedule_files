@@ -23,4 +23,5 @@ priority 5
 # turn off this channel 10 minutes for timscan operation on chan B
 2014 09 21 00 00   10 99 noopscan  -stid kod -c 4 
 2014 09 22 13 00   10 99 noopscan  -stid kod -c 4 
+2014 09 22 22 00   10 99 noopscan  -stid kod -c 4 
  
