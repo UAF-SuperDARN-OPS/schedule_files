@@ -6,80 +6,6 @@ channel a
 priority  0
 duration  0
 
-2014 09 01 00 00    720  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 09 01 12 00    360  10 rbspscan -stid ade -xcf 1 -meribm 1 -westbm 0 -eastbm 3 -df 13600 -nf 10750 -c 1
-2014 09 01 18 00    840  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 09 02 08 00    360  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 09 02 14 00    360  10 rbspscan -stid ade -xcf 1 -meribm 1 -westbm 0 -eastbm 3 -df 13600 -nf 10750 -c 1
-2014 09 02 20 00    720  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 09 03 08 00    360  10 rbspscan -stid ade -xcf 1 -meribm 1 -westbm 0 -eastbm 3 -df 13600 -nf 10750 -c 1
-2014 09 03 14 00   1320  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 09 04 12 00    360  10 rbspscan -stid ade -xcf 1 -meribm 1 -westbm 0 -eastbm 3 -df 13600 -nf 10750 -c 1
-2014 09 04 18 00    840  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 09 05 08 00    360  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 09 05 14 00    360  10 rbspscan -stid ade -xcf 1 -meribm 1 -westbm 0 -eastbm 3 -df 13600 -nf 10750 -c 1
-2014 09 05 20 00    720  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 09 06 08 00    360  10 rbspscan -stid ade -xcf 1 -meribm 1 -westbm 0 -eastbm 3 -df 13600 -nf 10750 -c 1
-2014 09 06 14 00   1320  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 09 07 12 00    360  10 rbspscan -stid ade -xcf 1 -meribm 1 -westbm 0 -eastbm 3 -df 13600 -nf 10750 -c 1
-2014 09 07 18 00    720  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 09 08 06 00    360  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
-2014 09 08 12 00    240  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 09 08 16 00    360  10 rbspscan -stid ade -xcf 1 -meribm 1 -westbm 0 -eastbm 3 -df 13600 -nf 10750 -c 1
-2014 09 08 22 00    600  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 09 09 08 00    360  10 rbspscan -stid ade -xcf 1 -meribm 1 -westbm 0 -eastbm 3 -df 13600 -nf 10750 -c 1
-2014 09 09 14 00   1320  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 09 10 12 00    360  10 rbspscan -stid ade -xcf 1 -meribm 1 -westbm 0 -eastbm 3 -df 13600 -nf 10750 -c 1
-2014 09 10 18 00    720  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 09 11 06 00    360  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
-2014 09 11 12 00   1200  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 09 12 08 00    360  10 rbspscan -stid ade -xcf 1 -meribm 1 -westbm 0 -eastbm 3 -df 13600 -nf 10750 -c 1
-2014 09 12 14 00   2400  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 09 14 06 00    360  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
-2014 09 14 12 00   3960  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 09 17 06 00    360  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
-2014 09 17 12 00    240  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 09 17 16 00    360  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
-2014 09 17 22 00    480  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
-2014 09 18 06 00   2880  10 normalscan -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 09 20 06 00    360  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
-2014 09 20 12 00    240  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 09 20 16 00    360  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
-2014 09 20 22 00    120  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
-2014 09 21 00 00   3240   1 normalsound -stid ade -xcf 1 -di -fast -df 13600 -nf 10750 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 09 23 06 00    360  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
-2014 09 23 12 00    240   1 normalsound -stid ade -xcf 1 -di -fast -df 13600 -nf 10750 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 09 23 16 00    360  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
-2014 09 23 22 00   3360   1 normalsound -stid ade -xcf 1 -di -fast -df 13600 -nf 10750 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 09 26 06 00    360  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
-2014 09 26 12 00   3960   1 normalsound -stid ade -xcf 1 -di -fast -df 13600 -nf 10750 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 09 29 06 00    360  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
-2014 09 29 12 00   2160   1 normalsound -stid ade -xcf 1 -di -fast -df 13600 -nf 10750 -c 1
-2014 10 01 00 00    840  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2014 10 01 14 00    360  10 rbspscan -stid ade -xcf 1 -meribm 1 -westbm 0 -eastbm 3 -df 13600 -nf 10750 -c 1
 2014 10 01 20 00    720  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
@@ -157,3 +83,84 @@ duration  0
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2014 10 31 06 00    360  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
 2014 10 31 12 00    720   1 normalsound -stid ade -xcf 1 -di -fast -df 13600 -nf 10750 -c 1
+
+2014 11 01 00 00    720  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 11 01 12 00    360  10 rbspscan -stid ade -xcf 1 -meribm 1 -westbm 0 -eastbm 3 -df 13600 -nf 10750 -c 1
+2014 11 01 18 00    720  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 11 02 06 00    360  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 11 02 12 00    360  10 rbspscan -stid ade -xcf 1 -meribm 1 -westbm 0 -eastbm 3 -df 13600 -nf 10750 -c 1
+2014 11 02 18 00    720  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 11 03 06 00    360  10 rbspscan -stid ade -xcf 1 -meribm 1 -westbm 0 -eastbm 3 -df 13600 -nf 10750 -c 1
+2014 11 03 12 00   1440  10 normalscan -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
+2014 11 04 12 00   1080  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 11 05 06 00    360  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
+2014 11 05 12 00   1200  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 11 06 08 00    360  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
+2014 11 06 14 00   1440  10 normalscan -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
+2014 11 07 14 00    960  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 11 08 06 00    360  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
+2014 11 08 12 00   1200  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 11 09 08 00    360  10 rbspscan -stid ade -xcf 1 -meribm 1 -westbm 0 -eastbm 3 -df 13600 -nf 10750 -c 1
+2014 11 09 14 00   1320  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 11 10 12 00    360  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
+2014 11 10 18 00    720  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 11 11 06 00    360  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
+2014 11 11 12 00   1200  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 11 12 08 00    360  10 rbspscan -stid ade -xcf 1 -meribm 1 -westbm 0 -eastbm 3 -df 13600 -nf 10750 -c 1
+2014 11 12 14 00   1320  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 11 13 12 00    360  10 rbspscan -stid ade -xcf 1 -meribm 1 -westbm 0 -eastbm 3 -df 13600 -nf 10750 -c 1
+2014 11 13 18 00    720  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 11 14 06 00    360  10 rbspscan -stid ade -xcf 1 -meribm 1 -westbm 0 -eastbm 3 -df 13600 -nf 10750 -c 1
+2014 11 14 12 00   1200  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 11 15 08 00    360  10 rbspscan -stid ade -xcf 1 -meribm 1 -westbm 0 -eastbm 3 -df 13600 -nf 10750 -c 1
+2014 11 15 14 00   1320  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 11 16 12 00    360  10 rbspscan -stid ade -xcf 1 -meribm 1 -westbm 0 -eastbm 3 -df 13600 -nf 10750 -c 1
+2014 11 16 18 00    720  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2014 11 17 06 00    360  10 rbspscan -stid ade -xcf 1 -meribm 1 -westbm 0 -eastbm 3 -df 13600 -nf 10750 -c 1
+2014 11 17 12 00    720   1 normalsound -stid ade -xcf 1 -di -fast -df 13600 -nf 10750 -c 1
+2014 11 18 00 00    720  10 themisscan -stid ade -xcf 1  -df 13600 -nf 10750 -c 1
+2014 11 18 12 00    720   1 normalsound -stid ade -xcf 1 -di -fast -df 13600 -nf 10750 -c 1
+2014 11 19 00 00    720  10 themisscan -stid ade -xcf 1  -df 13600 -nf 10750 -c 1
+2014 11 19 12 00    720   1 normalsound -stid ade -xcf 1 -di -fast -df 13600 -nf 10750 -c 1
+2014 11 20 00 00    720  10 themisscan -stid ade -xcf 1  -df 13600 -nf 10750 -c 1
+2014 11 20 12 00    720   1 normalsound -stid ade -xcf 1 -di -fast -df 13600 -nf 10750 -c 1
+2014 11 21 00 00    360  10 themisscan -stid ade -xcf 1  -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: See Note B
+2014 11 21 06 00    360  10 themisscan -stid ade -xcf 1  -df 13600 -nf 10750 -c 1 
+2014 11 21 12 00    720   1 normalsound -stid ade -xcf 1 -di -fast -df 13600 -nf 10750 -c 1
+2014 11 22 00 00    360  10 themisscan -stid ade -xcf 1  -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: See Note B
+2014 11 22 06 00    360  10 themisscan -stid ade -xcf 1  -df 13600 -nf 10750 -c 1 
+2014 11 22 12 00    720   1 normalsound -stid ade -xcf 1 -di -fast -df 13600 -nf 10750 -c 1
+2014 11 23 00 00    360  10 themisscan -stid ade -xcf 1  -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: See Note B
+2014 11 23 06 00    360  10 themisscan -stid ade -xcf 1  -df 13600 -nf 10750 -c 1 
+2014 11 23 12 00    720   1 normalsound -stid ade -xcf 1 -di -fast -df 13600 -nf 10750 -c 1
+2014 11 24 00 00    360  10 themisscan -stid ade -xcf 1  -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: See Note B
+2014 11 24 06 00    360  10 themisscan -stid ade -xcf 1  -df 13600 -nf 10750 -c 1 
+2014 11 24 12 00    720   1 normalsound -stid ade -xcf 1 -di -fast -df 13600 -nf 10750 -c 1
+2014 11 25 00 00    360  10 themisscan -stid ade -xcf 1  -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: See Note B
+2014 11 25 06 00    360  10 themisscan -stid ade -xcf 1  -df 13600 -nf 10750 -c 1 
+2014 11 25 12 00    720   1 normalsound -stid ade -xcf 1 -di -fast -df 13600 -nf 10750 -c 1
+2014 11 26 00 00    360  10 themisscan -stid ade -xcf 1  -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: See Note B
+2014 11 26 06 00    360  10 themisscan -stid ade -xcf 1  -df 13600 -nf 10750 -c 1 
+2014 11 26 12 00   6480   1 normalsound -stid ade -xcf 1 -di -fast -df 13600 -nf 10750 -c 1
