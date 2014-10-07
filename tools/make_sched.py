@@ -119,6 +119,12 @@ cp+=" "+radars[opts.radar]["required_pre_args"]
 cp+=" "+radars[opts.radar]["modes"]["default"]["args"]
 cp+=" "+radars[opts.radar]["required_post_args"]
 f.write("default %s\n" % cp)
+if "stationid" in radars[opts.radar]:
+  f.write("stationid %s\n" % radars[opts.radar]["stationid"])
+if "sitelib" in radars[opts.radar]:
+  f.write("sitelib %s\n" % radars[opts.radar]["sitelib"])
+if "channel" in radars[opts.radar]:
+  f.write("channel %s\n" % radars[opts.radar]["channel"])
 if "priority" in radars[opts.radar]["modes"]["default"]:
   default_priority=radars[opts.radar]["modes"]["default"]["priority"]
   has_default_priority=True
@@ -218,8 +224,10 @@ for i in range(len(lines)):
           if len(ll) > 0 : 
             if ll[0]=="[": 
               write_line=False
-        cp=string.strip(radars[opts.radar]["modes"][mode]["controlprogram"])
-        args=" "+string.strip(radars[opts.radar]["modes"][mode]["args"])
+        try: 
+          cp=string.strip(radars[opts.radar]["modes"][mode]["controlprogram"])
+          args=" "+string.strip(radars[opts.radar]["modes"][mode]["args"])
+        except: pass
         if mode not in radars[opts.radar]["modes"] : 
           print "%s BAD MODE: %s" % (starttime, mode)
           cp="BAD MODE: %s" % (mode) 
