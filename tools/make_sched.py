@@ -224,8 +224,10 @@ for i in range(len(lines)):
           if len(ll) > 0 : 
             if ll[0]=="[": 
               write_line=False
-        cp=string.strip(radars[opts.radar]["modes"][mode]["controlprogram"])
-        args=" "+string.strip(radars[opts.radar]["modes"][mode]["args"])
+        try: 
+          cp=string.strip(radars[opts.radar]["modes"][mode]["controlprogram"])
+          args=" "+string.strip(radars[opts.radar]["modes"][mode]["args"])
+        except: pass
         if mode not in radars[opts.radar]["modes"] : 
           print "%s BAD MODE: %s" % (starttime, mode)
           cp="BAD MODE: %s" % (mode) 
