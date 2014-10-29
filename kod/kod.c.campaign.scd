@@ -32,3 +32,6 @@ priority 5
 2014 09 22 13 00   10 99 noopscan  -stid kod -c 3
 2014 09 22 22 00   10 99 noopscan  -stid kod -c 3
 
+
+2014 10 30 13 59    7 99 noopscan  -stid kod -c 3
+2014 10 30 14 59    7 99 noopscan  -stid kod -c 3

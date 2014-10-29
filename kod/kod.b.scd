@@ -53,3 +53,8 @@ priority 5
 2014 09 22 22 00  2 10  timscan --sb 7 --eb 7  --scansc 60 --noint --mppul 1 --baud 5 --clrscan  --clrskip 30 --frqstepsize 1  --frqsteps 300  --frqmodulo 10 --xcf 1
 2014 09 22 22 03  2 10  timscan --sb 8 --eb 8  --scansc 60 --noint --mppul 1 --baud 5 --clrscan  --clrskip 30 --frqstepsize 1  --frqsteps 300  --frqmodulo 10 --xcf 1
 2014 09 22 22 06  2 10  timscan --sb 9 --eb 9  --scansc 60 --noint --mppul 1 --baud 5 --clrscan  --clrskip 30 --frqstepsize 1  --frqsteps 300  --frqmodulo 10 --xcf 1
+
+
+# First test with Inuvik radar 
+2014 10 30 13 59  7 10  timscan --noint --scansc=21 --scanoffset=42 --rsep=15 --baud 1 --notransmit --fixfrq 10500 --mppul 1 --tau 5000 --sb 8 --eb 8 --xcf 1
+2014 10 30 14 59  7 10  timscan --noint --scansc=21 --scanoffset=42 --rsep=15 --baud 1 --notransmit --fixfrq 10500 --mppul 1 --tau 5000 --sb 8 --eb 8 --xcf 1
