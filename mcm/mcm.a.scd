@@ -81,6 +81,8 @@ channel a
 # JDS: running high spectral content mode for testing
 2014 10 30 21 15   spaletascan --stid mcm --di --fast --df 10750 --nf 10750 -c 1 
 2014 10 30 21 30   normalscan -stid mcm -di -fast -df 10750 -nf 10750 -c 1
+2014 10 30 21 35   spaletascan --stid mcm --di --fast --df 10750 --nf 10750 -c 1 
+2014 10 30 22 00   normalscan -stid mcm -di -fast -df 10750 -nf 10750 -c 1
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2014 10 31 06 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
 2014 10 31 12 00   normalscan -stid mcm -di -fast -df 10750 -nf 10750 -c 1
