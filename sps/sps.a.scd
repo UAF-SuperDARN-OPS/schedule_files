@@ -99,7 +99,7 @@ duration  0
 2014 11 05 12 00   1200   5 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2014 11 06 08 00    360   1 rbspscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -meribm 1 -westbm 0 -eastbm 3 -xcf 1 -c 1
-2014 11 06 14 00   1440   5 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+2014 11 06 14 00   1440   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
 2014 11 07 14 00    960   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2014 11 08 06 00    360   1 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -xcf 1 -c 1
