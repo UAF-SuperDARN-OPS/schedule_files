@@ -115,6 +115,7 @@ channel d
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2014 11 11 06 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
 2014 11 11 12 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+2014 11 11 18 00   normalscan  -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2014 11 12 08 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
 2014 11 12 14 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
