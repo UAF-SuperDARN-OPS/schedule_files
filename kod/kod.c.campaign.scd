@@ -35,3 +35,5 @@ priority 5
 
 2014 10 30 13 59    7 99 noopscan  -stid kod -c 3
 2014 10 30 14 59    7 99 noopscan  -stid kod -c 3
+
+2014 11 10 20 30   30 10 pcodescan  -stid kod -fast -df 10400 -nf 10400 -xcf 1 -c 3 
