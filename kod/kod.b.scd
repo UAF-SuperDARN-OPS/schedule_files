@@ -58,3 +58,17 @@ priority 5
 # First test with Inuvik radar 
 2014 10 30 13 59  7 10  timscan --noint --scansc=21 --scanoffset=42 --rsep=15 --nrang=500 --baud 1 --notransmit --fixfrq 10500 --mppul 1 --tau 5000 --sb 8 --eb 8 --xcf 1
 2014 10 30 14 59  7 10  timscan --noint --scansc=21 --scanoffset=42 --rsep=15 --nrang=500 --baud 1 --notransmit --fixfrq 11500 --mppul 1 --tau 5000 --sb 8 --eb 8 --xcf 1
+
+#More Inuvik run: 20 minute total
+2014 11 17 20 00  5 10  timscan --noint --scansc=21 --scanoffset=42 --rsep=15 --nrang=500 --baud 1 --notransmit --fixfrq 12000 --mppul 1 --tau 5000 --sb 8 --eb 8  
+2014 11 17 20 05  5 10  timscan --noint --scansc=21 --scanoffset=42 --rsep=15 --nrang=500 --baud 1 --notransmit --fixfrq 14000 --mppul 1 --tau 5000 --sb 8 --eb 8  
+2014 11 17 20 10  5 10  timscan --noint --scansc=21 --scanoffset=42 --rsep=15 --nrang=500 --baud 1 --notransmit --fixfrq 16000 --mppul 1 --tau 5000 --sb 8 --eb 8  
+2014 11 17 20 15  5 10  timscan --noint --scansc=21 --scanoffset=42 --rsep=15 --nrang=500 --baud 1 --notransmit --fixfrq 18000 --mppul 1 --tau 5000 --sb 8 --eb 8  
+
+#More Inuvik run: 20 minute total
+2014 11 17 22 00  5 10  timscan --noint --scansc=21 --scanoffset=42 --rsep=15 --nrang=500 --baud 1 --notransmit --fixfrq 12000 --mppul 1 --tau 5000 --sb 8 --eb 8  
+2014 11 17 22 05  5 10  timscan --noint --scansc=21 --scanoffset=42 --rsep=15 --nrang=500 --baud 1 --notransmit --fixfrq 12000 --mppul 1 --tau 5000 --sb 8 --eb 8  
+2014 11 17 22 10  5 10  timscan --noint --scansc=21 --scanoffset=42 --rsep=15 --nrang=500 --baud 1 --notransmit --fixfrq 12000 --mppul 1 --tau 5000 --sb 8 --eb 8  
+2014 11 17 22 15  5 10  timscan --noint --scansc=21 --scanoffset=42 --rsep=15 --nrang=500 --baud 1 --notransmit --fixfrq 12000 --mppul 1 --tau 5000 --sb 8 --eb 8  
+
+
