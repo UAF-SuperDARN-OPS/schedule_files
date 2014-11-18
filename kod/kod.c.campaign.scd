@@ -42,3 +42,4 @@ priority 5
 2014 11 17 22 00   20 99 noopscan  -stid kod -c 3
 
 2014 11 18 18 00   30 50 spaletascan --stid kod -c 3 --di --fast --df 12100 --nf 12100 
+2014 11 18 19 00   60 50 spaletascan --stid kod -c 3 --di --fast --df 12100 --nf 12100 
