@@ -33,7 +33,7 @@ priority 5
 2014 11 17 20 00   20 99 noopscan  -stid kod -c 4
 2014 11 17 22 00   20 99 noopscan  -stid kod -c 4 
 
-2014 11 18 18 00   30 50 spaletascan --stid kod -c 4 --di --fast --df 10400 --nf 10400
+2014 11 18 18 30   30 50 spaletascan --stid kod -c 4 --di --fast --df 10400 --nf 10400
 2014 11 18 19 00   60 50 spaletascan --stid kod -c 4 --di --fast --df 10400 --nf 10400
 
  
