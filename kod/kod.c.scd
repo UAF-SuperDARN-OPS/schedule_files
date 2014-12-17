@@ -4,135 +4,6 @@ stationid kod
 sitelib ros
 channel c
 
-2014 11 01 00 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 11 01 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-2014 11 01 18 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 11 02 06 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 11 02 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-2014 11 02 18 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 11 03 06 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-2014 11 03 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-2014 11 04 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 11 05 06 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-2014 11 05 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 11 06 08 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-2014 11 06 14 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-2014 11 07 14 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 11 08 06 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-2014 11 08 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 11 09 08 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-2014 11 09 14 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 11 10 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-2014 11 10 18 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 11 11 06 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-2014 11 11 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-2014 11 11 18 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 12100 -nf 12100 -c 3
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 11 12 08 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-2014 11 12 14 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 11 13 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-2014 11 13 18 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 11 14 06 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-2014 11 14 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 11 15 08 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-2014 11 15 14 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 11 16 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-2014 11 16 18 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 11 17 06 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-2014 11 17 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
-2014 11 18 00 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
-2014 11 18 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
-2014 11 19 00 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
-2014 11 19 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
-2014 11 20 00 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
-2014 11 20 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
-2014 11 21 00 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
-# >>> Schedule note <<< please re-confirm correct schedule: See Note B
-2014 11 21 06 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3 
-2014 11 21 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
-2014 11 22 00 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
-# >>> Schedule note <<< please re-confirm correct schedule: See Note B
-2014 11 22 06 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3 
-2014 11 22 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
-2014 11 23 00 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
-# >>> Schedule note <<< please re-confirm correct schedule: See Note B
-2014 11 23 06 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3 
-2014 11 23 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
-2014 11 24 00 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
-# >>> Schedule note <<< please re-confirm correct schedule: See Note B
-2014 11 24 06 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3 
-2014 11 24 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
-2014 11 25 00 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
-# >>> Schedule note <<< please re-confirm correct schedule: See Note B
-2014 11 25 06 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3 
-2014 11 25 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
-2014 11 26 00 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
-# >>> Schedule note <<< please re-confirm correct schedule: See Note B
-2014 11 26 06 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3 
-2014 11 26 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
-
-2014 12 01 00 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 12 01 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-2014 12 01 18 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 12 02 06 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-2014 12 02 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 12 03 08 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-2014 12 03 14 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 12 04 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-2014 12 04 18 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 12 05 06 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-2014 12 05 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 12 06 08 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-2014 12 06 14 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 12 07 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-2014 12 07 18 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 12 08 06 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-2014 12 08 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 12 09 08 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-2014 12 09 14 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 12 10 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-2014 12 10 18 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 12 11 06 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-2014 12 11 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 12 12 08 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-2014 12 12 14 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
-2014 12 13 00 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 12 13 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-2014 12 13 18 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 12 14 06 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-2014 12 14 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 12 15 08 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-2014 12 15 14 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2014 12 16 02 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
 2014 12 16 08 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
@@ -171,3 +42,83 @@ channel c
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2014 12 31 04 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
 2014 12 31 10 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+
+2015 01 01 00 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 01 01 04 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 01 01 10 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 01 02 06 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 01 02 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 01 03 04 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 01 03 10 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 01 04 02 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 01 04 08 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 01 05 00 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 01 05 06 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 01 07 06 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 01 07 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 01 08 04 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 01 08 10 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 01 09 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 01 09 18 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 01 10 02 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 01 10 08 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 01 11 18 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 01 12 00 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 01 12 06 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 01 12 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 01 13 02 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 01 13 08 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 01 14 00 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 01 14 06 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 01 15 00 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
+2015 01 15 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 01 16 00 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
+2015 01 16 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 01 17 00 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
+2015 01 17 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 01 18 00 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
+2015 01 18 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 01 19 00 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
+2015 01 19 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 01 20 00 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
+2015 01 20 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 01 21 00 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
+2015 01 21 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 01 22 00 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
+2015 01 22 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 01 23 00 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
+2015 01 23 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 01 24 00 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
+2015 01 24 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 01 25 10 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 01 25 16 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 01 26 04 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 01 26 10 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 01 27 02 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 01 27 06 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 01 27 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 01 28 10 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 01 28 16 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 01 29 04 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 01 29 10 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 01 31 10 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 01 31 16 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
