@@ -122,3 +122,73 @@ channel c
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2015 01 31 10 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
 2015 01 31 16 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
+2015 02 01 00 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 02 01 04 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 02 01 10 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 02 02 06 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 02 02 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 02 03 10 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 02 03 16 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 02 04 04 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 02 04 10 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 02 05 06 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 02 05 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 02 06 10 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 02 06 16 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 02 07 04 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 02 07 10 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 02 08 06 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 02 08 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 02 09 00 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 02 09 06 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 02 10 04 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 02 10 10 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 02 11 06 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 02 11 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 02 12 00 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 02 12 06 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 02 12 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 02 13 00 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
+2015 02 13 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 02 14 00 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
+2015 02 14 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 02 15 00 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
+2015 02 15 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
+2015 02 16 00 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
+2015 02 16 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
+2015 02 17 00 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
+2015 02 17 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
+2015 02 18 00 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
+2015 02 18 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
+2015 02 19 00 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
+2015 02 19 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
+2015 02 20 00 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
+2015 02 20 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
+2015 02 21 00 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
+2015 02 21 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
+2015 02 22 00 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
+2015 02 22 12 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 02 23 08 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 02 23 14 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 02 24 02 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 02 24 08 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 02 26 08 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 02 26 14 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 02 28 04 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 02 28 10 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
