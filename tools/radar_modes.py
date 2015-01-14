@@ -247,11 +247,11 @@ radars['sps']["modes"]['Special:ST-APOG']["altargs"]="-df 10750 -nf 10750 -fast 
 radars['sps.a']["modes"]={}
 radars['sps.a']["modes"]['default']={"controlprogram":"normalscan","args":"-fast -df 12550 -nf 12550 -xcf 1", 
                                    "priority":" 0", "duration": " 0"}
-radars['sps.a']["modes"]['Discretionary']={"controlprogram":"normalscan","args":"-di -fast -df 12550 -nf 12550 -xcf 1",
+radars['sps.a']["modes"]['Discretionary']={"controlprogram":"normalsound","args":"-di -fast -df 12550 -nf 12550 -xcf 1",
                                    "priority":" 5", "duration": "a"}
-radars['sps.a']["modes"]['Common']={"controlprogram":"normalscan","args":"-df 12550 -nf 12550 -xcf 1",
+radars['sps.a']["modes"]['Common']={"controlprogram":"normalsound","args":"-df 12550 -nf 12550 -xcf 1",
                                    "priority":"5", "duration": "a"}
-radars['sps.a']["modes"]['Common:1-min']={"controlprogram":"normalscan","args":"-fast -df 12550 -nf 12550 -xcf 1",
+radars['sps.a']["modes"]['Common:1-min']={"controlprogram":"normalsound","args":"-fast -df 12550 -nf 12550 -xcf 1",
                                    "priority":"5", "duration": "a"}
 radars['sps.a']["modes"]['Common:THEMIS']={"controlprogram":"themisscan","args":"-df 12550 -nf 12550 -xcf 1",
                                    "priority":"5", "duration": "a"}
@@ -263,7 +263,7 @@ radars['sps.a']["modes"]['Common:1-min:no switching']={"controlprogram":"normals
                                    "priority":"5", "duration": "a"}
 radars['sps.a']["modes"]['Special:ST-APOG']={"controlprogram":"rbspscan","args": "-df 12550 -nf 12550 -meribm 1 -westbm 0 -eastbm 3 -xcf 1","priority":"1","duration": "a"}
 # Alternative program if radar not participating in Special program 
-radars['sps.a']["modes"]['Special:ST-APOG']["altprogram"]="normalscan"
+radars['sps.a']["modes"]['Special:ST-APOG']["altprogram"]="normalsound"
 radars['sps.a']["modes"]['Special:ST-APOG']["altargs"]="-df 12550 -nf 12550 -fast -xcf 1"
 
 radars['sps.b']["modes"]={}
