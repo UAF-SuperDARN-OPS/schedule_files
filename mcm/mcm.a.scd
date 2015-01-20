@@ -27,8 +27,13 @@ channel a
 2014 12 25 12 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
 2014 12 26 00 00   themisscan -stid mcm -df 10750 -nf 10750 -c 1
 2014 12 26 12 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
+# On-site Operations testing:
+2014 12 26 22 40   pcodescan  -stid mcm -fast -df 10750 -nf 10750 -c 1
+2014 12 26 22 50   spaletascan --stid mcm --fast --df 10750 --nf 10750 -c 1 --nowait
+2014 12 26 23 00   normalscan  -stid mcm -fast -df 10750 -nf 10750 -c 1
+2014 12 27 07 00   spaletascan --stid mcm --fast --df 10750 --nf 10750 -c 1 --nowait
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 12 27 08 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
+2014 12 27 09 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
 2014 12 27 14 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2014 12 28 02 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1

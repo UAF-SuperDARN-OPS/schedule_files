@@ -155,8 +155,9 @@ channel b
 2014 12 25 12 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
 2014 12 26 00 00   themisscan -stid mcm -df 12550 -nf 12550 -c 2
 2014 12 26 12 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
+2014 12 27 07 00   spaletascan --stid mcm --fast --df 12550 --nf 12550 -c 2 --nowait
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2014 12 27 08 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
+2014 12 27 09 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
 2014 12 27 14 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2014 12 28 02 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
