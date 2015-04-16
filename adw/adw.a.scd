@@ -157,9 +157,13 @@ duration  0
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2015 04 15 02 00    360  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
 2015 04 15 08 00   1320  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# JDS: test of spaletamode:
+2015 04 16 00 00     60  10 spaletamode --stid adw --cnum 1 --xcf 1 --fast --campfreq 10750 --campfreq 11750 --campfreq 12750 --campfreq 13750
+2015 04 16 01 00    300  10 rbspscan -stid adw -xcf 1 -meribm 1 -westbm 0 -eastbm 3 -df 13600 -nf 10750 -c 1
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2015 04 16 06 00    360  10 rbspscan -stid adw -xcf 1 -meribm 18 -westbm 19 -eastbm 21 -df 13600 -nf 10750 -c 1
-2015 04 16 12 00    720  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+#2015 04 16 12 00    720  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+2015 04 16 12 00    720  10 spaletamode --stid adw --cnum 1 --xcf 1 --fast --campfreq 10750 --campfreq 11750 --campfreq 12750 --campfreq 13750
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2015 04 17 00 00    360  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
 2015 04 17 06 00   2880  10 normalscan -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
