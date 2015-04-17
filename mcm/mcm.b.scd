@@ -229,6 +229,9 @@ channel b
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2015 04 17 00 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
 2015 04 17 06 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
+# Special spaletamode on channel 1 for 24 hours
+2015 04 18 00 00 noopscan -stid mcm -c 2
+2015 04 19 00 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2015 04 19 06 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
 2015 04 19 12 00   normalscan -stid mcm -di -fast -df 12550 -nf 12550 -c 2
