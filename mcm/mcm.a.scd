@@ -229,6 +229,9 @@ channel a
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2015 04 17 00 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
 2015 04 17 06 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
+# Special run of spaletamode 
+2015 04 18 00 00   spaletamode --stid mcm --fast --df 10750 --nf 10750 --cnum 1 --campfreq 10200 --campfreq 11500 --campfreq 12550 --campfreq 13750 --campfreq 14900 --campfreq 15250 
+2015 04 19 00 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2015 04 19 06 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
 2015 04 19 12 00   normalscan -stid mcm -di -fast -df 10750 -nf 10750 -c 1
