@@ -167,6 +167,8 @@ duration  0
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2015 04 17 00 00    360  10 rbspscan -stid ade -xcf 1 -meribm 1 -westbm 0 -eastbm 3 -df 13600 -nf 10750 -c 1
 2015 04 17 06 00   2880  10 normalscan -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# Spaletamode special: 1 day only!!! should revert back to prio 10 normalscan at 04/19 00:00
+2015 04 18 00 00   1440  20 spaletamode --stid ade --cnum 1 --xcf 1 --fast --campfreq 10750 --campfreq 11750 --campfreq 12750 --campfreq 13750
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2015 04 19 06 00    360  10 rbspscan -stid ade -xcf 1 -meribm 1 -westbm 0 -eastbm 3 -df 13600 -nf 10750 -c 1
 2015 04 19 12 00    720   1 normalsound -stid ade -xcf 1 -di -fast -df 13600 -nf 10750 -c 1
