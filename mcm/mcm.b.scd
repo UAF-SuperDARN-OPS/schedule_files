@@ -238,7 +238,10 @@ channel b
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2015 04 20 00 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
 2015 04 20 06 00   normalscan -stid mcm -di -fast -df 12550 -nf 12550 -c 2
+2015 04 20 17 00   noopscan -stid mcm -c 2
+2015 04 20 18 00   normalscan -stid mcm -di -fast -df 12550 -nf 12550 -c 2
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 04 21 00 00   noopscan -stid mcm -c 2
 2015 04 22 06 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
 2015 04 22 12 00   normalscan -stid mcm -di -fast -df 12550 -nf 12550 -c 2
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
