@@ -181,6 +181,7 @@ duration  0
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2015 04 23 00 00    360  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
 2015 04 23 06 00   3960   1 normalsound -stid adw -xcf 1 -di -fast -df 13600 -nf 10750 -c 1
+2015 04 24 08 00   1440  10 spaletamode --stid adw --cnum 1 --di --xcf 1 --fast --campfreq 10750 --campfreq 11750 --campfreq 12750 --campfreq 13750
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2015 04 26 00 00    360  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
 2015 04 26 06 00   2880   1 normalsound -stid adw -xcf 1 -di -fast -df 13600 -nf 10750 -c 1
