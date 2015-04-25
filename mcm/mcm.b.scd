@@ -249,7 +249,6 @@ channel b
 2015 04 23 06 00   noopscan -stid mcm -c 2
 2015 04 23 08 00   normalscan -stid mcm -di -fast -df 12550 -nf 12550 -c 2
 2015 04 23 21 00   noopscan -stid mcm -c 2
-2015 04 25 00 00   normalscan -stid mcm -di -fast -df 12550 -nf 12550 -c 2
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2015 04 26 00 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
 2015 04 26 06 00   normalscan -stid mcm -di -fast -df 12550 -nf 12550 -c 2
