@@ -247,6 +247,7 @@ channel d
 2015 04 26 00 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
 2015 04 26 06 00   normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 04 28 05 00 spaletamode --stid kod --fast --df 10400 --nf 10400 --cnum 4 --campfreq 10200 --campfreq 11500 --campfreq 12100 --campfreq 13900 --campfreq 14800 --campfreq 15800 
 2015 04 28 06 00   rbspscan -stid kod -xcf 1 -df 10750 -nf 10750 -meribm 1 -westbm 0 -eastbm 3 -c 4
 2015 04 28 12 00   normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
