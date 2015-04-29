@@ -253,11 +253,9 @@ channel c
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2015 04 29 00 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
 2015 04 29 06 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
-#2015 04 29 22 00   spaletamode --stid kod --fast --df 10400 --nf 10400 --cnum 3 --sb 3 --eb 3 --campfreq 10200 --campfreq 11500 --campfreq 12100 --campfreq 13900 --campfreq 14800 --campfreq 15800
-2015 04 29 22 00   noopscan -stid kod -c 3
+2015 04 29 22 00   spaletamode --stid kod --fast --df 10400 --nf 10400 --cnum 3 --sb 3 --eb 3 --campfreq 10200 --campfreq 11500 --campfreq 12100 --campfreq 13900 --campfreq 14800 --campfreq 15800
 2015 04 29 22 30   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
-2015 04 30 00 00   noopscan -stid kod -c 3
-#2015 04 30 00 00   spaletamode --stid kod --fast --df 10400 --nf 10400 --cnum 3 --sb 3 --eb 3 --campfreq 10200 --campfreq 11500 --campfreq 12100 --campfreq 13900 --campfreq 14800 --campfreq 15800
+2015 04 30 00 00   spaletamode --stid kod --fast --df 10400 --nf 10400 --cnum 3 --sb 3 --eb 3 --campfreq 10200 --campfreq 11500 --campfreq 12100 --campfreq 13900 --campfreq 14800 --campfreq 15800
 #2015 04 30 00 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
 2015 05 01 00 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
