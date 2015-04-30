@@ -255,7 +255,7 @@ channel d
 2015 04 29 06 00   normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
 2015 04 29 22 00   spaletamode --stid kod --fast --df 10400 --nf 10400 --cnum 4 --campbm 3 --campfreq 10200 --campfreq 11500 --campfreq 12100 --campfreq 13900 --campfreq 14800 --campfreq 15800 
 2015 04 29 22 30   normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
-2015 04 30 00 00   spaletamode --stid kod --fast --df 10400 --nf 10400 --cnum 4 --campbm 3 --campfreq 10200 --campfreq 11500 --campfreq 12100 --campfreq 13900 --campfreq 14800 --campfreq 13900 
+2015 04 30 00 00   spaletamode --stid kod --fast --df 10400 --nf 10400 --cnum 4 --campbm 3 --campfreq 10400 --campfreq 11500 --campfreq 12100 --campfreq 13900 --campfreq 14800 --campfreq 13900 
 #2015 04 30 00 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
 2015 05 01 00 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
