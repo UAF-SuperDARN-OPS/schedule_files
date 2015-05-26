@@ -37,7 +37,9 @@ channel c
 2015 05 26 10 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2015 05 26 22 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-2015 05 27 04 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+#2015 05 27 04 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2015 05 27 00 00   noopscan -stid kod -c 3
+2015 05 28 00 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2015 05 28 02 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
 2015 05 28 08 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
