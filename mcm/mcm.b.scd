@@ -117,3 +117,60 @@ channel b
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2015 06 27 20 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
 2015 06 28 02 00   normalscan -stid mcm -di -fast -df 12550 -nf 12550 -c 2
+2015 07 01 00 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 07 01 22 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
+2015 07 02 04 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
+2015 07 04 04 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 07 04 22 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
+2015 07 05 04 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 07 06 02 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
+2015 07 06 08 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 07 07 22 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
+2015 07 08 04 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 07 09 02 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
+2015 07 09 08 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 07 10 22 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
+2015 07 11 04 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 07 12 22 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
+2015 07 13 04 00   normalscan -stid mcm -di -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 07 13 22 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
+2015 07 14 04 00   normalscan -stid mcm -di -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 07 15 04 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
+2015 07 15 10 00   normalscan -stid mcm -di -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 07 15 22 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
+2015 07 16 04 00   normalscan -stid mcm -di -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 07 18 22 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
+2015 07 19 04 00   normalscan -stid mcm -di -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 07 19 20 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
+2015 07 20 02 00   normalscan -stid mcm -di -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 07 22 20 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
+2015 07 23 02 00   normalscan -stid mcm -di -fast -df 12550 -nf 12550 -c 2
+2015 07 23 16 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 07 23 20 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
+2015 07 24 02 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 07 25 20 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
+2015 07 26 02 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 07 26 20 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
+2015 07 27 02 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 07 28 20 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
+2015 07 29 02 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 07 29 20 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
+2015 07 30 02 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
