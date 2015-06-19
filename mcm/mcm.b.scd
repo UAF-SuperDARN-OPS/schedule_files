@@ -102,6 +102,8 @@ channel b
 2015 06 18 02 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
 2015 06 18 08 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
 2015 06 18 18 00   normalscan -stid mcm -di -fast -df 12550 -nf 12550 -c 2
+# Run Noop on this channel for single channel spaletascan run
+2015 06 19 00 00   noopscan -stid mcm -di -fast -df 12550 -nf 12550 -c 2
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2015 06 19 04 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
 2015 06 19 10 00   normalscan -stid mcm -di -fast -df 12550 -nf 12550 -c 2

@@ -104,6 +104,8 @@ channel a
 2015 06 18 02 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
 2015 06 18 08 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
 2015 06 18 18 00   normalscan -stid mcm -di -fast -df 10750 -nf 10750 -c 1
+# Run Spaletascan and capture long sequence data
+2015 06 19 00 00   spaletascan --stid mcm --di --fast --df 10750 --nf 10750 -c 1
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2015 06 19 04 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
 2015 06 19 10 00   normalscan -stid mcm -di -fast -df 10750 -nf 10750 -c 1
