@@ -115,6 +115,7 @@ channel b
 2015 06 21 07 00   normalscan -stid mcm -fast -rsep 15 -nrang 225 -df 12550 -nf 12550 -c 2
 2015 06 22 01 45   noopscan -stid mcm -di -fast -df 12550 -nf 12550 -c 2
 2015 06 22 02 10   normalscan -stid mcm -fast -rsep 15 -nrang 225 -df 12550 -nf 12550 -c 2
+2015 06 22 05 30   noopscan -stid mcm -di -fast -df 12550 -nf 12550 -c 2
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2015 06 22 04 00   normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
 2015 06 22 10 00   normalscan -stid mcm -di -fast -df 12550 -nf 12550 -c 2
