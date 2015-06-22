@@ -160,7 +160,12 @@ channel a
 2015 06 22 12 20   spaletascan --stid mcm --di --df 10750 --nf 10750 --tau 400 -c 1 
 2015 06 22 12 40   spaletascan --stid mcm --di --df 10750 --nf 10750 --tau 100 -c 1 
 2015 06 22 13 00   normalscan -stid mcm -di -fast -rsep 15 -nrang 225 -df 10750 -nf 10750 -c 1
- 
+
+2015 06 22 16 30   spaletascan --stid mcm --di --df 10750 --nf 10750 --tau 100 -c 1
+2015 06 22 17 00   normalscan -stid mcm -di -fast -rsep 15 -nrang 225 -df 10750 -nf 10750 -c 1
+2015 06 22 17 30   spaletascan --stid mcm --di --df 10750 --nf 10750 --tau 100 -c 1 
+2015 06 22 18 00   normalscan -stid mcm -di -fast -rsep 15 -nrang 225 -df 10750 -nf 10750 -c 1
+
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2015 06 22 22 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
 2015 06 23 04 00   normalscan -stid mcm -di -fast -df 10750 -nf 10750 -c 1
