@@ -118,6 +118,7 @@ channel d
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2015 06 22 22 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
 2015 06 23 04 00   normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
+2015 06 23 07 30   spaletamode --stid kod --xcf 1 --fast --df 10400 --nf 10400 --cnum 4 --campbm 3 --campfreq 10400 --campfreq 11500 --campfreq 12100 --campfreq 13900 --campfreq 14800 --campfreq 13900 
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2015 06 27 20 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
 2015 06 28 02 00   normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
