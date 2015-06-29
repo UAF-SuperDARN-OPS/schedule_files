@@ -182,8 +182,8 @@ duration  0
 # cluster conjunction at SP, 2015-08-06T02:15:00Z 2015-08-06T03:30:00Z
 2015 08 06 02 00    105  10 noopscan -stid sps -ep 41000 -sp 41001 -bp 41100 
 # cluster conjunction at SP, 2015-08-15T02:15:00Z 2015-08-15T03:30:00Z
-2015 07 21 02 00    105  10 noopscan -stid sps -ep 41000 -sp 41001 -bp 41100 
+2015 08 15 02 00    105  10 noopscan -stid sps -ep 41000 -sp 41001 -bp 41100 
 # cluster conjunction at SP, 2015-09-02T02:15:00Z 2015-09-02T03:30:00Z
-2015 07 21 02 00    105  10 noopscan -stid sps -ep 41000 -sp 41001 -bp 41100 
+2015 09 02 02 00    105  10 noopscan -stid sps -ep 41000 -sp 41001 -bp 41100 
 
 
