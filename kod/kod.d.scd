@@ -26,7 +26,7 @@ channel d
 e015 07 10 22 30   spaletarotate --stid kod --xcf 1 --fast --df 10400 --nf 10400 --nowait --rfreq 10800 --rfreq 11600 --rfreq 12100 --rrep 2 -c 4
 2015 07 10 22 40   spaletarotate --stid kod --xcf 1 --fast --df 10400 --nf 10400 --nowait --onesec --rfreq 10800 --rfreq 11600 --rfreq 12100 --rrep 3 -c 4
 2015 07 10 22 45   spaletarotate --stid kod --xcf 1 --fast --df 10200 --nf 10200 --nowait --rfreq 10400 --rfreq 10600 --rfreq 10800 --refreq 11000 --rfreq 11600 --rfreq 12100 --rrep 2 -c 4
-2015 07 11 00 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+2015 07 10 23 15   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
 2015 07 11 04 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2015 07 12 22 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
