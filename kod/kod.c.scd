@@ -27,7 +27,9 @@ channel c
 2015 07 11 04 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2015 07 12 22 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-2015 07 13 04 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
+# Run Spaletarotate during di time
+#2015 07 13 04 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
+2015 07 13 04 00   spaletarotate --stid kod --xcf 1 --sb 9 --eb 9 --di --fast --df 10200 --nf 10200 --nowait --rfreq 10400 --rfreq 10600 --rfreq 10800 --refreq 11000 --rfreq 11600 --rfreq 12100 --rrep 1 -c 3
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2015 07 13 22 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
 2015 07 14 04 00   normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
