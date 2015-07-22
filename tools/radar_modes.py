@@ -321,9 +321,9 @@ radars['adw.a']["modes"]['Common']={"controlprogram":"normalsound","args":"",
                                    "priority":"10", "duration": " a"}
 radars['adw.a']["modes"]['Common:1-min']={"controlprogram":"normalsound","args":"-fast",
                                    "priority":"10", "duration": " a"}
-radars['adw.a']["modes"]['Common:THEMIS']={"controlprogram":"themisscan","args":"",
+radars['adw.a']["modes"]['Common:THEMIS']={"controlprogram":"themisscan","args":"-camp 12",
                                    "priority":"10", "duration": " a"}
-radars['adw.a']["modes"]['Special:THEMIS']={"controlprogram":"themisscan","args":"",
+radars['adw.a']["modes"]['Special:THEMIS']={"controlprogram":"themisscan","args":"-camp 12",
                                    "priority":"10", "duration": " a"}
 radars['adw.a']["modes"]['Common:no switching']={"controlprogram":"normalscan","args":"",
                                    "priority":"10", "duration": " a"}
