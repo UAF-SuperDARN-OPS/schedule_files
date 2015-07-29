@@ -129,3 +129,107 @@ e015 07 10 22 30   spaletarotate --stid kod --xcf 1 --fast --df 10400 --nf 10400
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2015 08 31 04 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
 2015 08 31 10 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+2015 09 01 00 00   normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 09 01 16 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+2015 09 01 22 00   normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 09 02 18 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+2015 09 03 00 00   normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 09 05 18 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+2015 09 06 00 00   normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 09 08 18 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+2015 09 09 00 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 09 09 04 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+2015 09 09 10 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2015 09 10 06 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 09 10 16 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+2015 09 10 22 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2015 09 11 06 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 09 11 18 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+2015 09 12 00 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2015 09 12 06 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+2015 09 12 18 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2015 09 13 06 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 09 13 18 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+2015 09 14 00 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2015 09 14 06 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+2015 09 14 18 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 09 15 02 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2015 09 15 08 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+2015 09 15 18 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 09 15 20 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+2015 09 16 02 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2015 09 16 06 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 09 16 18 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+2015 09 17 00 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2015 09 17 06 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+2015 09 17 18 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 09 18 02 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2015 09 18 08 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+2015 09 18 18 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 09 18 20 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+2015 09 19 02 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2015 09 19 06 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 09 19 18 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+2015 09 20 00 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2015 09 20 06 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+2015 09 20 18 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 09 21 02 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2015 09 21 08 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+2015 09 21 18 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2015 09 21 20 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+2015 09 22 02 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2015 09 22 06 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+2015 09 22 18 00   normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2015 09 23 06 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+2015 09 23 18 00   normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2015 09 24 06 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+2015 09 24 18 00   normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2015 09 25 06 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+2015 09 25 18 00   normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2015 09 26 06 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+2015 09 26 18 00   normalscan -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2015 09 27 06 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+2015 09 27 18 00   normalscan -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2015 09 28 06 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+2015 09 28 18 00   normalscan -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2015 09 29 06 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+2015 09 29 18 00   normalscan -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2015 09 30 06 00   themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+2015 09 30 18 00   normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
