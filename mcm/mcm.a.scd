@@ -27,7 +27,9 @@ channel a
 2015 07 11 04 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2015 07 12 22 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
-2015 07 13 04 00   normalscan -stid mcm -di -fast -df 10750 -nf 10750 -c 1
+#Run spaletarotate for di time
+#2015 07 13 04 00   normalscan -stid mcm -di -fast -df 10750 -nf 10750 -c 1
+2015 07 13 04 00   spaletarotate --stid mcm --di --fast --df 10750 --nf 10750 --nowait --rfreq 10200 --rfreq 11500 --rfreq 11600 --rfreq 12550 --rfreq 12900 --rrep 3 --extended -c 3
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2015 07 13 22 00   normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
 2015 07 14 04 00   normalscan -stid mcm -di -fast -df 10750 -nf 10750 -c 1
