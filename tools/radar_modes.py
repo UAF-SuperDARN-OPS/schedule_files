@@ -232,13 +232,13 @@ radars['sps']["modes"]['Common']={"controlprogram":"normalsound","args":"-df 107
 radars['sps']["modes"]['Common:1-min']={"controlprogram":"normalsound","args":"-fast -df 10750 -nf 10750 -xcf 1",
                                    "priority":"5", "duration": "a"}
 radars['sps']["modes"]['Common:THEMIS']={"controlprogram":"themisscan","args":"-df 10750 -nf 10750 -xcf 1",
-                                   "priority":"5", "duration": "a"}
+                                   "priority":"10", "duration": "a"}
 radars['sps']["modes"]['Special:THEMIS']={"controlprogram":"themisscan","args":"-df 10750 -nf 10750 -xcf 1",
-                                   "priority":"5", "duration": "a"}
+                                   "priority":"10", "duration": "a"}
 radars['sps']["modes"]['Common:no switching']={"controlprogram":"normalscan","args":"-df 10750 -nf 10750 -xcf 1",
-                                   "priority":"5", "duration": "a"}
+                                   "priority":"10", "duration": "a"}
 radars['sps']["modes"]['Common:1-min:no switching']={"controlprogram":"normalscan","args":"-fast -df 10750 -nf 10750 -xcf 1",
-                                   "priority":"5", "duration": "a"}
+                                   "priority":"10", "duration": "a"}
 radars['sps']["modes"]['Special:ST-APOG']={"controlprogram":"rbspscan","args": "-df 10750 -nf 10750 -meribm 1 -westbm 0 -eastbm 3 -xcf 1","priority":"1","duration": "a"}
 # Alternative program if radar not participating in Special program 
 radars['sps']["modes"]['Special:ST-APOG']["altprogram"]="normalscan"
@@ -254,13 +254,13 @@ radars['sps.a']["modes"]['Common']={"controlprogram":"normalsound","args":"-df 1
 radars['sps.a']["modes"]['Common:1-min']={"controlprogram":"normalsound","args":"-fast -df 12550 -nf 12550 -xcf 1",
                                    "priority":"5", "duration": "a"}
 radars['sps.a']["modes"]['Common:THEMIS']={"controlprogram":"themisscan","args":"-df 12550 -nf 12550 -xcf 1",
-                                   "priority":"5", "duration": "a"}
+                                   "priority":"10", "duration": "a"}
 radars['sps.a']["modes"]['Special:THEMIS']={"controlprogram":"themisscan","args":"-df 12550 -nf 12550 -xcf 1",
-                                   "priority":"5", "duration": "a"}
+                                   "priority":"10", "duration": "a"}
 radars['sps.a']["modes"]['Common:no switching']={"controlprogram":"normalscan","args":"-df 12550 -nf 12550 -xcf 1",
-                                   "priority":"5", "duration": "a"}
+                                   "priority":"10", "duration": "a"}
 radars['sps.a']["modes"]['Common:1-min:no switching']={"controlprogram":"normalscan","args":"-fast -df 12550 -nf 12550 -xcf 1",
-                                   "priority":"5", "duration": "a"}
+                                   "priority":"10", "duration": "a"}
 radars['sps.a']["modes"]['Special:ST-APOG']={"controlprogram":"rbspscan","args": "-df 12550 -nf 12550 -meribm 1 -westbm 0 -eastbm 3 -xcf 1","priority":"1","duration": "a"}
 # Alternative program if radar not participating in Special program 
 radars['sps.a']["modes"]['Special:ST-APOG']["altprogram"]="normalsound"
