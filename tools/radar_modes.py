@@ -299,9 +299,9 @@ radars['ade.a']["modes"]['Common']={"controlprogram":"normalsound","args":"",
 radars['ade.a']["modes"]['Common:1-min']={"controlprogram":"normalsound","args":"-fast",
                                    "priority":"10", "duration": "a"}
 radars['ade.a']["modes"]['Common:THEMIS']={"controlprogram":"themisscan","args":"",
-                                   "priority":"10", "duration": "a"}
+                                   "priority":"15", "duration": "a"}
 radars['ade.a']["modes"]['Special:THEMIS']={"controlprogram":"themisscan","args":"",
-                                   "priority":"10", "duration": "a"}
+                                   "priority":"15", "duration": "a"}
 radars['ade.a']["modes"]['Common:no switching']={"controlprogram":"normalscan","args":"",
                                    "priority":"10", "duration": "a"}
 radars['ade.a']["modes"]['Common:1-min:no switching']={"controlprogram":"normalscan","args":"-fast",
@@ -322,9 +322,9 @@ radars['adw.a']["modes"]['Common']={"controlprogram":"normalsound","args":"",
 radars['adw.a']["modes"]['Common:1-min']={"controlprogram":"normalsound","args":"-fast",
                                    "priority":"10", "duration": " a"}
 radars['adw.a']["modes"]['Common:THEMIS']={"controlprogram":"themisscan","args":"-camp 12",
-                                   "priority":"10", "duration": " a"}
+                                   "priority":"15", "duration": " a"}
 radars['adw.a']["modes"]['Special:THEMIS']={"controlprogram":"themisscan","args":"-camp 12",
-                                   "priority":"10", "duration": " a"}
+                                   "priority":"15", "duration": " a"}
 radars['adw.a']["modes"]['Common:no switching']={"controlprogram":"normalscan","args":"",
                                    "priority":"10", "duration": " a"}
 radars['adw.a']["modes"]['Common:1-min:no switching']={"controlprogram":"normalscan","args":"-fast",
