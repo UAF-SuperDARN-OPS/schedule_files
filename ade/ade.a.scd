@@ -125,7 +125,7 @@ duration  0
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2015 08 31 04 00    360  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
 2015 08 31 10 00    840  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
-e015 09 01 00 00    960   1 normalsound -stid ade -xcf 1 -di -fast -df 13600 -nf 10750 -c 1
+2015 09 01 00 00    960   1 normalsound -stid ade -xcf 1 -di -fast -df 13600 -nf 10750 -c 1
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2015 09 01 16 00    360  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
 2015 09 01 22 00   1200   1 normalsound -stid ade -xcf 1 -di -fast -df 13600 -nf 10750 -c 1
