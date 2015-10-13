@@ -4,6 +4,7 @@ stationid mcm
 sitelib ros
 channel a
 duration a
+priority 1
 
 
 2015 10 01 00 00    360   1 normalscan -stid mcm -fast -df 10750 -nf 10750 -c 1
