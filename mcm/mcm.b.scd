@@ -4,6 +4,7 @@ stationid mcm
 sitelib ros
 channel b
 duration a
+priority 1
 
 2015 10 01 00 00    360   5 normalscan -stid mcm -fast -df 12550 -nf 12550 -c 2
 # >>> Schedule note <<< please re-confirm correct schedule: see Note B
