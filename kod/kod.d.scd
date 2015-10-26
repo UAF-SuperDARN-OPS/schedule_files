@@ -108,7 +108,9 @@ duration a
 2015 10 29 02 00   4200   5 normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
 2015 11 01 00 00   4560   5 normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
 # >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2015 11 04 04 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+2015 11 04 04 00    420  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+2015 11 04 11 00     30  30 normalscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4 -sb 7 -eb 7 -fixfrq 11210
+2015 11 04 11 30    330  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
 2015 11 04 16 00    720   5 normalscan -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
 # >>> Schedule note <<< please re-confirm correct schedule: see Note B
 2015 11 05 04 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4

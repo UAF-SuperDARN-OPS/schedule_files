@@ -22,6 +22,8 @@ parser.add_argument('-y', '--year',type=int)
 parser.add_argument('-d', '--dsched',default=None,help="Discretionary schedule file")
 parser.add_argument('-x', '--ext',default="scd",help="File extention default: scd")
 parser.add_argument('-r', '--radar',default=default_radar,help="Formatted as  stid.chan.  Leave off the \".chan\" for not-multichannel aware radars. Radarname default: %s" % (default_radar))
+parser.add_argument('-n', '--noheader',default=False,action='store_true')
+parser.add_argument('-a', '--autoappend',default=False,action='store_true')
 parser.add_argument('schedule_file', type=argparse.FileType('r'),help="SuperDARN input schedule text files")
 opts=parser.parse_args()
 if opts.radar not in radars:
@@ -113,27 +115,29 @@ else:
 notes=0
 f = open(filename, 'w')
 
-f.write("path %s\n" % radars[opts.radar]["path"])
-cp=radars[opts.radar]["modes"]["default"]["controlprogram"]
-cp+=" "+radars[opts.radar]["required_pre_args"]
-cp+=" "+radars[opts.radar]["modes"]["default"]["args"]
-cp+=" "+radars[opts.radar]["required_post_args"]
-f.write("default %s\n" % cp)
-if "stationid" in radars[opts.radar]:
-  f.write("stationid %s\n" % radars[opts.radar]["stationid"])
-if "sitelib" in radars[opts.radar]:
-  f.write("sitelib %s\n" % radars[opts.radar]["sitelib"])
-if "channel" in radars[opts.radar]:
-  f.write("channel %s\n" % radars[opts.radar]["channel"])
-if "priority" in radars[opts.radar]["modes"]["default"]:
-  default_priority=radars[opts.radar]["modes"]["default"]["priority"]
-  has_default_priority=True
-  f.write("priority %s\n" % default_priority)
-if "duration" in radars[opts.radar]["modes"]["default"]:
-  default_duration=radars[opts.radar]["modes"]["default"]["duration"]
-  has_default_duration=True
-  f.write("duration %s\n" % default_duration)
-f.write("\n")
+if not opts.noheader:
+  f.write("path %s\n" % radars[opts.radar]["path"])
+  cp=radars[opts.radar]["modes"]["default"]["controlprogram"]
+  cp+=" "+radars[opts.radar]["required_pre_args"]
+  cp+=" "+radars[opts.radar]["modes"]["default"]["args"]
+  cp+=" "+radars[opts.radar]["required_post_args"]
+  f.write("default %s\n" % cp)
+  if "stationid" in radars[opts.radar]:
+    f.write("stationid %s\n" % radars[opts.radar]["stationid"])
+  if "sitelib" in radars[opts.radar]:
+    f.write("sitelib %s\n" % radars[opts.radar]["sitelib"])
+  if "channel" in radars[opts.radar]:
+    f.write("channel %s\n" % radars[opts.radar]["channel"])
+  if "priority" in radars[opts.radar]["modes"]["default"]:
+    default_priority=radars[opts.radar]["modes"]["default"]["priority"]
+    has_default_priority=True
+    f.write("priority %s\n" % default_priority)
+  if "duration" in radars[opts.radar]["modes"]["default"]:
+    default_duration=radars[opts.radar]["modes"]["default"]["duration"]
+    has_default_duration=True
+    f.write("duration %s\n" % default_duration)
+  f.write("\n")
+
 
 opts.schedule_file.seek(0)
 print "Finding Notes Section:"
@@ -284,4 +288,11 @@ if month_minutes != scd_minutes:
   print "Warning! Missing scheduled minutes"
 print "At least one schedule note was found. Please review the schedule email for special radar instructions"
 
+if opts.autoappend:
+    import subprocess 
+    rbase = opts.radar.split('.')[0]
+
+    targetfile = '../{}/{}.scd'.format(rbase, opts.radar)
+    catcommand = ['cat', filename, targetfile]
+    subprocess.Popen(catcommand)
 

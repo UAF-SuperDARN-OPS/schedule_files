@@ -108,7 +108,9 @@ duration a
 2015 10 29 02 00   4200   5 normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
 2015 11 01 00 00   4560   5 normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
 # >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2015 11 04 04 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
+2015 11 04 04 00    420  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
+2015 11 04 11 00    30   30 noopscan -stid kod -c 3
+2015 11 04 11 30    330  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
 2015 11 04 16 00    720   5 normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
 # >>> Schedule note <<< please re-confirm correct schedule: see Note B
 2015 11 05 04 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
