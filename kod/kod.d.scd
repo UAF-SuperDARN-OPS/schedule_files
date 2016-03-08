@@ -177,3 +177,57 @@ duration a
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2016 03 31 14 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
 2016 03 31 20 00    240   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+2016 04 01 00 00    960   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2016 04 01 16 00    360   1 rbspscan -stid kod -xcf 1 -df 10750 -nf 10750 -meribm 1 -westbm 0 -eastbm 3 -c 4
+2016 04 01 22 00    840   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2016 04 02 12 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+2016 04 02 18 00   1200   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2016 04 03 14 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+2016 04 03 20 00   1200   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2016 04 04 16 00    360   1 rbspscan -stid kod -xcf 1 -df 10750 -nf 10750 -meribm 1 -westbm 0 -eastbm 3 -c 4
+2016 04 04 22 00    720   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2016 04 05 10 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+2016 04 05 16 00   1320   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2016 04 06 14 00    360   1 rbspscan -stid kod -xcf 1 -df 10750 -nf 10750 -meribm 1 -westbm 0 -eastbm 3 -c 4
+2016 04 06 20 00   1200   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2016 04 07 16 00    360   1 rbspscan -stid kod -xcf 1 -df 10750 -nf 10750 -meribm 1 -westbm 0 -eastbm 3 -c 4
+2016 04 07 22 00    720   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2016 04 08 10 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+2016 04 08 16 00   1320   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2016 04 09 14 00    360   1 rbspscan -stid kod -xcf 1 -df 10750 -nf 10750 -meribm 1 -westbm 0 -eastbm 3 -c 4
+2016 04 09 20 00   1320   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2016 04 10 18 00    360   1 rbspscan -stid kod -xcf 1 -df 10750 -nf 10750 -meribm 1 -westbm 0 -eastbm 3 -c 4
+2016 04 11 00 00  12960   5 normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
+2016 04 20 00 00   2880   5 normalscan -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+2016 04 22 00 00   3480   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2016 04 24 10 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+2016 04 24 16 00   1200   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2016 04 25 12 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+2016 04 25 18 00   1320   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2016 04 26 16 00    360   1 rbspscan -stid kod -xcf 1 -df 10750 -nf 10750 -meribm 1 -westbm 0 -eastbm 3 -c 4
+2016 04 26 22 00    720   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2016 04 27 10 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+2016 04 27 16 00   1200   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2016 04 28 12 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+2016 04 28 18 00   1320   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2016 04 29 16 00    360   1 rbspscan -stid kod -xcf 1 -df 10750 -nf 10750 -meribm 1 -westbm 0 -eastbm 3 -c 4
+2016 04 29 22 00    720   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2016 04 30 10 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+2016 04 30 16 00    480   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
