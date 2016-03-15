@@ -71,4 +71,7 @@ priority 5
 2014 11 17 22 10  5 10  timscan --noint --scansc=21 --scanoffset=42 --rsep=15 --nrang=500 --baud 1 --notransmit --fixfrq 12000 --mppul 1 --tau 5000 --sb 8 --eb 8  
 2014 11 17 22 15  5 10  timscan --noint --scansc=21 --scanoffset=42 --rsep=15 --nrang=500 --baud 1 --notransmit --fixfrq 12000 --mppul 1 --tau 5000 --sb 8 --eb 8  
 
+2016 03 15 19 33  5 01  timscan --mppul=15 --baud=5 --tau=20000 --nrang=200 --frang=180 --rsep=15 --sb 8 --eb 8 --clrskip=30 --clrscan --onesec
+2016 03 15 19 35  5 01  timscan --sb 8 --eb 8 --mppul=15 --clrskip=30 --clrscan
+2016 03 15 19 37  5 01  timscan --sb 8 --eb 8 --mppul=15 --clrskip=30 --clrscan --onesec
 
