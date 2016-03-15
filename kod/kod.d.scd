@@ -132,6 +132,7 @@ duration a
 # >>> Schedule note <<< please re-confirm correct schedule: see Note B
 2016 03 13 00 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
 2016 03 13 12 00   4320   5 normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
+2016 03 15 19 30    15   90 noopscan -stid kod -c 4
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
 2016 03 16 12 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
 2016 03 16 18 00   1440   5 normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4

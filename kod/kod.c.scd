@@ -132,6 +132,7 @@ duration a
 2016 03 13 00 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
 2016 03 13 12 00   4320   5 normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2016 03 15 19 30    90   50 noopscan -stid kod -c 3
 2016 03 16 12 00    360   1 normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
 2016 03 16 18 00   1440   5 normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
 # >>> Schedule note <<< please re-confirm correct schedule: See Note A
