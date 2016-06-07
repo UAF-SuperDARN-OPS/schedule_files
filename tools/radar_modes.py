@@ -210,9 +210,9 @@ radars['mcm.a']["modes"]['Special:ST-APOG']["altargs"]="-fast -df 10750 -nf 1075
 
 radars['mcm.b']["modes"]={}
 radars['mcm.b']["modes"]['default']={"controlprogram":"normalscan","args":"-fast -df 12550 -nf 12550","priority":"1","duration": "a"}
-radars['mcm.b']["modes"]['Discretionary']={"controlprogram":"normalscan","args":"-di -fast -df 12550 -nf 12550","priority":"5","duration": "a"}
-radars['mcm.b']["modes"]['Common']={"controlprogram":"normalscan","args":"-df 12550 -nf 12550","priority":"5","duration": "a"}
-radars['mcm.b']["modes"]['Common:1-min']={"controlprogram":"normalscan","args":"-fast -df 12550 -nf 12550","priority":"5","duration": "a"}
+radars['mcm.b']["modes"]['Discretionary']={"controlprogram":"normalsound","args":"-di -fast -df 12550 -nf 12550","priority":"5","duration": "a"}
+radars['mcm.b']["modes"]['Common']={"controlprogram":"normalsound","args":"-df 12550 -nf 12550","priority":"5","duration": "a"}
+radars['mcm.b']["modes"]['Common:1-min']={"controlprogram":"normalsound","args":"-fast -df 12550 -nf 12550","priority":"5","duration": "a"}
 radars['mcm.b']["modes"]['Common:THEMIS']={"controlprogram":"themisscan","args":"-df 12550 -nf 12550","priority":"15","duration": "a"}
 radars['mcm.b']["modes"]['Special:THEMIS']={"controlprogram":"themisscan","args":"-df 12550 -nf 12550","priority":"15","duration": "a"}
 radars['mcm.b']["modes"]['Common:no switching']={"controlprogram":"normalscan","args":"-df 12550 -nf 12550","priority":"15","duration": "a"}
