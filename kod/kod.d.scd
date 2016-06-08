@@ -6,141 +6,6 @@ channel d
 priority 1
 duration a
 
-2016 03 31 14 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-2016 03 31 20 00    240   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-2016 04 01 00 00    960   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2016 04 01 16 00    360   1 rbspscan -stid kod -xcf 1 -df 10750 -nf 10750 -meribm 1 -westbm 0 -eastbm 3 -c 4
-2016 04 01 22 00    840   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2016 04 02 12 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-2016 04 02 18 00   1200   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2016 04 03 14 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-2016 04 03 20 00   1200   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2016 04 04 16 00    360   1 rbspscan -stid kod -xcf 1 -df 10750 -nf 10750 -meribm 1 -westbm 0 -eastbm 3 -c 4
-2016 04 04 22 00    720   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2016 04 05 10 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-2016 04 05 16 00   1320   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2016 04 06 14 00    360   1 rbspscan -stid kod -xcf 1 -df 10750 -nf 10750 -meribm 1 -westbm 0 -eastbm 3 -c 4
-2016 04 06 20 00   1200   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2016 04 07 16 00    360   1 rbspscan -stid kod -xcf 1 -df 10750 -nf 10750 -meribm 1 -westbm 0 -eastbm 3 -c 4
-2016 04 07 22 00    720   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2016 04 08 10 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-2016 04 08 16 00   1320   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2016 04 09 14 00    360   1 rbspscan -stid kod -xcf 1 -df 10750 -nf 10750 -meribm 1 -westbm 0 -eastbm 3 -c 4
-2016 04 09 20 00   1320   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2016 04 10 18 00    360   1 rbspscan -stid kod -xcf 1 -df 10750 -nf 10750 -meribm 1 -westbm 0 -eastbm 3 -c 4
-2016 04 11 00 00  12960   5 normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
-2016 04 20 00 00   2880   5 normalscan -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-2016 04 22 00 00   3480   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2016 04 24 10 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-2016 04 24 16 00   1200   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2016 04 25 12 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-2016 04 25 18 00   1320   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2016 04 26 16 00    360   1 rbspscan -stid kod -xcf 1 -df 10750 -nf 10750 -meribm 1 -westbm 0 -eastbm 3 -c 4
-2016 04 26 22 00    720   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2016 04 27 10 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-2016 04 27 16 00   1200   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2016 04 28 12 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-2016 04 28 18 00   1320   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2016 04 29 16 00    360   1 rbspscan -stid kod -xcf 1 -df 10750 -nf 10750 -meribm 1 -westbm 0 -eastbm 3 -c 4
-2016 04 29 22 00    720   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2016 04 30 10 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-2016 04 30 16 00    480   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-2016 05 01 00 00    720   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2016 05 01 12 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-2016 05 01 18 00   1320   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2016 05 02 16 00    360   1 rbspscan -stid kod -xcf 1 -df 10750 -nf 10750 -meribm 1 -westbm 0 -eastbm 3 -c 4
-2016 05 02 22 00    480   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 05 03 06 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
-2016 05 03 18 00    720   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 05 04 06 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
-2016 05 04 18 00    720   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 05 05 06 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
-2016 05 05 18 00    960   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2016 05 06 10 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-2016 05 06 16 00   1200   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2016 05 07 12 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-2016 05 07 18 00   1320   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2016 05 08 16 00    360   1 rbspscan -stid kod -xcf 1 -df 10750 -nf 10750 -meribm 1 -westbm 0 -eastbm 3 -c 4
-2016 05 08 22 00    720   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2016 05 09 10 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-2016 05 09 16 00    840   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 05 10 06 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
-2016 05 10 18 00    720   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 05 11 06 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
-2016 05 11 18 00    720   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 05 12 06 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
-2016 05 12 18 00    720   5 normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 05 13 06 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
-2016 05 13 18 00   5160   5 normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2016 05 17 08 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-2016 05 17 14 00    960   5 normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 05 18 06 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
-2016 05 18 18 00    720   5 normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 05 19 06 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
-2016 05 19 18 00    720   5 normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 05 20 06 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
-2016 05 20 18 00    720   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 05 21 06 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
-2016 05 21 18 00    720   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 05 22 06 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
-2016 05 22 18 00   3720   5 normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2016 05 25 08 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-2016 05 25 14 00    960   5 normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 05 26 06 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
-2016 05 26 18 00    720   5 normalscan -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 05 27 06 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
-2016 05 27 18 00    720   5 normalscan -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 05 28 06 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
-2016 05 28 18 00    720   5 normalscan -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 05 29 06 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
-2016 05 29 18 00    720   5 normalscan -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 05 30 06 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
-2016 05 30 18 00    720   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 05 31 06 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
-2016 05 31 18 00    360   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
 2016 06 01 00 00    240   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
 # >>> Schedule note <<< please re-confirm correct schedule: see Note B
 2016 06 01 04 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
@@ -218,3 +83,94 @@ duration a
 # >>> Schedule note <<< please re-confirm correct schedule: see Note B
 2016 06 30 00 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
 2016 06 30 12 00    720   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note C
+2016 07 01 00 00   4680   5 normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2016 07 04 06 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note C
+2016 07 04 12 00   3960   5 normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2016 07 07 06 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+2016 07 07 12 00    720   5 normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2016 07 08 00 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+2016 07 08 12 00    720   5 normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2016 07 09 00 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+2016 07 09 12 00   1080   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2016 07 10 06 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+2016 07 10 12 00    720   5 normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2016 07 11 00 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+2016 07 11 12 00    720   5 normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2016 07 12 00 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+2016 07 12 12 00    600   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2016 07 12 22 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+2016 07 13 10 00    720   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2016 07 13 22 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2016 07 14 10 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+2016 07 14 16 00    360   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2016 07 14 22 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+2016 07 15 10 00    720   5 normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2016 07 15 22 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+2016 07 16 10 00    720   5 normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2016 07 16 22 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2016 07 17 10 00    360   1 rbspscan -stid kod -xcf 1 -df 10750 -nf 10750 -meribm 1 -westbm 0 -eastbm 3 -c 4
+2016 07 17 16 00    360   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2016 07 17 22 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+2016 07 18 10 00    720   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2016 07 18 22 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+2016 07 19 10 00    720   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2016 07 19 22 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2016 07 20 10 00    360   1 rbspscan -stid kod -xcf 1 -df 10750 -nf 10750 -meribm 1 -westbm 0 -eastbm 3 -c 4
+2016 07 20 16 00    360   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2016 07 20 22 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+2016 07 21 10 00    720   5 normalscan -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2016 07 21 22 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+2016 07 22 10 00    720   5 normalscan -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2016 07 22 22 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+2016 07 23 10 00    720   5 normalscan -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2016 07 23 22 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+2016 07 24 10 00    720   5 normalscan -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2016 07 24 22 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+2016 07 25 10 00    600   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2016 07 25 20 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2016 07 26 08 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+2016 07 26 14 00    360   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2016 07 26 20 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+2016 07 27 08 00    720   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2016 07 27 20 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+2016 07 28 08 00    720   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2016 07 28 20 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: See Note A
+2016 07 29 08 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+2016 07 29 14 00    360   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2016 07 29 20 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+2016 07 30 08 00    720   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2016 07 30 20 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
+2016 07 31 08 00    960   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
