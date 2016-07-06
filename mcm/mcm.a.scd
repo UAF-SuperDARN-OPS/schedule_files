@@ -174,3 +174,46 @@ priority 1
 # >>> Schedule note <<< please re-confirm correct schedule: see Note B
 2016 07 30 20 00    720  15 themisscan -stid mcm -xcf 1 -df 10750 -nf 10750 -c 1
 2016 07 31 08 00    960   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2016 08 01 00 00    720  15 themisscan -stid mcm -xcf 1 -df 10750 -nf 10750 -c 1
+2016 08 01 12 00    720   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2016 08 02 00 00    720  15 themisscan -stid mcm -xcf 1 -df 10750 -nf 10750 -c 1
+2016 08 02 12 00    720   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2016 08 03 00 00    720  15 themisscan -stid mcm -xcf 1 -df 10750 -nf 10750 -c 1
+2016 08 03 12 00    720   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2016 08 04 00 00    720  15 themisscan -stid mcm -xcf 1 -df 10750 -nf 10750 -c 1
+2016 08 04 12 00   3960   0 normalscan -stid mcm -xcf 1 -di -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2016 08 07 06 00    360   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2016 08 07 12 00   1200   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2016 08 08 08 00    360   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2016 08 08 14 00   2400   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2016 08 10 06 00    360   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2016 08 10 12 00   1200   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2016 08 11 08 00    360   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2016 08 11 14 00   1680   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2016 08 12 18 00    720  15 themisscan -stid mcm -xcf 1 -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2016 08 13 06 00    360   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2016 08 13 12 00    360   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2016 08 13 18 00    840  15 themisscan -stid mcm -xcf 1 -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2016 08 14 08 00    360   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2016 08 14 14 00   2400   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2016 08 16 06 00    360   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2016 08 16 12 00   2880  15 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2016 08 18 12 00   4680   0 normalscan -stid mcm -xcf 1 -di -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2016 08 21 18 00    720  15 themisscan -stid mcm -xcf 1 -df 10750 -nf 10750 -c 1
+2016 08 22 06 00   1080   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2016 08 23 00 00   4320   0 normalscan -stid mcm -xcf 1 -di -fast -df 10750 -nf 10750 -c 1
+2016 08 26 00 00   8640   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
