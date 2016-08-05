@@ -217,3 +217,35 @@ priority 1
 2016 08 22 06 00   1080   5 normalsound -stid mcm -xcf 1 -fast -df 12550 -nf 12550 -c 2
 2016 08 23 00 00   4320   5 normalsound -stid mcm -xcf 1 -di -fast -df 12550 -nf 12550 -c 2
 2016 08 26 00 00   8640   5 normalsound -stid mcm -xcf 1 -fast -df 12550 -nf 12550 -c 2
+2016 09 01 00 00   4560   5 normalsound -stid mcm -xcf 1 -fast -df 12550 -nf 12550 -c 2
+2016 09 04 04 00   4320   5 normalsound -stid mcm -xcf 1 -di -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2016 09 07 04 00    360   1 normalscan -stid mcm -xcf 1 -fast -df 12550 -nf 12550 -c 2
+2016 09 07 10 00   1320   5 normalsound -stid mcm -xcf 1 -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2016 09 08 08 00    360   1 normalscan -stid mcm -xcf 1 -fast -df 12550 -nf 12550 -c 2
+2016 09 08 14 00   2280   5 normalsound -stid mcm -xcf 1 -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2016 09 10 04 00    360   1 normalscan -stid mcm -xcf 1 -fast -df 12550 -nf 12550 -c 2
+2016 09 10 10 00   1320   5 normalsound -stid mcm -xcf 1 -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2016 09 11 08 00    360   1 normalscan -stid mcm -xcf 1 -fast -df 12550 -nf 12550 -c 2
+2016 09 11 14 00   2280   5 normalsound -stid mcm -xcf 1 -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2016 09 13 04 00    360   1 normalscan -stid mcm -xcf 1 -fast -df 12550 -nf 12550 -c 2
+2016 09 13 10 00   1320   5 normalsound -stid mcm -xcf 1 -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2016 09 14 08 00    360   1 normalscan -stid mcm -xcf 1 -fast -df 12550 -nf 12550 -c 2
+2016 09 14 14 00   2280   5 normalsound -stid mcm -xcf 1 -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2016 09 16 04 00    360   1 normalscan -stid mcm -xcf 1 -fast -df 12550 -nf 12550 -c 2
+2016 09 16 10 00   1320   5 normalsound -stid mcm -xcf 1 -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2016 09 17 08 00    360   1 normalscan -stid mcm -xcf 1 -fast -df 12550 -nf 12550 -c 2
+2016 09 17 14 00   2280   5 normalsound -stid mcm -xcf 1 -fast -df 12550 -nf 12550 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2016 09 19 04 00    360   1 normalscan -stid mcm -xcf 1 -fast -df 12550 -nf 12550 -c 2
+2016 09 19 10 00   2280   5 normalsound -stid mcm -xcf 1 -fast -df 12550 -nf 12550 -c 2
+2016 09 21 00 00   8640   5 normalsound -stid mcm -xcf 1 -di -fast -df 12550 -nf 12550 -c 2
+2016 09 27 00 00   2880  15 normalscan -stid mcm -xcf 1 -fast -df 12550 -nf 12550 -c 2
+2016 09 29 00 00   2880   5 normalsound -stid mcm -xcf 1 -fast -df 12550 -nf 12550 -c 2
