@@ -36,7 +36,7 @@ priority 5
 2014 11 18 18 30   30 50 spaletascan --stid kod -c 4 --di --fast --df 10400 --nf 10400
 2014 11 18 19 00   60 50 spaletascan --stid kod -c 4 --di --fast --df 10400 --nf 10400
 
-2016 08 18 12 00   4680 99 pcodescan_15km -stid kod -ep 44000 -sp 44001 -bp 44100 -di -fast -df 10400 -nf 10400 -xcf 1 -c 4
+2016 08 18 12 00   4680 99 pcodescan_15km -stid kod -ep 44000 -sp 44001 -bp 44100 -di -fast -df 10400 -nf 10400 -xcf 1 -c 4 -fixfrq 10632
 # 18:12    21:18    Discretionary Time
 #
 
