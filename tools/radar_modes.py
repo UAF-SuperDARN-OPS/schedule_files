@@ -265,6 +265,11 @@ radars['sps.a']["modes"]['Special:ST-APOG']={"controlprogram":"rbspscan","args":
 # Alternative program if radar not participating in Special program 
 radars['sps.a']["modes"]['Special:ST-APOG']["altprogram"]="normalsound"
 radars['sps.a']["modes"]['Special:ST-APOG']["altargs"]="-df 12550 -nf 12550 -fast -xcf 1"
+radars['sps.a']["modes"]['Special:World Day']={"controlprogram":"iwdscan","args":"-fast -df 12550 -nf 12550 -xcf 1",
+    "priority":"0", "duration": "a"}
+# Alternative program if radar not participating in Special program
+radars['sps.a']["modes"]['Special:World Day']["altprogram"]="normalsound"
+radars['sps.a']["modes"]['Special:World Day']["altargs"]="-df 12550 -nf 12550 -fast -xcf 1"
 
 radars['sps.b']["modes"]={}
 radars['sps.b']["modes"]['default']={"controlprogram":"normalscan","args":"-fast -df 10750 -nf 10750", 
