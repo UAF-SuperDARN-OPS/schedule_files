@@ -196,6 +196,9 @@ radars['kod.d']["modes"]['Special:ST-APOG']["altargs"]="-fast -df 10400 -nf 1040
 
 radars['mcm.a']["modes"]={}
 radars['mcm.a']["modes"]['default']={"controlprogram":"normalscan","args":"-fast -df 10750 -nf 10750","priority":"0","duration": "a"}
+radars['mcm.a']["modes"]['Special:World Day']={"controlprogram":"normalscan","args":"-fast -df 10750 -nf 10750","priority":"0","duration": "a"}
+radars['mcm.a']["modes"]['Special:World Day']['altprogram']="normalscan"
+radars['mcm.a']["modes"]['Special:World Day']["altargs"]="-fast -df 10750 -nf 10750"
 radars['mcm.a']["modes"]['Discretionary']={"controlprogram":"normalscan","args":"-di -fast -df 10750 -nf 10750","priority":"0","duration": "a"}
 radars['mcm.a']["modes"]['Common']={"controlprogram":"normalscan","args":"-df 10750 -nf 10750","priority":"1","duration": "a"}
 radars['mcm.a']["modes"]['Common:1-min']={"controlprogram":"normalscan","args":"-fast -df 10750 -nf 10750","priority":"1","duration": "a"}
@@ -221,6 +224,9 @@ radars['mcm.b']["modes"]['Special:ST-APOG']={"controlprogram":"rbspscan","args":
 # Alternative program if radar not participating in Special program 
 radars['mcm.b']["modes"]['Special:ST-APOG']["altprogram"]="normalscan"
 radars['mcm.b']["modes"]['Special:ST-APOG']["altargs"]="-fast -df 12550 -nf 12550"
+radars['mcm.b']["modes"]['Special:World Day']={"controlprogram":"normalscan","args":"-fast -df 12550 -nf 12550","priority":"0","duration": "a"}
+radars['mcm.b']["modes"]['Special:World Day']['altprogram']="normalscan"
+radars['mcm.b']["modes"]['Special:World Day']["altargs"]="-fast -df 12550 -nf 12550"
 
 radars['sps']["modes"]={}
 radars['sps']["modes"]['default']={"controlprogram":"normalscan","args":"-fast -df 10750 -nf 10750 -xcf 1", 
