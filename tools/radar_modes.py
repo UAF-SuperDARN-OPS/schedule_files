@@ -178,6 +178,9 @@ radars['kod.c']["modes"]['Special:ST-APOG']={"controlprogram":"normalscan","args
 # Alternative program if radar not participating in Special program 
 radars['kod.c']["modes"]['Special:ST-APOG']["altprogram"]="normalscan"
 radars['kod.c']["modes"]['Special:ST-APOG']["altargs"]="-sb 3 -eb 3 -fast -df 10400 -nf 10400"
+radars['kod.c']["modes"]['Special:World Day']={"controlprogram":"iwdscan","args":"-fast -df 10400 -nf 10400","priority":"0","duration": "a"}
+radars['kod.c']["modes"]['Special:World Day']['altprogram']="normalscan"
+radars['kod.c']["modes"]['Special:World Day']["altargs"]="-fast -df 10400 -nf 10400"
 
 radars['kod.d']["modes"]={}
 radars['kod.d']["modes"]['default']={"controlprogram":"normalscan","args":"-fast -df 10400 -nf 10400"}
@@ -193,6 +196,10 @@ radars['kod.d']["modes"]['Special:ST-APOG']={"controlprogram":"rbspscan","args":
 # Alternative program if radar not participating in Special program 
 radars['kod.d']["modes"]['Special:ST-APOG']["altprogram"]="normalsound"
 radars['kod.d']["modes"]['Special:ST-APOG']["altargs"]="-fast -df 10400 -nf 10400"
+radars['kod.d']["modes"]['Special:World Day']={"controlprogram":"iwdscan","args":"-fast -df 10400 -nf 10400","priority":"0","duration": "a"}
+radars['kod.d']["modes"]['Special:World Day']['altprogram']="normalscan"
+radars['kod.d']["modes"]['Special:World Day']["altargs"]="-fast -df 10400 -nf 10400"
+
 
 radars['mcm.a']["modes"]={}
 radars['mcm.a']["modes"]['default']={"controlprogram":"normalscan","args":"-fast -df 10750 -nf 10750","priority":"0","duration": "a"}
@@ -210,6 +217,10 @@ radars['mcm.a']["modes"]['Special:ST-APOG']={"controlprogram":"rbspscan","args":
 # Alternative program if radar not participating in Special program 
 radars['mcm.a']["modes"]['Special:ST-APOG']["altprogram"]="normalscan"
 radars['mcm.a']["modes"]['Special:ST-APOG']["altargs"]="-fast -df 10750 -nf 10750"
+radars['mcm.a']["modes"]['Special:World Day']={"controlprogram":"normalscan","args":"-fast -df 10750 -nf 10750","priority":"0","duration": "a"}
+radars['mcm.a']["modes"]['Special:World Day']['altprogram']="normalscan"
+radars['mcm.a']["modes"]['Special:World Day']["altargs"]="-fast -df 10750 -nf 10750"
+
 
 radars['mcm.b']["modes"]={}
 radars['mcm.b']["modes"]['default']={"controlprogram":"normalscan","args":"-fast -df 12550 -nf 12550","priority":"1","duration": "a"}
