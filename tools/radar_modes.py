@@ -179,7 +179,7 @@ radars['kod.c']["modes"]['Special:ST-APOG']={"controlprogram":"normalscan","args
 radars['kod.c']["modes"]['Special:ST-APOG']["altprogram"]="normalscan"
 radars['kod.c']["modes"]['Special:ST-APOG']["altargs"]="-sb 3 -eb 3 -fast -df 10400 -nf 10400"
 
-radars['kod.c']["modes"]['Special:World Day']={"controlprogram":"iwdscan","args":"-sb 3 -eb 3 -fast -df 10400 -nf 10400","priority":"0", "duration":"a"}
+radars['kod.c']["modes"]['Special:World Day']={"controlprogram":"iwdscan","args":"-startbeam 0 -stopbeam 8 -df 10400 -nf 10400","priority":"0", "duration":"a"}
 # Alternative program if radar not participating in Special program
 radars['kod.c']["modes"]['Special:World Day']["altprogram"]="normalscan"
 radars['kod.c']["modes"]['Special:World Day']["altargs"]="-sb 3 -eb 3 -fast -df 10400 -nf 10400"
@@ -199,8 +199,7 @@ radars['kod.d']["modes"]['Special:ST-APOG']={"controlprogram":"rbspscan","args":
 # Alternative program if radar not participating in Special program 
 radars['kod.d']["modes"]['Special:ST-APOG']["altprogram"]="normalsound"
 radars['kod.d']["modes"]['Special:ST-APOG']["altargs"]="-fast -df 10400 -nf 10400"
-radars['kod.d']["modes"]['Special:World Day']={"controlprogram":"iwdscan","args":"-sb 3 -eb 3 -fast -df 10400 -nf 10400","priority":"0", "duration":"a"}
-#radars['kod.d']["modes"]['Special:ST-APOG']={"controlprogram":"normalscan","args": "-df 10750 -nf 10750 -fast","priority":"1","duration": "a"}
+radars['kod.d']["modes"]['Special:World Day']={"controlprogram":"iwdscan","args":"-startbeam 0 -stopbeam 8 -df 10400 -nf 10400","priority":"0", "duration":"a"}
 # Alternative program if radar not participating in Special program
 radars['kod.d']["modes"]['Special:World Day']["altprogram"]="normalsound"
 radars['kod.d']["modes"]['Special:World Day']["altargs"]="-fast -df 10400 -nf 10400"
