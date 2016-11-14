@@ -302,7 +302,7 @@ priority 1
 # >>> Schedule note <<< please re-confirm correct schedule: see Notes B, C
 2016 11 04 06 00    720  15 themisscan -stid mcm -xcf 1 -df 10750 -nf 10750 -c 1
 # >>> Schedule note <<< please re-confirm correct schedule: see Note E
-2016 11 04 18 00   4320   0 normalscan -stid mcm -xcf 1 -di -fast -df 10750 -nf 10750 -c 1
+2016 11 04 18 00   4320   0 interleavescan -stid mcm -xcf 1 -di -fast -df 10750 -nf 10750 -c 1
 2016 11 07 18 00   9600   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
 # >>> Schedule note <<< please re-confirm correct schedule: see Note E
 2016 11 14 10 00   4320   0 normalscan -stid mcm -xcf 1 -di -fast -df 10750 -nf 10750 -c 1
