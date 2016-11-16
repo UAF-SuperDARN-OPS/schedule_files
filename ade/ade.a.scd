@@ -22,7 +22,7 @@ duration  0
 2016 11 04 18 00   4320   1 normalsound -stid ade -xcf 1 -di -fast -df 13600 -nf 10750 -c 1
 2016 11 07 18 00   9600  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
 # >>> Schedule note <<< please re-confirm correct schedule: see Note E
-2016 11 14 10 00   4320   1 interleavescan -stid ade -xcf 1 -di -fast -df 13600 -nf 10750 -c 1
+2016 11 14 10 00   4320   1 iwd_normalscan -stid ade -xcf 1 -sb 7 -eb 15 -df 10750 -nf 9100 -c 1
 # >>> Schedule note <<< please re-confirm correct schedule: see Note A
 2016 11 17 10 00    360  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
 2016 11 17 16 00    720  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
@@ -38,4 +38,4 @@ duration  0
 2016 11 21 10 00   4320   1 normalsound -stid ade -xcf 1 -di -fast -df 13600 -nf 10750 -c 1
 2016 11 24 10 00   5160  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
 # >>> Schedule note <<< please re-confirm correct schedule: see Note D
-2016 11 28 00 00   4320   0 iwdscan -stid ade -xcf 1 -startbeam 4 -stopbeam 12 -df 13600 -nf 10750 -c 1
+2016 11 28 00 00   4320   0 iwd_normalscan -stid ade -xcf 1 -sb 7 -eb 15 -df 10750 -nf 9100 -c 1
