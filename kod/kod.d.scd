@@ -22,7 +22,7 @@ duration a
 2016 11 04 18 00   4320   5 normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
 2016 11 07 18 00   9600   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
 # >>> Schedule note <<< please re-confirm correct schedule: see Note E
-2016 11 14 10 00   4320   5 iwd_normalscan -stid kod -xcf 1 -sb 0 -eb 8 -df 12100 -nf 9300 -c 4
+2016 11 14 10 00   4320   5 iwd_normalscan -stid kod -xcf 1 -sb 0 -eb 8 -df 12100 -nf 9300 -c 4 -use_marker 1
 # >>> Schedule note <<< please re-confirm correct schedule: see Note A
 2016 11 17 10 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
 2016 11 17 16 00    720   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
