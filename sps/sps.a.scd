@@ -3,315 +3,6 @@ default normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 1
 priority  0
 duration  0
 
-2016 06 01 00 00    240   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 06 01 04 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 06 01 16 00    720   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 06 02 04 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 06 02 16 00    720   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 06 03 04 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 06 03 16 00    720   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 06 04 04 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 06 04 16 00    720   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 06 05 04 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 06 05 16 00    720   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 06 06 04 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 06 06 16 00    720   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 06 07 04 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 06 07 16 00    720   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 06 08 04 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 06 08 16 00    720   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 06 09 04 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 06 09 16 00   1200   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2016 06 10 12 00    360   1 rbspscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -meribm 1 -westbm 0 -eastbm 3 -xcf 1 -c 1
-2016 06 10 18 00   1200   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2016 06 11 14 00    360   1 rbspscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -meribm 1 -westbm 0 -eastbm 3 -xcf 1 -c 1
-2016 06 11 20 00    720   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2016 06 12 08 00    360   1 rbspscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -meribm 1 -westbm 0 -eastbm 3 -xcf 1 -c 1
-2016 06 12 14 00   5040   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 06 16 02 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 06 16 14 00    720   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 06 17 02 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 06 17 14 00    720   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 06 18 02 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 06 18 14 00    720   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 06 19 02 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 06 19 14 00    720   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 06 20 02 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 06 20 14 00   2520   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2016 06 22 08 00    360   1 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -xcf 1 -c 1
-2016 06 22 14 00   1080   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2016 06 23 08 00    360   1 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -xcf 1 -c 1
-2016 06 23 14 00   1440   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
-2016 06 24 14 00    600   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 06 25 00 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 06 25 12 00    720  10 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 06 26 00 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 06 26 12 00    720  10 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 06 27 00 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 06 27 12 00    720  10 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 06 28 00 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 06 28 12 00    720  10 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 06 29 00 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 06 29 12 00    720   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 06 30 00 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 06 30 12 00    720   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note C
-2016 07 01 00 00   4680   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2016 07 04 06 00    360   1 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note C
-2016 07 04 12 00   3960   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2016 07 07 06 00    360   1 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -xcf 1 -c 1
-2016 07 07 12 00    720   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 07 08 00 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 07 08 12 00    720   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 07 09 00 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 07 09 12 00   1080   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2016 07 10 06 00    360   1 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -xcf 1 -c 1
-2016 07 10 12 00    720   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 07 11 00 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 07 11 12 00    720   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 07 12 00 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 07 12 12 00    600   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 07 12 22 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 07 13 10 00    720   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 07 13 22 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2016 07 14 10 00    360   1 rbspscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -meribm 1 -westbm 0 -eastbm 3 -xcf 1 -c 1
-2016 07 14 16 00    360   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 07 14 22 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 07 15 10 00    720   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 07 15 22 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 07 16 10 00    720   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 07 16 22 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2016 07 17 10 00    360   1 rbspscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -meribm 1 -westbm 0 -eastbm 3 -xcf 1 -c 1
-2016 07 17 16 00    360   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 07 17 22 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 07 18 10 00    720   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 07 18 22 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 07 19 10 00    720   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 07 19 22 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2016 07 20 10 00    360   1 rbspscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -meribm 1 -westbm 0 -eastbm 3 -xcf 1 -c 1
-2016 07 20 16 00    360   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 07 20 22 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 07 21 10 00    720  10 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 07 21 22 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 07 22 10 00    720  10 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 07 22 22 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 07 23 10 00    720  10 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 07 23 22 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 07 24 10 00    720  10 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 07 24 22 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 07 25 10 00    600   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 07 25 20 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2016 07 26 08 00    360   1 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -xcf 1 -c 1
-2016 07 26 14 00    360   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 07 26 20 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 07 27 08 00    720   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 07 27 20 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 07 28 08 00    720   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 07 28 20 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: See Note A
-2016 07 29 08 00    360   1 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -xcf 1 -c 1
-2016 07 29 14 00    360   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 07 29 20 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 07 30 08 00    720   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 07 30 20 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 07 31 08 00    960   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 08 01 00 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 08 01 12 00    720   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 08 02 00 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 08 02 12 00    720   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 08 03 00 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 08 03 12 00    720   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 08 04 00 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 08 04 12 00   3960   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note A
-2016 08 07 06 00    360   1 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -xcf 1 -c 1
-2016 08 07 12 00   1200   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note A
-2016 08 08 08 00    360   1 rbspscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -meribm 1 -westbm 0 -eastbm 3 -xcf 1 -c 1
-2016 08 08 14 00   2400   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note A
-2016 08 10 06 00    360   1 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -xcf 1 -c 1
-2016 08 10 12 00   1200   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note A
-2016 08 11 08 00    360   1 rbspscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -meribm 1 -westbm 0 -eastbm 3 -xcf 1 -c 1
-2016 08 11 14 00   1680   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 08 12 18 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note A
-2016 08 13 06 00    360   1 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -xcf 1 -c 1
-2016 08 13 12 00    360   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 08 13 18 00    840  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note A
-2016 08 14 08 00    360   1 rbspscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -meribm 1 -westbm 0 -eastbm 3 -xcf 1 -c 1
-2016 08 14 14 00   2400   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note A
-2016 08 16 06 00    360   1 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -xcf 1 -c 1
-2016 08 16 12 00   2880  10 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-2016 08 18 12 00   4680   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2016 08 21 18 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 08 22 06 00   1080   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-2016 08 23 00 00   4320   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
-2016 08 26 00 00   8640   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-2016 09 01 00 00   4560   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-2016 09 04 04 00   4320   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note A
-2016 09 07 04 00    360   1 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -xcf 1 -c 1
-2016 09 07 10 00   1320   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note A
-2016 09 08 08 00    360   1 rbspscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -meribm 1 -westbm 0 -eastbm 3 -xcf 1 -c 1
-2016 09 08 14 00   2280   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note A
-2016 09 10 04 00    360   1 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -xcf 1 -c 1
-2016 09 10 10 00   1320   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note A
-2016 09 11 08 00    360   1 rbspscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -meribm 1 -westbm 0 -eastbm 3 -xcf 1 -c 1
-2016 09 11 14 00   2280   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note A
-2016 09 13 04 00    360   1 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -xcf 1 -c 1
-2016 09 13 10 00   1320   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note A
-2016 09 14 08 00    360   1 rbspscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -meribm 1 -westbm 0 -eastbm 3 -xcf 1 -c 1
-2016 09 14 14 00   2280   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note A
-2016 09 16 04 00    360   1 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -xcf 1 -c 1
-2016 09 16 10 00   1320   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note A
-2016 09 17 08 00    360   1 rbspscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -meribm 1 -westbm 0 -eastbm 3 -xcf 1 -c 1
-2016 09 17 14 00   2280   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note A
-2016 09 19 04 00    360   1 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -xcf 1 -c 1
-2016 09 19 10 00   2280   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-2016 09 21 00 00   8640   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
-2016 09 27 00 00   2880  10 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-2016 09 29 00 00   2880   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-2016 10 01 00 00   1440   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-2016 10 02 00 00   4320   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
-2016 10 05 00 00   5760   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-2016 10 09 00 00   4680   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note A
-2016 10 12 06 00    360   1 rbspscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -meribm 1 -westbm 0 -eastbm 3 -xcf 1 -c 1
-2016 10 12 12 00   2880  10 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note A
-2016 10 14 12 00    360   1 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -xcf 1 -c 1
-2016 10 14 18 00   3960   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note A
-2016 10 17 12 00    360   1 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -xcf 1 -c 1
-2016 10 17 18 00    720   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note A
-2016 10 18 06 00    360   1 rbspscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -meribm 1 -westbm 0 -eastbm 3 -xcf 1 -c 1
-2016 10 18 12 00   3960   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note A
-2016 10 21 06 00    360   1 rbspscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -meribm 1 -westbm 0 -eastbm 3 -xcf 1 -c 1
-2016 10 21 12 00   2880   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note A
-2016 10 23 12 00    360   1 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -xcf 1 -c 1
-2016 10 23 18 00   3240   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Notes B, C
-2016 10 26 00 00   1080  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 10 26 18 00    360   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Notes B, C
-2016 10 27 00 00   1080  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 10 27 18 00    360   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Notes B, C
-2016 10 28 00 00   1080  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 10 28 18 00    360   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Notes B, C
-2016 10 29 00 00   1080  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 10 29 18 00    360   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Notes B, C
-2016 10 30 00 00   1080  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 10 30 18 00    360   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Notes B, C
-2016 10 31 00 00   1080  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 10 31 18 00    360   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-2016 11 01 00 00    360   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Notes B, C
-2016 11 01 06 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 11 01 18 00    720   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Notes B, C
-2016 11 02 06 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 11 02 18 00    720   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Notes B, C
-2016 11 03 06 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-2016 11 03 18 00    720   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Notes B, C
-2016 11 04 06 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note E
-2016 11 04 18 00   4320   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
-2016 11 07 18 00   9600   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note E
-2016 11 14 10 00   4320   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note A
-2016 11 17 10 00    360   1 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -xcf 1 -c 1
-2016 11 17 16 00    720   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note A
-2016 11 18 04 00    360   1 rbspscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -meribm 1 -westbm 0 -eastbm 3 -xcf 1 -c 1
-2016 11 18 10 00   2880  10 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-# >>> Schedule note <<< please re-confirm correct schedule: see Note A
-2016 11 20 10 00    360   1 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -xcf 1 -c 1
-2016 11 20 16 00    720   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
 # >>> Schedule note <<< please re-confirm correct schedule: see Note A
 2016 11 21 04 00    360   1 rbspscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -meribm 1 -westbm 0 -eastbm 3 -xcf 1 -c 1
 # >>> Schedule note <<< please re-confirm correct schedule: see Note E
@@ -319,3 +10,37 @@ duration  0
 2016 11 24 10 00   5160   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
 # >>> Schedule note <<< please re-confirm correct schedule: see Note D
 2016 11 28 00 00   4320   0 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -xcf 1 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note D
+2016 12 01 00 00   2880   0 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -xcf 1 -c 1
+2016 12 03 00 00   1440   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+2016 12 04 00 00   4320   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
+2016 12 07 00 00   7200   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+2016 12 12 00 00   8640   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
+2016 12 18 00 00   4800   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2016 12 21 08 00    360   1 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -xcf 1 -c 1
+2016 12 21 14 00    720   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2016 12 22 02 00    360   1 rbspscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -meribm 1 -westbm 0 -eastbm 3 -xcf 1 -c 1
+2016 12 22 08 00   2880  10 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2016 12 24 08 00    360   1 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -xcf 1 -c 1
+2016 12 24 14 00   2760   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note C
+2016 12 26 12 00    360  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
+2016 12 26 18 00   1080   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note C
+2016 12 27 12 00    360  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
+2016 12 27 18 00    720   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Notes B, C
+2016 12 28 06 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
+2016 12 28 18 00    360   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Notes B, C
+2016 12 29 00 00   1080  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
+2016 12 29 18 00    360   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Notes B, C
+2016 12 30 00 00   1080  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
+2016 12 30 18 00    360   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Notes B, C
+2016 12 31 00 00   1080  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
+2016 12 31 18 00    360   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
