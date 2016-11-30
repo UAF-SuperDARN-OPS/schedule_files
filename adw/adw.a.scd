@@ -38,9 +38,9 @@ duration  0
 2016 11 21 10 00   4320   1 normalsound -stid adw -xcf 1 -di -fast -df 13600 -nf 10750 -c 1
 2016 11 24 10 00   5160  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
 # >>> Schedule note <<< please re-confirm correct schedule: see Note D
-2016 11 28 00 00   4320   0 noopscan -stid adw -c 1
+2016 11 28 00 00   4320   0 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
 # >>> Schedule note <<< please re-confirm correct schedule: see Note D
-2016 12 01 00 00   2880   0 noopscan -stid adw -c 1
+2016 12 01 00 00   2880   0 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
 2016 12 03 00 00   1440  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
 2016 12 04 00 00   4320   1 normalsound -stid adw -xcf 1 -di -fast -df 13600 -nf 10750 -c 1
 2016 12 07 00 00   7200  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
