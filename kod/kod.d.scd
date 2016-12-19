@@ -30,7 +30,7 @@ duration a
 2016 11 18 04 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
 2016 11 18 10 00   2880   5 normalscan -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
 # >>> Schedule note <<< please re-confirm correct schedule: see Note A
-2016 11 20 10 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+2016 11 20 10 00    360   1 pcodescan_15km -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
 2016 11 20 16 00    720   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
 # >>> Schedule note <<< please re-confirm correct schedule: see Note A
 2016 11 21 04 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
