@@ -28,14 +28,14 @@ duration a
 2016 11 17 16 00    720   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
 # >>> Schedule note <<< please re-confirm correct schedule: see Note A
 2016 11 18 04 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
-2016 11 18 10 00   2880   5 normalscan -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+2016 11 18 10 00   2880   5 pcodescan_15km -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
 # >>> Schedule note <<< please re-confirm correct schedule: see Note A
 2016 11 20 10 00    360   1 pcodescan_15km -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
 2016 11 20 16 00    720   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
 # >>> Schedule note <<< please re-confirm correct schedule: see Note A
 2016 11 21 04 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
 # >>> Schedule note <<< please re-confirm correct schedule: see Note E
-2016 11 21 10 00   4320   5 normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
+2016 11 21 10 00   4320   5 pcodescan_15km stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
 2016 11 24 10 00   5160   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
 # >>> Schedule note <<< please re-confirm correct schedule: see Note D
 2016 11 28 00 00   4320   0 iwd_normalscan -stid kod -xcf 1 -sb 0 -eb 8 -df 12100 -nf 9300 -c 4
@@ -45,9 +45,9 @@ duration a
 2016 12 04 00 00   4320   5 normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
 2016 12 07 00 00   7200   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
 2016 12 12 00 00   8640   5 normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
-2016 12 18 00 00   4800   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+2016 12 18 00 00   4800   5 pcodescan_15km -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
 # >>> Schedule note <<< please re-confirm correct schedule: see Note A
-2016 12 21 08 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
+2016 12 21 08 00    360   1 pcodescan_15km -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
 2016 12 21 14 00    720   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
 # >>> Schedule note <<< please re-confirm correct schedule: see Note A
 2016 12 22 02 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
