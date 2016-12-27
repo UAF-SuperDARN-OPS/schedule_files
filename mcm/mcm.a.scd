@@ -322,7 +322,7 @@ priority 1
 2016 11 24 10 00   5160   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
 # >>> Schedule note <<< please re-confirm correct schedule: see Note D
 2016 11 28 00 00   4320   0 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
-path /home/radar/rst/usr/bin
+
 # >>> Schedule note <<< please re-confirm correct schedule: see Note D
 2016 12 01 00 00   2880   0 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
 2016 12 03 00 00   1440   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
