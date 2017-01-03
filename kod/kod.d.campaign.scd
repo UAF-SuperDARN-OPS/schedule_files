@@ -42,4 +42,5 @@ priority 5
 # 18:12    21:18    Discretionary Time
 #
 
- 
+
+2017 01 04 15 00 1500 7 interleavescan -stid kod -xcf 1 -di -df 10400 -nf 10400 -c 4 
