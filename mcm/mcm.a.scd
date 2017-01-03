@@ -367,8 +367,13 @@ priority 1
 # >>> Schedule note <<< please re-confirm correct schedule: see Notes B, C
 2017 01 03 00 00    960  15 themisscan -stid mcm -xcf 1 -df 10750 -nf 10750 -c 1
 # >>> Schedule note <<< please re-confirm correct schedule: see Note D
-2017 01 03 16 00   1440   0 normalscan -stid mcm -xcf 1 -di -fast -df 10750 -nf 10750 -c 1
-2017 01 04 16 00   2880   0 normalscan -stid mcm -xcf 1 -di -fast -df 10750 -nf 10750 -c 1
+# insert interleavescan
+2017 01 03 16 00   1380   0 normalscan -stid mcm -xcf 1 -di -fast -df 10750 -nf 10750 -c 1
+2017 01 04 15 00   1500   5 interleavescan -stid mcm -xcf 1 -di -fast -df 10750 -nf 10750 -c 1
+2017 01 05 16 00   1440   0 normalscan -stid mcm -xcf 1 -di -fast -df 10750 -nf 10750 -c 1
+
+#2017 01 03 16 00   1440   0 normalscan -stid mcm -xcf 1 -di -fast -df 10750 -nf 10750 -c 1
+#2017 01 04 16 00   2880   0 normalscan -stid mcm -xcf 1 -di -fast -df 10750 -nf 10750 -c 1
 2017 01 06 16 00   9240   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
 2017 01 13 02 00   4320   0 normalscan -stid mcm -xcf 1 -di -fast -df 10750 -nf 10750 -c 1
 # >>> Schedule note <<< please re-confirm correct schedule: see Note A
