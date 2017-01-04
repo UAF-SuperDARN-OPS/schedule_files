@@ -56,7 +56,7 @@ duration  0
 # >>> Schedule note <<< please re-confirm correct schedule: see Note D
 2017 01 03 16 00   1380   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
 # special time for interleavescan
-2017 01 04 15 00   1500   5 interleavescan -stid sps -ep 41000 -sp 41001 -bp 41100 -xcf 1 -df 12550 -nf 12550 -c 1
+2017 01 04 15 00   1500   5 interleavescan -stid sps -ep 41000 -sp 41001 -bp 41100 -di -xcf 1 -df 12550 -nf 12550 -c 1
 2017 01 05 16 00   1440   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
 #2017 01 04 16 00   2880   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
 
