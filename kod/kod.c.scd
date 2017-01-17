@@ -92,3 +92,46 @@ duration a
 2017 01 28 00 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
 2017 01 28 12 00   4320   5 normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
 2017 01 31 12 00    720   5 normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+
+# >>> Schedule note <<< please re-confirm correct schedule: see Note C
+2017 02 01 00 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
+2017 02 01 12 00    720   5 normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: see Note C
+2017 02 02 00 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
+2017 02 02 12 00   4320   5 normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
+2017 02 05 12 00   2880   5 normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2017 02 07 12 00   7560   5 normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2017 02 12 18 00   7920   5 normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -di -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2017 02 18 06 00    360   1 normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2017 02 18 12 00    720   5 normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2017 02 19 00 00    360   1 normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2017 02 19 06 00   1200   5 normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2017 02 20 02 00    360   1 normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2017 02 20 08 00   1320   5 normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2017 02 21 06 00    360   1 normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+2017 02 21 12 00    720   5 normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2017 02 22 00 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
+2017 02 22 12 00    720   5 normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2017 02 23 00 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
+2017 02 23 12 00    720   5 normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2017 02 24 00 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
+2017 02 24 12 00    720   5 normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2017 02 25 00 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
+2017 02 25 12 00    720   5 normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2017 02 26 00 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
+2017 02 26 12 00    720   5 normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2017 02 27 00 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
+2017 02 27 12 00    720   5 normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2017 02 28 00 00    720  15 themisscan -stid kod -xcf 1 -df 10400 -nf 10400 -c 3
+2017 02 28 12 00    720   5 normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
