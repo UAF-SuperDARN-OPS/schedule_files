@@ -40,7 +40,25 @@ priority 5
 2016 08 23 00 00   4320 99 pcodescan_15km -stid kod -ep 44000 -sp 44001 -bp 44100 -di -fast -df 10400 -nf 10400 -xcf 1 -c 4 -fixfrq 10632
 2016 09 04 04 00   4320 99 pcodescan_15km -stid kod -ep 44000 -sp 44001 -bp 44100 -di -fast -df 10400 -nf 10400 -xcf 1 -c 4 -fixfrq 10632
 # 18:12    21:18    Discretionary Time
-#
+
+2017 01 04 15 00 1500 7 interleavescan -stid kod -xcf 1 -di -df 10400 -nf 10400 -c 4
 
 
-2017 01 04 15 00 1500 7 interleavescan -stid kod -xcf 1 -di -df 10400 -nf 10400 -c 4 
+
+# test run for campaign 02/2017
+2017 02 04 04 00    180  80 pcodecamp_bm3_15km -stid kod -ep 44000 -sp 44001 -bp 44100 -di -fast -df 10400 -nf 10400 -xcf 1 -c 4
+2017 02 04 05 00     60  90 pcodecamp_bm9_15km -stid kod -xcf 1 -df 10400 -nf 10400 -c 4 -onesec -di
+
+# launch window 2017 02/13 -03/03 Alaska time
+2017 02 13 09 00   25920  80 pcodecamp_bm3_15km -stid kod -ep 44000 -sp 44001 -bp 44100 -di -fast -df 10400 -nf 10400 -xcf 1 -c 4
+
+# HAARP campaign 2017/02
+2017 02 19 18 30     60   90 pcodecamp_bm9_15km -stid kod -xcf 1 -df 10400 -nf 10400 -c 4 -onesec -di
+2017 02 20 00 00    360   90 pcodecamp_bm9_15km -stid kod -xcf 1 -df 10400 -nf 10400 -c 4 -onesec -di
+2017 02 20 18 30    150   90 pcodecamp_bm9_15km -stid kod -xcf 1 -df 10400 -nf 10400 -c 4 -onesec -di 
+2017 02 21 00 30    330   90 pcodecamp_bm9_15km -stid kod -xcf 1 -df 10400 -nf 10400 -c 4 -onesec -di
+2017 02 21 18 00    150   90 pcodecamp_bm9_15km -stid kod -xcf 1 -df 10400 -nf 10400 -c 4 -onesec -di 
+2017 02 22 00 30    360   90 pcodecamp_bm9_15km -stid kod -xcf 1 -df 10400 -nf 10400 -c 4 -onesec -di
+2017 02 22 17 30    150   90 pcodecamp_bm9_15km -stid kod -xcf 1 -df 10400 -nf 10400 -c 4 -onesec -di 
+2017 02 23 02 00    270   90 pcodecamp_bm9_15km -stid kod -xcf 1 -df 10400 -nf 10400 -c 4 -onesec -di
+ 

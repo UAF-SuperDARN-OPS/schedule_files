@@ -43,3 +43,25 @@ priority 5
 
 2014 11 18 18 30   30 50 spaletascan --stid kod -c 3 --di --fast --df 12100 --nf 12100 
 2014 11 18 19 00   60 50 spaletascan --stid kod -c 3 --di --fast --df 12100 --nf 12100 
+
+# test for campaign 02/2017
+2017 02 04 04 00     180  80 pcodecamp_bm9_15km -stid kod -ep 43000 -sp 43001 -bp 43100 -di -df 10400 -nf 10400 -xcf 1 -c 3
+2017 02 04 05 00      60  90 noopscan -stid kod -c 3 -di
+
+
+# launch window 2017 02/13 -03/03 Alaska time
+2017 02 13 09 00   25920  80 pcodecamp_bm9_15km -stid kod -ep 43000 -sp 43001 -bp 43100 -di -df 10400 -nf 10400 -xcf 1 -c 3
+
+# HAARP campaign 2017/02
+2017 02 19 18 30     60   90 noopscan -stid kod -c 3 -di
+2017 02 20 00 00    360   90 noopscan -stid kod -c 3 -di 
+2017 02 20 18 30    150   90 noopscan -stid kod -c 3 -di 
+2017 02 21 00 30    330   90 noopscan -stid kod -c 3 -di 
+2017 02 21 18 00    150   90 noopscan -stid kod -c 3 -di 
+2017 02 22 00 30    360   90 noopscan -stid kod -c 3 -di 
+2017 02 22 17 30    150   90 noopscan -stid kod -c 3 -di 
+2017 02 23 02 00    270   90 noopscan -stid kod -c 3 -di 
+
+
+
+
