@@ -50,8 +50,8 @@ priority 5
 2017 02 04 05 00     60  90 pcodecamp_bm9_15km -stid kod -xcf 1 -df 10400 -nf 10400 -c 4 -onesec -di
 
 # second test run for campaign 02/2017
-2017 02 04 22 00   27360  80 pcodescan_15km -stid kod -ep 44000 -sp 44001 -bp 44100 -di -fast -df 10400 -nf 10400 -xcf 1 -c 4
-2017 02 04 23 30     60   90 pcodecamp_bm9_15km -stid kod -xcf 1 -df 10400 -nf 10400 -c 4 -onesec -di
+2017 02 04 22 00    180  80 pcodescan_15km -stid kod -ep 44000 -sp 44001 -bp 44100 -di -fast -df 10400 -nf 10400 -xcf 1 -c 4
+2017 02 04 23 00     60   90 pcodecamp_bm9_15km -stid kod -xcf 1 -df 10400 -nf 10400 -c 4 -onesec -di
 
 
 # launch window 2017 02/13 -03/03 Alaska time
