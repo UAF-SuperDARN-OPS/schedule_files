@@ -56,7 +56,7 @@ priority 5
 
 
 # launch window 2017 02/13 -03/03 Alaska time
-2017 02 13 09 00   27360  80 pcodecamp_bm3_15km -stid kod -ep 43000 -sp 43001 -bp 43100 -di -df 10400 -nf 10400 -xcf 1 -c 3
+2017 02 13 09 00   27360  80 pcodecamp_bm3_15km -stid kod -ep 43000 -sp 43001 -bp 43100 -di -df 10400 -nf 10400 -xcf 1 -c 3 -fast
 
 # HAARP campaign 2017/02
 2017 02 19 18 30     60   90 noopscan -stid kod -c 3 -di
