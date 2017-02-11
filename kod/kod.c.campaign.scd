@@ -47,12 +47,12 @@ priority 5
 # test for campaign 02/2017
 2017 02 04 04 00     180  80 pcodecamp_bm9_15km -stid kod -ep 43000 -sp 43001 -bp 43100 -di -df 10400 -nf 10400 -xcf 1 -c 3
 2017 02 04 05 00      60  90 noopscan -stid kod -c 3 -di
-
-
 # second test for campaign 02/2017
 2017 02 04 22 00     180  80 pcodecamp_bm3_15km -stid kod -ep 43000 -sp 43001 -bp 43100 -di -df 10400 -nf 10400 -xcf 1 -c 3
 2017 02 04 23 00      60  90 noopscan -stid kod -c 3 -di
-
+# third test (with clrskip)
+2017 02 12 19 00     180  80 pcodecamp_bm3_15km -stid kod -ep 43000 -sp 43001 -bp 43100 -di -df 10400 -nf 10400 -xcf 1 -c 3 -fast -clrskip 30
+2017 02 12 20 00     60   90 noopscan -stid kod -c 3 -di
 
 
 # launch window 2017 02/13 -03/03 Alaska time
