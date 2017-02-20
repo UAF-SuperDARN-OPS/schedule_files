@@ -61,13 +61,13 @@ priority 5
 
 # HAARP campaign 2017/02
 2017 02 19 18 30     60   90 noopscan -stid kod -c 3 -di
-2017 02 19 23 00    390   90 noopscan -stid kod -c 3 -di 
+2017 02 19 23 00    360   90 noopscan -stid kod -c 3 -di 
 2017 02 20 18 30    120   90 noopscan -stid kod -c 3 -di 
-2017 02 20 23 30    360   90 noopscan -stid kod -c 3 -di 
-2017 02 21 18 00    150   90 noopscan -stid kod -c 3 -di 
+2017 02 20 23 30    330   90 noopscan -stid kod -c 3 -di 
+2017 02 21 18 00    120   90 noopscan -stid kod -c 3 -di 
 2017 02 22 00 30    360   90 noopscan -stid kod -c 3 -di 
 2017 02 22 17 30    150   90 noopscan -stid kod -c 3 -di 
-2017 02 23 02 00    270   90 noopscan -stid kod -c 3 -di 
+2017 02 23 01 00    270   90 noopscan -stid kod -c 3 -di 
 
 
 

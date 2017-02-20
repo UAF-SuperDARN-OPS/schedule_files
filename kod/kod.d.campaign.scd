@@ -61,11 +61,11 @@ priority 5
 
 # HAARP campaign 2017/02
 2017 02 19 18 30     60   90 pcodecamp_bm9_15km -stid kod -xcf 1 -df 10400 -nf 10400 -c 4 -onesec -di -clrskip 30
-2017 02 19 00 00    390   90 pcodecamp_bm9_15km -stid kod -xcf 1 -df 10400 -nf 10400 -c 4 -onesec -di -clrskip 30
+2017 02 19 23 00    360   90 pcodecamp_bm9_15km -stid kod -xcf 1 -df 10400 -nf 10400 -c 4 -onesec -di -clrskip 30
 2017 02 20 18 30    120   90 pcodecamp_bm9_15km -stid kod -xcf 1 -df 10400 -nf 10400 -c 4 -onesec -di -clrskip 30
-2017 02 20 23 30    360   90 pcodecamp_bm9_15km -stid kod -xcf 1 -df 10400 -nf 10400 -c 4 -onesec -di -clrskip 30
-2017 02 21 18 00    150   90 pcodecamp_bm9_15km -stid kod -xcf 1 -df 10400 -nf 10400 -c 4 -onesec -di -clrskip 30
+2017 02 20 23 30    330   90 pcodecamp_bm9_15km -stid kod -xcf 1 -df 10400 -nf 10400 -c 4 -onesec -di -clrskip 30
+2017 02 21 18 00    120   90 pcodecamp_bm9_15km -stid kod -xcf 1 -df 10400 -nf 10400 -c 4 -onesec -di -clrskip 30
 2017 02 22 00 30    360   90 pcodecamp_bm9_15km -stid kod -xcf 1 -df 10400 -nf 10400 -c 4 -onesec -di -clrskip 30
 2017 02 22 17 30    150   90 pcodecamp_bm9_15km -stid kod -xcf 1 -df 10400 -nf 10400 -c 4 -onesec -di -clrskip 30
-2017 02 23 02 00    270   90 pcodecamp_bm9_15km -stid kod -xcf 1 -df 10400 -nf 10400 -c 4 -onesec -di -clrskip 30
+2017 02 23 01 00    270   90 pcodecamp_bm9_15km -stid kod -xcf 1 -df 10400 -nf 10400 -c 4 -onesec -di -clrskip 30
  
