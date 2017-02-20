@@ -270,6 +270,10 @@ radars['sps.a']["modes"]['Special:World Day']={"controlprogram":"iwdscan","args"
 # Alternative program if radar not participating in Special program
 radars['sps.a']["modes"]['Special:World Day']["altprogram"]="normalsound"
 radars['sps.a']["modes"]['Special:World Day']["altargs"]="-df 12550 -nf 12550 -fast -xcf 1"
+# Program for ARASE/interleavescan
+radars['sps.a']["modes"]['Special:ARASE'] = {"controlprogram":"interleavescan", "args":"-df 12550 -nf 12550 -xcf 1",  "priority":"10", "duration": "a"}
+radars['sps.a']["modes"]['Special:ARASE']["altprogram"] = "normalsound"
+radars['sps.a']["modes"]['Special:ARASE']["altargs"] = "-df 12550 -nf 12550 -fast -xcf 1"
 
 radars['sps.b']["modes"]={}
 radars['sps.b']["modes"]['default']={"controlprogram":"normalscan","args":"-fast -df 10750 -nf 10750", 
