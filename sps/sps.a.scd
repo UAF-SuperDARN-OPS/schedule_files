@@ -139,10 +139,6 @@ duration  0
 # >>> Schedule note <<< please re-confirm correct schedule: see Note B
 2017 02 28 00 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
 2017 02 28 12 00    720   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-path /home/radar/rst/usr/bin
-default normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
-priority  0
-duration  0
 
 # >>> Schedule note <<< please re-confirm correct schedule: see Note B
 2017 03 01 00 00    720  10 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
