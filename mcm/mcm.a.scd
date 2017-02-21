@@ -453,3 +453,68 @@ priority 1
 # >>> Schedule note <<< please re-confirm correct schedule: see Note B
 2017 02 28 00 00    720  15 themisscan -stid mcm -xcf 1 -df 10750 -nf 10750 -c 1
 2017 02 28 12 00    720   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2017 03 01 00 00    720  15 themisscan -stid mcm -xcf 1 -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note C
+2017 03 01 12 00    360  15 themisscan -stid mcm -xcf 1 -df 10750 -nf 10750 -c 1
+2017 03 01 18 00    360   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2017 03 02 00 00    720  15 themisscan -stid mcm -xcf 1 -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note C
+2017 03 02 12 00    360  15 themisscan -stid mcm -xcf 1 -df 10750 -nf 10750 -c 1
+2017 03 02 18 00    360   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2017 03 03 00 00    720  15 themisscan -stid mcm -xcf 1 -df 10750 -nf 10750 -c 1
+2017 03 03 12 00   2520   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2017 03 05 06 00    360   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2017 03 05 12 00   5040   0 normalscan -stid mcm -xcf 1 -di -fast -df 10750 -nf 10750 -c 1
+2017 03 09 00 00   1320   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note E
+2017 03 09 22 00    360   0 normalscan -stid mcm -xcf 1 -di -fast -df 10750 -nf 10750 -c 1
+2017 03 10 04 00   1080   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note E
+2017 03 10 22 00    360   0 normalscan -stid mcm -xcf 1 -di -fast -df 10750 -nf 10750 -c 1
+2017 03 11 04 00   1080   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note E
+2017 03 11 22 00    360   0 normalscan -stid mcm -xcf 1 -di -fast -df 10750 -nf 10750 -c 1
+2017 03 12 04 00   2880  15 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2017 03 14 04 00   4680   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note D
+2017 03 17 10 00    600   0 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2017 03 17 20 00    600   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note D
+2017 03 18 06 00    600   0 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2017 03 18 16 00   2280   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note D
+2017 03 20 06 00    480   0 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2017 03 20 14 00   2280   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2017 03 22 04 00   5400   0 normalscan -stid mcm -xcf 1 -di -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note E
+2017 03 25 22 00    360   0 normalscan -stid mcm -xcf 1 -di -fast -df 10750 -nf 10750 -c 1
+2017 03 26 04 00    480   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note D
+2017 03 26 12 00    600   0 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note E
+2017 03 26 22 00    360   0 normalscan -stid mcm -xcf 1 -di -fast -df 10750 -nf 10750 -c 1
+2017 03 27 04 00    240   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note D
+2017 03 27 08 00    480   0 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2017 03 27 16 00    360   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note E
+2017 03 27 22 00    360   0 normalscan -stid mcm -xcf 1 -di -fast -df 10750 -nf 10750 -c 1
+2017 03 28 04 00    480   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note D
+2017 03 28 12 00    600   0 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note E
+2017 03 28 22 00    360   0 normalscan -stid mcm -xcf 1 -di -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note D
+2017 03 29 04 00    720   0 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2017 03 29 16 00    960   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note D
+2017 03 30 08 00    720   0 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2017 03 30 20 00    600   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note D
+2017 03 31 06 00    600   0 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2017 03 31 16 00    480   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1

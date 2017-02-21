@@ -220,6 +220,7 @@ radars['mcm.a']["modes"]['Special:ST-APOG']["altargs"]="-fast -df 10750 -nf 1075
 radars['mcm.a']["modes"]['Special:World Day']={"controlprogram":"normalscan","args":"-fast -df 10750 -nf 10750","priority":"0","duration": "a"}
 radars['mcm.a']["modes"]['Special:World Day']['altprogram']="normalscan"
 radars['mcm.a']["modes"]['Special:World Day']["altargs"]="-fast -df 10750 -nf 10750"
+radars['mcm.a']["modes"]['Special:ARASE'] = {'altprogram':"normalscan", "altargs":"-fast -df 10750 -nf 10750","priority":"0","duration": "a"}
 
 
 radars['mcm.b']["modes"]={}
@@ -238,6 +239,7 @@ radars['mcm.b']["modes"]['Special:ST-APOG']["altargs"]="-fast -df 12550 -nf 1255
 radars['mcm.b']["modes"]['Special:World Day']={"controlprogram":"normalscan","args":"-fast -df 12550 -nf 12550","priority":"0","duration": "a"}
 radars['mcm.b']["modes"]['Special:World Day']['altprogram']="normalscan"
 radars['mcm.b']["modes"]['Special:World Day']["altargs"]="-fast -df 12550 -nf 12550"
+radars['mcm.b']["modes"]['Special:ARASE'] = {'altprogram':"normalscan", "altargs":"-fast -df 12550 -nf 12550","priority":"0","duration": "a"}
 
 radars['sps']["modes"]={}
 radars['sps']["modes"]['default']={"controlprogram":"normalscan","args":"-fast -df 10750 -nf 10750 -xcf 1", 
