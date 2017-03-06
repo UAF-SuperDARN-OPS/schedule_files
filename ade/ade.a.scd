@@ -181,6 +181,7 @@ duration  0
 # >>> Schedule note <<< please re-confirm correct schedule: see Note A
 2017 03 05 06 00    360  10 rbspscan -stid ade -xcf 1 -meribm 1 -westbm 0 -eastbm 3 -df 13600 -nf 10750 -c 1
 2017 03 05 12 00   5040   1 normalsound -stid ade -xcf 1 -di -fast -df 13600 -nf 10750 -c 1
+2017 03 06 19 30     60  15 interleavescan -stid ade -xcf 1 -df -df 13600 -nf 10750 -c 1 -di
 2017 03 09 00 00   1320  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
 # >>> Schedule note <<< please re-confirm correct schedule: see Note E
 2017 03 09 22 00    360   1 normalsound -stid ade -xcf 1 -di -fast -df 13600 -nf 10750 -c 1
