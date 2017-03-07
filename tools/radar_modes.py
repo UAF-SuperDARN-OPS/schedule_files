@@ -313,7 +313,7 @@ radars['ade.a']["modes"]['Special:ST-APOG']["altargs"]="-fast"
 radars['ade.a']["modes"]['Special:World Day']={"controlprogram":"iwdscan","args": "-startbeam 4 -stopbeam 12","priority":"0","duration":"a"}
 radars['ade.a']["modes"]['Special:World Day']["altprogram"]="normalscan"
 radars['ade.a']["modes"]['Special:World Day']["altargs"]="-fast"
-radars['ade.a']["modes"]['Special:ARASE']={"controlprogram":"interleavescan","args": "-df",
+radars['ade.a']["modes"]['Special:ARASE']={"controlprogram":"interleavescan","args": "",
                                                             "altprogram": "normalscan", "altargs":"-fast",
                                                             "priority":"10","duration": "a"}
 
@@ -343,7 +343,7 @@ radars['adw.a']["modes"]['Special:World Day']={"controlprogram":"iwdscan","args"
     "priority":"0","duration":"a"}
 radars['adw.a']["modes"]['Special:World Day']["altprogram"]="normalscan"
 radars['adw.a']["modes"]['Special:World Day']["altargs"]="-fast"
-radars['adw.a']["modes"]['Special:ARASE']={"controlprogram":"interleavescan","args": "-df",
+radars['adw.a']["modes"]['Special:ARASE']={"controlprogram":"interleavescan","args": "",
                                            "altprogram": "normalscan", "altargs":"-fast",
                                            "priority":"10","duration": "a"}
 
