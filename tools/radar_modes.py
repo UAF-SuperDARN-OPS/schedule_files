@@ -310,6 +310,11 @@ radars['ade.a']["modes"]['Special:ST-APOG']={"controlprogram":"rbspscan","args":
 # Alternative program if radar not participating in Special program 
 radars['ade.a']["modes"]['Special:ST-APOG']["altprogram"]="normalsound"
 radars['ade.a']["modes"]['Special:ST-APOG']["altargs"]="-fast"
+
+radars['ade.a']["modes"]['Special:PFISR']={"controlprogram":"rbspscan","args": "-meribm 7 -westbm 9 -eastbm 5 ","priority":"10","duration": "a"}
+radars['ade.a']["modes"]['Special:PFISR']["altprogram"]="normalsound"
+radars['ade.a']["modes"]['Special:PFISR']["altargs"]="-fast"
+
 radars['ade.a']["modes"]['Special:World Day']={"controlprogram":"iwdscan","args": "-startbeam 4 -stopbeam 12","priority":"0","duration":"a"}
 radars['ade.a']["modes"]['Special:World Day']["altprogram"]="normalscan"
 radars['ade.a']["modes"]['Special:World Day']["altargs"]="-fast"
