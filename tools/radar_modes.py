@@ -344,6 +344,11 @@ radars['adw.a']["modes"]['Special:ST-APOG']={"controlprogram":"rbspscan","args":
 # Alternative program if radar not participating in Special program 
 radars['adw.a']["modes"]['Special:ST-APOG']["altprogram"]="normalsound"
 radars['adw.a']["modes"]['Special:ST-APOG']["altargs"]="-fast"
+
+radars['adw.a']["modes"]['Special:PFISR']={"controlprogram":"rbspscan","args": "-meribm 18 -westbm 19 -eastbm 21 ","priority":"10","duration": "a"}
+radars['adw.a']["modes"]['Special:PFISR']["altprogram"]="normalsound"
+radars['adw.a']["modes"]['Special:PFISR']["altargs"]="-fast"
+
 radars['adw.a']["modes"]['Special:World Day']={"controlprogram":"iwdscan","args":"-startbeam 4 -stopbeam12",
     "priority":"0","duration":"a"}
 radars['adw.a']["modes"]['Special:World Day']["altprogram"]="normalscan"
