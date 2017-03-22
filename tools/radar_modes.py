@@ -217,6 +217,13 @@ radars['mcm.a']["modes"]['Special:ST-APOG']={"controlprogram":"rbspscan","args":
 # Alternative program if radar not participating in Special program 
 radars['mcm.a']["modes"]['Special:ST-APOG']["altprogram"]="normalscan"
 radars['mcm.a']["modes"]['Special:ST-APOG']["altargs"]="-fast -df 10750 -nf 10750"
+
+radars['mcm.a']["modes"]['Special:PFISR']={"controlprogram":"rbspscan","args": "-df 10750 -nf 10750 -meribm 1 -westbm 0 -eastbm 3 ","priority":"1","duration": "a"}
+# Alternative program if radar not participating in Special program 
+radars['mcm.a']["modes"]['Special:PFISR']["altprogram"]="normalscan"
+radars['mcm.a']["modes"]['Special:PFISR']["altargs"]="-fast -df 10750 -nf 10750"
+
+
 radars['mcm.a']["modes"]['Special:World Day']={"controlprogram":"normalscan","args":"-fast -df 10750 -nf 10750","priority":"0","duration": "a"}
 radars['mcm.a']["modes"]['Special:World Day']['altprogram']="normalscan"
 radars['mcm.a']["modes"]['Special:World Day']["altargs"]="-fast -df 10750 -nf 10750"
@@ -236,6 +243,12 @@ radars['mcm.b']["modes"]['Special:ST-APOG']={"controlprogram":"rbspscan","args":
 # Alternative program if radar not participating in Special program 
 radars['mcm.b']["modes"]['Special:ST-APOG']["altprogram"]="normalscan"
 radars['mcm.b']["modes"]['Special:ST-APOG']["altargs"]="-fast -df 12550 -nf 12550"
+
+radars['mcm.b']["modes"]['Special:PFISR']={"controlprogram":"rbspscan","args": "-df 10750 -nf 10750 -meribm 1 -westbm 0 -eastbm 3 ","priority":"1","duration": "a"}
+radars['mcm.b']["modes"]['Special:PFISR']["altprogram"]="normalscan"
+radars['mcm.b']["modes"]['Special:PFISR']["altargs"]="-fast -df 12550 -nf 12550"
+
+
 radars['mcm.b']["modes"]['Special:World Day']={"controlprogram":"normalscan","args":"-fast -df 12550 -nf 12550","priority":"0","duration": "a"}
 radars['mcm.b']["modes"]['Special:World Day']['altprogram']="normalscan"
 radars['mcm.b']["modes"]['Special:World Day']["altargs"]="-fast -df 12550 -nf 12550"
