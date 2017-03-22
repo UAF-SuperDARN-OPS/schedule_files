@@ -22,6 +22,7 @@ duration a
 # >>> Schedule note <<< please re-confirm correct schedule: see Note A
 2017 03 05 06 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
 2017 03 05 12 00   5040   5 normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
+2017 03 06 19 30     60  15 interleavescan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4 -di
 2017 03 09 00 00   1320   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
 # >>> Schedule note <<< please re-confirm correct schedule: see Note E
 2017 03 09 22 00    360   5 normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
