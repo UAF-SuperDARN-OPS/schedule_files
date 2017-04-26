@@ -200,13 +200,6 @@ duration a
 # >>> Schedule note <<< please re-confirm correct schedule: see Note D
 2017 03 31 06 00    600   5 normalsound -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
 2017 03 31 16 00    480   5 normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-path /home/radar/rst/usr/bin
-default normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
-stationid kod
-sitelib ros
-channel c
-priority 1
-duration a
 
 2017 04 01 00 00    600   5 normalscan -stid kod -xcf 1 -sb 3 -eb 3 -fast -df 10400 -nf 10400 -c 3
 # >>> Schedule note <<< please re-confirm correct schedule: see Note C
