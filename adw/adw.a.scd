@@ -127,3 +127,54 @@ duration  0
 # >>> Schedule note <<< please re-confirm correct schedule: see Note C
 2017 04 30 06 00    480  10 normalscan -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
 2017 04 30 14 00    600  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+2017 05 01 00 00    600  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note C
+2017 05 01 10 00    600  10 interleavescan -stid adw -xcf 1  -df 13600 -nf 10750 -c 1
+2017 05 01 20 00    360  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note D
+2017 05 02 02 00    360  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+2017 05 02 08 00   2640  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note C
+2017 05 04 04 00    600  10 normalscan -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+2017 05 04 14 00   2280  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2017 05 06 04 00    360  10 rbspscan -stid adw -xcf 1 -meribm 18 -westbm 19 -eastbm 21 -df 13600 -nf 10750 -c 1
+2017 05 06 10 00   1320  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note C
+2017 05 07 08 00    600  10 interleavescan -stid adw -xcf 1  -df 13600 -nf 10750 -c 1
+2017 05 07 18 00    600  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note C
+2017 05 08 04 00    480  10 normalscan -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+2017 05 08 12 00    720  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2017 05 09 00 00    720  15 themisscan -stid adw -xcf 1 -camp 12 -df 13600 -nf 10750 -c 1
+2017 05 09 12 00    600  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2017 05 09 22 00    360  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+2017 05 10 04 00   4440   1 normalsound -stid adw -xcf 1 -di -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note C
+2017 05 13 06 00    600  10 interleavescan -stid adw -xcf 1  -df 13600 -nf 10750 -c 1
+2017 05 13 16 00   2280  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note C
+2017 05 15 06 00    600  10 interleavescan -stid adw -xcf 1  -df 13600 -nf 10750 -c 1
+2017 05 15 16 00   1080  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note C
+2017 05 16 10 00    600  10 interleavescan -stid adw -xcf 1  -df 13600 -nf 10750 -c 1
+2017 05 16 20 00    600  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note C
+2017 05 17 06 00    480  10 normalscan -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+2017 05 17 14 00   2280  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note C
+2017 05 19 04 00    600  10 normalscan -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+2017 05 19 14 00   1080  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note C
+2017 05 20 08 00    600  10 interleavescan -stid adw -xcf 1  -df 13600 -nf 10750 -c 1
+2017 05 20 18 00    600  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note C
+2017 05 21 04 00    600  10 normalscan -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+2017 05 21 14 00   2280  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note C
+2017 05 23 04 00    480  10 normalscan -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+2017 05 23 12 00   8520   1 normalsound -stid adw -xcf 1 -di -fast -df 13600 -nf 10750 -c 1
+2017 05 29 10 00   2880  10 normalscan -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+2017 05 31 10 00    840  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
