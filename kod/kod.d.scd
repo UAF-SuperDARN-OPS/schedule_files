@@ -152,6 +152,10 @@ duration a
 # >>> Schedule note <<< please re-confirm correct schedule: see Note A
 2017 05 09 22 00    360   1 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
 2017 05 10 04 00   4440   5 normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
+
+
+2017 05 11 04 00    180  20 rbspscan -stid kod -xcf 1 -df 10750 -nf 10750 -meribm 2 -westbm 0 -eastbm 4 -c 4
+
 # >>> Schedule note <<< please re-confirm correct schedule: see Note C
 2017 05 13 06 00    600  15 interleavescan -stid kod -xcf 1 -df 10400 -nf 10400 -c 4
 2017 05 13 16 00   2280   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
@@ -176,5 +180,8 @@ duration a
 # >>> Schedule note <<< please re-confirm correct schedule: see Note C
 2017 05 23 04 00    480  15 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
 2017 05 23 12 00   8520   5 normalsound -stid kod -xcf 1 -di -fast -df 10400 -nf 10400 -c 4
+
+2017 05 27 02 00    240  20 rbspscan -stid kod -xcf 1 -df 10750 -nf 10750 -meribm 2 -westbm 0 -eastbm 4 -c 4
+
 2017 05 29 10 00   2880   5 normalscan -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
 2017 05 31 10 00    840   5 normalsound -stid kod -xcf 1 -fast -df 10400 -nf 10400 -c 4
