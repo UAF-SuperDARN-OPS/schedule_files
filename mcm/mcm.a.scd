@@ -177,3 +177,38 @@ priority 1
 2017 05 23 12 00   8520   0 normalscan -stid mcm -xcf 1 -di -fast -df 10750 -nf 10750 -c 1
 2017 05 29 10 00   2880  15 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
 2017 05 31 10 00    840   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+
+2017 06 01 00 00   3120   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2017 06 03 04 00    600   0 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2017 06 03 14 00   2280   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note C
+2017 06 05 04 00   2280   1 BAD MODE: Special -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2017 06 07 04 00   8400   0 normalscan -stid mcm -xcf 1 -di -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2017 06 13 00 00    600   0 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2017 06 13 10 00    840   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2017 06 14 00 00    600  15 themisscan -stid mcm -xcf 1 -df 10750 -nf 10750 -c 1
+2017 06 14 10 00   2520   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2017 06 16 04 00    600   0 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2017 06 16 14 00   4560   0 normalscan -stid mcm -xcf 1 -di -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2017 06 19 18 00    480   0 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2017 06 20 02 00    120   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2017 06 20 04 00    480   0 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2017 06 20 12 00   2880  15 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2017 06 22 12 00    480   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2017 06 22 20 00    600  15 themisscan -stid mcm -xcf 1 -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2017 06 23 06 00    600   0 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2017 06 23 16 00    600   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2017 06 24 02 00    600   0 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2017 06 24 12 00   1080   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2017 06 25 06 00    600   0 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2017 06 25 16 00   7680   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
