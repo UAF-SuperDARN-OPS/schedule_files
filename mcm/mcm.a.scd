@@ -183,7 +183,8 @@ priority 1
 2017 06 03 04 00    600   0 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
 2017 06 03 14 00   2280   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
 # >>> Schedule note <<< please re-confirm correct schedule: see Note C
-2017 06 05 04 00   2280   1 BAD MODE: Special -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+#2017 06 05 04 00   2280   1 BAD MODE: Special -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2017 06 05 04 00   2880   1 normalscan -stid mcm -xcf 1 -di -fast -df 10750 -nf 10750 -c 1
 2017 06 07 04 00   8400   0 normalscan -stid mcm -xcf 1 -di -fast -df 10750 -nf 10750 -c 1
 # >>> Schedule note <<< please re-confirm correct schedule: see Note A
 2017 06 13 00 00    600   0 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
