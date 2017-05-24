@@ -184,7 +184,8 @@ duration  0
 2017 06 03 04 00    600  10 normalscan -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
 2017 06 03 14 00   2280  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
 # >>> Schedule note <<< please re-confirm correct schedule: see Note C
-2017 06 05 04 00   2280  10 BAD MODE: Special -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+#2017 06 05 04 00   2280  10 BAD MODE: Special -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+2017 06 05 04 00   2280  10 interleavescan -stid adw -xcf 1  -df 13600 -nf 10750 -c 1
 2017 06 07 04 00   8400   1 normalsound -stid adw -xcf 1 -di -fast -df 13600 -nf 10750 -c 1
 # >>> Schedule note <<< please re-confirm correct schedule: see Note A
 2017 06 13 00 00    600  10 normalscan -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
