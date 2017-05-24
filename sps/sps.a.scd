@@ -180,7 +180,8 @@ duration  0
 2017 06 03 04 00    600  10 interleavescan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
 2017 06 03 14 00   2280   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
 # >>> Schedule note <<< please re-confirm correct schedule: see Note C
-2017 06 05 04 00   2280   5 BAD MODE: Special -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+#2017 06 05 04 00   2280   5 BAD MODE: Special -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+2017 06 05 04 00   2880   5 interleavescan -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
 2017 06 07 04 00   8400   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
 # >>> Schedule note <<< please re-confirm correct schedule: see Note A
 2017 06 13 00 00    600  10 interleavescan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
