@@ -213,3 +213,50 @@ priority 1
 # >>> Schedule note <<< please re-confirm correct schedule: see Note A
 2017 06 25 06 00    600   0 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
 2017 06 25 16 00   7680   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2017 07 01 00 00   5880   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2017 07 05 02 00    600   0 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2017 07 05 12 00   1200   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2017 07 06 08 00    480   0 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2017 07 06 16 00    600   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2017 07 07 02 00    600   0 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2017 07 07 12 00   1080   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2017 07 08 06 00    600   0 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2017 07 08 16 00    600   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2017 07 09 02 00    480   0 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2017 07 09 10 00    840   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note C
+2017 07 10 00 00    360   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2017 07 10 06 00   1080   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2017 07 11 00 00    600   0 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2017 07 11 10 00    480   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2017 07 11 18 00    720  15 themisscan -stid mcm -xcf 1 -df 10750 -nf 10750 -c 1
+2017 07 12 06 00   8640   0 normalscan -stid mcm -xcf 1 -di -fast -df 10750 -nf 10750 -c 1
+2017 07 18 06 00   3240   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2017 07 20 12 00    720  15 themisscan -stid mcm -xcf 1 -df 10750 -nf 10750 -c 1
+2017 07 21 00 00   1560   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2017 07 22 02 00    480   0 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2017 07 22 10 00   1200   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2017 07 23 06 00    480   0 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2017 07 23 14 00    600   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2017 07 24 00 00    600   0 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2017 07 24 10 00   1200   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2017 07 25 06 00    480   0 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+2017 07 25 14 00    600   1 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2017 07 26 00 00    720  15 themisscan -stid mcm -xcf 1 -df 10750 -nf 10750 -c 1
+2017 07 26 12 00   4320   0 normalscan -stid mcm -xcf 1 -di -fast -df 10750 -nf 10750 -c 1
+2017 07 29 12 00   2880  15 normalscan -stid mcm -xcf 1 -fast -df 10750 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2017 07 31 12 00    720  15 themisscan -stid mcm -xcf 1 -df 10750 -nf 10750 -c 1
