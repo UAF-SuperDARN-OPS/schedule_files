@@ -17,11 +17,11 @@ radars={'kod':{},"kod.a": {}, "kod.b":{},"kod.c":{},"kod.d":{},
        }
 
 #Required controlprogram arguments which must be first in the argument list
-radars['kod']["required_pre_args"]  ="-stid kod -xcf 1"
-radars['kod.a']["required_pre_args"]="-stid kod -xcf 1"
-radars['kod.b']["required_pre_args"]="-stid kod -xcf 1"
-radars['kod.c']["required_pre_args"]="-stid kod -xcf 1"
-radars['kod.d']["required_pre_args"]="-stid kod -xcf 1"
+radars['kod']["required_pre_args"]  ="--stid kod --xcf 1"
+radars['kod.a']["required_pre_args"]="--stid kod --xcf 1"
+radars['kod.b']["required_pre_args"]="--stid kod --xcf 1"
+radars['kod.c']["required_pre_args"]="--stid kod --xcf 1"
+radars['kod.d']["required_pre_args"]="--stid kod --xcf 1"
 radars['mcm']["required_pre_args"]  ="-stid mcm"
 radars['mcm.a']["required_pre_args"]="-stid mcm"
 radars['mcm.b']["required_pre_args"]="-stid mcm"
@@ -131,95 +131,95 @@ radars['mcm.b']["sitelib"]="ros"
 
 #Schedule modes mapped to Controlprograms 
 radars['kod']["modes"]={}
-radars['kod']["modes"]['default']={"controlprogram":"normalscan","args":"-fast -df 10400 -nf 10400"}
+radars['kod']["modes"]['default']={"controlprogram":"uafscan","args":"--fast --df 10400 --nf 10400"}
 radars['kod']["modes"]['Discretionary']={"controlprogram":"normalsound","args":"-di -fast -df 10400 -nf 10400"}
 radars['kod']["modes"]['Common']={"controlprogram":"normalsound","args":"-df 10400 -nf 10400"}
 radars['kod']["modes"]['Common:1-min']={"controlprogram":"normalsound","args":"-fast -df 10400 -nf 10400"}
-radars['kod']["modes"]['Common:THEMIS']={"controlprogram":"themisscan","args":"-df 10400 -nf 10400"}
-radars['kod']["modes"]['Special:THEMIS']={"controlprogram":"themisscan","args":"-df 10400 -nf 10400"}
-radars['kod']["modes"]['Common:no switching']={"controlprogram":"normalscan","args":"-df 10400 -nf 10400"}
-radars['kod']["modes"]['Common:1-min:no switching']={"controlprogram":"normalscan","args":"-fast -df 10400 -nf 10400"}
-radars['kod']["modes"]['Special:ST-APOG']={"controlprogram":"rbspscan","args": "-meribm 10 -westbm 2 -eastbm 19"}
+radars['kod']["modes"]['Common:THEMIS']={"controlprogram":"uafscan","args":"--beampattern themis --df 10400 --nf 10400"}
+radars['kod']["modes"]['Special:THEMIS']={"controlprogram":"uafscan","args":"--beampattern themis --df 10400 --nf 10400"}
+radars['kod']["modes"]['Common:no switching']={"controlprogram":"uafscan","args":"--df 10400 --nf 10400"}
+radars['kod']["modes"]['Common:1-min:no switching']={"controlprogram":"uafscan","args":"--fast --df 10400 --nf 10400"}
+radars['kod']["modes"]['Special:ST-APOG']={"controlprogram":"uafscan","args": "--beampattern rbsp --meribm 10 --westbm 2 --eastbm 19"}
 # Alternative program if radar not participating in Special program 
-radars['kod']["modes"]['Special:ST-APOG']["altprogram"]="normalscan"
-radars['kod']["modes"]['Special:ST-APOG']["altargs"]="-df 10400 -nf 10400 -fast"
+radars['kod']["modes"]['Special:ST-APOG']["altprogram"]="uafscan"
+radars['kod']["modes"]['Special:ST-APOG']["altargs"]="--df 10400 --nf 10400 --fast"
 
 radars['kod.a']["modes"]={}
-radars['kod.a']["modes"]['default']={"controlprogram":"normalscan","args":"-fast -df 10400 -nf 10400"}
+radars['kod.a']["modes"]['default']={"controlprogram":"uafscan","args":"--fast --df 10400 --nf 10400"}
 radars['kod.a']["modes"]['Discretionary']={"controlprogram":"normalsound","args":"-di -fast -df 10400 -nf 10400"}
 radars['kod.a']["modes"]['Common']={"controlprogram":"normalsound","args":"-df 10400 -nf 10400"}
 radars['kod.a']["modes"]['Common:1-min']={"controlprogram":"normalsound","args":"-fast -df 10400 -nf 10400"}
-radars['kod.a']["modes"]['Common:THEMIS']={"controlprogram":"themisscan","args":"-df 10400 -nf 10400"}
-radars['kod.a']["modes"]['Special:THEMIS']={"controlprogram":"themisscan","args":"-df 10400 -nf 10400"}
+radars['kod.a']["modes"]['Common:THEMIS']={"controlprogram":"uafscan","args":"--beampattern themis --df 10400 --nf 10400"}
+radars['kod.a']["modes"]['Special:THEMIS']={"controlprogram":"uafscan","args":"--beampattern themis --df 10400 --nf 10400"}
 radars['kod.a']["modes"]['Common:no switching']={"controlprogram":"normalscan","args":"-df 10400 -nf 10400"}
-radars['kod.a']["modes"]['Common:1-min:no switching']={"controlprogram":"normalscan","args":"-fast -df 10400 -nf 10400"}
+radars['kod.a']["modes"]['Common:1-min:no switching']={"controlprogram":"uafscan","args":"--fast --df 10400 --nf 10400"}
 
 radars['kod.b']["modes"]={}
-radars['kod.b']["modes"]['default']={"controlprogram":"normalscan","args":"-fast -df 10400 -nf 10400"}
+radars['kod.b']["modes"]['default']={"controlprogram":"uafscan","args":"--fast --df 10400 --nf 10400"}
 radars['kod.b']["modes"]['Discretionary']={"controlprogram":"normalsound","args":"-di -fast -df 10400 -nf 10400"}
 radars['kod.b']["modes"]['Common']={"controlprogram":"normalsound","args":"-df 10400 -nf 10400"}
 radars['kod.b']["modes"]['Common:1-min']={"controlprogram":"normalsound","args":"-fast -df 10400 -nf 10400"}
-radars['kod.b']["modes"]['Common:THEMIS']={"controlprogram":"themisscan","args":"-df 10400 -nf 10400"}
-radars['kod.b']["modes"]['Special:THEMIS']={"controlprogram":"themisscan","args":"-df 10400 -nf 10400"}
-radars['kod.b']["modes"]['Common:no switching']={"controlprogram":"normalscan","args":"-df 10400 -nf 10400"}
-radars['kod.b']["modes"]['Common:1-min:no switching']={"controlprogram":"normalscan","args":"-fast -df 10400 -nf 10400"}
+radars['kod.b']["modes"]['Common:THEMIS']={"controlprogram":"uafsscan","args":"--beampatten themis --df 10400 --nf 10400"}
+radars['kod.b']["modes"]['Special:THEMIS']={"controlprogram":"uafscan","args":"--df 10400 --nf 10400"}
+radars['kod.b']["modes"]['Common:no switching']={"controlprogram":"uafscan","args":"--df 10400 --nf 10400"}
+radars['kod.b']["modes"]['Common:1-min:no switching']={"controlprogram":"uafscan","args":"--fast --df 10400 --nf 10400"}
 
 radars['kod.c']["modes"]={}
-radars['kod.c']["modes"]['default']={"controlprogram":"normalscan","args":"-sb 3 -eb 3 -fast -df 10400 -nf 10400","priority":"1", "duration":"a"}
-radars['kod.c']["modes"]['Discretionary']={"controlprogram":"normalscan","args":"-sb 3 -eb 3 -fast -di -df 10400 -nf 10400","priority":"5", "duration":"a"}
-radars['kod.c']["modes"]['Common']={"controlprogram":"normalscan","args":"-sb 3 -eb 3 -fast -df 10400 -nf 10400","priority":"5", "duration":"a"}
-radars['kod.c']["modes"]['Common:1-min']={"controlprogram":"normalscan","args":"-sb 3 -eb 3 -fast -df 10400 -nf 10400","priority":"5", "duration":"a"}
-radars['kod.c']["modes"]['Common:THEMIS']={"controlprogram":"themisscan","args":"-df 10400 -nf 10400","priority":"15", "duration":"a"}
-radars['kod.c']["modes"]['Special:THEMIS']={"controlprogram":"themisscan","args":"-df 10400 -nf 10400","priority":"15", "duration":"a"}
-radars['kod.c']["modes"]['Common:no switching']={"controlprogram":"normalscan","args":"-sb 3 -eb 3 -fast -df 10400 -nf 10400","priority":"5", "duration":"a"}
-radars['kod.c']["modes"]['Common:1-min:no switching']={"controlprogram":"normalscan","args":"-sb 3 -eb 3 -fast -df 10400 -nf 10400","priority":"5", "duration":"a"}
+radars['kod.c']["modes"]['default']={"controlprogram":"uafscan","args":"--sb 3 --eb 3 --fast --df 10400 --nf 10400","priority":"1", "duration":"a"}
+radars['kod.c']["modes"]['Discretionary']={"controlprogram":"uafscan","args":"--sb 3 --eb 3 --fast --di --df 10400 --nf 10400","priority":"5", "duration":"a"}
+radars['kod.c']["modes"]['Common']={"controlprogram":"uafscan","args":"--sb 3 --eb 3 --fast --df 10400 --nf 10400","priority":"5", "duration":"a"}
+radars['kod.c']["modes"]['Common:1-min']={"controlprogram":"uafscan","args":"--sb 3 --eb 3 --fast --df 10400 --nf 10400","priority":"5", "duration":"a"}
+radars['kod.c']["modes"]['Common:THEMIS']={"controlprogram":"uafscan","args":"--beampatten themis --df 10400 --nf 10400","priority":"15", "duration":"a"}
+radars['kod.c']["modes"]['Special:THEMIS']={"controlprogram":"uafscan","args":"--beampattern themis --df 10400 --nf 10400","priority":"15", "duration":"a"}
+radars['kod.c']["modes"]['Common:no switching']={"controlprogram":"uafscan","args":"--sb 3 --eb 3 --fast --df 10400 --nf 10400","priority":"5", "duration":"a"}
+radars['kod.c']["modes"]['Common:1-min:no switching']={"controlprogram":"uafscan","args":"--sb 3 --eb 3 --fast --df 10400 --nf 10400","priority":"5", "duration":"a"}
 #radars['kod.c']["modes"]['Special:ST-APOG']={"controlprogram":"rbspscan","args": "-df 10750 -nf 10750 -meribm 1 -westbm 0 -eastbm 3 ","priority":"1","duration": "a"}
-radars['kod.c']["modes"]['Special:ST-APOG']={"controlprogram":"normalscan","args": "-sb 3 -eb 3 -fast -df 10400 -nf 10400","priority":"1","duration": "a"}
+radars['kod.c']["modes"]['Special:ST-APOG']={"controlprogram":"uafscan","args": "--sb 3 --eb 3 --fast --df 10400 --nf 10400","priority":"1","duration": "a"}
 # Alternative program if radar not participating in Special program 
-radars['kod.c']["modes"]['Special:ST-APOG']["altprogram"]="normalscan"
-radars['kod.c']["modes"]['Special:ST-APOG']["altargs"]="-sb 3 -eb 3 -fast -df 10400 -nf 10400"
+radars['kod.c']["modes"]['Special:ST-APOG']["altprogram"]="uafscan"
+radars['kod.c']["modes"]['Special:ST-APOG']["altargs"]="--sb 3 --eb 3 --fast --df 10400 --nf 10400"
 
-radars['kod.c']["modes"]['Special:PFISR']={"controlprogram":"normalscan","args": "-sb 3 -eb 3 -fast -df 10400 -nf 10400","priority":"1","duration": "a"}
+radars['kod.c']["modes"]['Special:PFISR']={"controlprogram":"uafscan","args": "--sb 3 --eb 3 --fast --df 10400 --nf 10400","priority":"1","duration": "a"}
 # Alternative program if radar not participating in Special program 
-radars['kod.c']["modes"]['Special:PFISR']["altprogram"]="normalscan"
-radars['kod.c']["modes"]['Special:PFISR']["altargs"]="-sb 3 -eb 3 -fast -df 10400 -nf 10400"
+radars['kod.c']["modes"]['Special:PFISR']["altprogram"]="uafscan"
+radars['kod.c']["modes"]['Special:PFISR']["altargs"]="--sb 3 --eb 3 --fast --df 10400 --nf 10400"
 
 
 radars['kod.c']["modes"]['Special:World Day']={"controlprogram":"iwdscan","args":"-startbeam 0 -stopbeam 8 -df 10400 -nf 10400","priority":"0", "duration":"a"}
 # Alternative program if radar not participating in Special program
-radars['kod.c']["modes"]['Special:World Day']["altprogram"]="normalscan"
-radars['kod.c']["modes"]['Special:World Day']["altargs"]="-sb 3 -eb 3 -fast -df 10400 -nf 10400"
-radars['kod.c']["modes"]['Special:ARASE'] ={"controlprogram":"normalscan","args":"-sb 3 -eb 3 -fast -df 10400 -nf 10400","priority":"5", "duration":"a"}
+radars['kod.c']["modes"]['Special:World Day']["altprogram"]="uafscan"
+radars['kod.c']["modes"]['Special:World Day']["altargs"]="--sb 3 --eb 3 --fast --df 10400 --nf 10400"
+radars['kod.c']["modes"]['Special:ARASE'] ={"controlprogram":"uafscan","args":"--sb 3 --eb 3 --fast --df 10400 --nf 10400","priority":"5", "duration":"a"}
 radars['kod.c']["modes"]['Special:ARASE']["altprogram"]="normalsound"
-radars['kod.c']["modes"]['Special:ARASE']["altargs"]="-sb 3 -eb 3 -fast -df 10400 -nf 10400"
+radars['kod.c']["modes"]['Special:ARASE']["altargs"]="--sb 3 --eb 3 --fast --df 10400 --nf 10400"
 
 
 radars['kod.d']["modes"]={}
-radars['kod.d']["modes"]['default']={"controlprogram":"normalscan","args":"-fast -df 10400 -nf 10400","priority":"1", "duration":"a"}
-radars['kod.d']["modes"]['Discretionary']={"controlprogram":"normalsound","args":"-di -fast -df 10400 -nf 10400","priority":"5", "duration":"a"}
-radars['kod.d']["modes"]['Common']={"controlprogram":"normalsound","args":"-df 10400 -nf 10400","priority":"5", "duration":"a"}
-radars['kod.d']["modes"]['Common:1-min']={"controlprogram":"normalsound","args":"-fast -df 10400 -nf 10400","priority":"5", "duration":"a"}
-radars['kod.d']["modes"]['Common:THEMIS']={"controlprogram":"themisscan","args":"-df 10400 -nf 10400","priority":"15", "duration":"a"}
-radars['kod.d']["modes"]['Special:THEMIS']={"controlprogram":"themisscan","args":"-df 10400 -nf 10400","priority":"15", "duration":"a"}
-radars['kod.d']["modes"]['Special:ARASE'] ={"controlprogram":"interleavescan","args":"-df 10400 -nf 10400","priority":"15", "duration":"a"}
+radars['kod.d']["modes"]['default']={"controlprogram":"uafscan","args":"--fast --df 10400 --nf 10400","priority":"1", "duration":"a"}
+radars['kod.d']["modes"]['Discretionary']={"controlprogram":"normalsound","args":"--di -fast --df 10400 --nf 10400","priority":"5", "duration":"a"}
+radars['kod.d']["modes"]['Common']={"controlprogram":"normalsound","args":"--df 10400 --nf 10400","priority":"5", "duration":"a"}
+radars['kod.d']["modes"]['Common:1-min']={"controlprogram":"normalsound","args":"--fast --df 10400 --nf 10400","priority":"5", "duration":"a"}
+radars['kod.d']["modes"]['Common:THEMIS']={"controlprogram":"uafscan","args":"--beampattern themis --df 10400 --nf 10400","priority":"15", "duration":"a"}
+radars['kod.d']["modes"]['Special:THEMIS']={"controlprogram":"uafscan","args":"--beampattern themis --df 10400 --nf 10400","priority":"15", "duration":"a"}
+radars['kod.d']["modes"]['Special:ARASE'] ={"controlprogram":"uafscan","args":"--beampattern interleave --df 10400 --nf 10400","priority":"15", "duration":"a"}
 radars['kod.d']["modes"]['Special:ARASE']["altprogram"]="normalsound"
-radars['kod.d']["modes"]['Special:ARASE']["altargs"]="-fast -df 10400 -nf 10400"
-radars['kod.d']["modes"]['Common:no switching']={"controlprogram":"normalscan","args":"-df 10400 -nf 10400","priority":"5", "duration":"a"}
-radars['kod.d']["modes"]['Common:1-min:no switching']={"controlprogram":"normalscan","args":"-fast -df 10400 -nf 10400","priority":"5", "duration":"a"}
-radars['kod.d']["modes"]['Special:ST-APOG']={"controlprogram":"rbspscan","args": "-df 10750 -nf 10750 -meribm 1 -westbm 0 -eastbm 3 ","priority":"1","duration": "a"}
+radars['kod.d']["modes"]['Special:ARASE']["altargs"]="--fast --df 10400 --nf 10400"
+radars['kod.d']["modes"]['Common:no switching']={"controlprogram":"uafscan","args":"--df 10400 --nf 10400","priority":"5", "duration":"a"}
+radars['kod.d']["modes"]['Common:1-min:no switching']={"controlprogram":"uafscan","args":"--fast --df 10400 --nf 10400","priority":"5", "duration":"a"}
+radars['kod.d']["modes"]['Special:ST-APOG']={"controlprogram":"uafscan","args": "--beampattern rbsp --df 10750 --nf 10750 --meribm 1 --westbm 0 --eastbm 3 ","priority":"1","duration": "a"}
 #radars['kod.d']["modes"]['Special:ST-APOG']={"controlprogram":"normalscan","args": "-df 10750 -nf 10750 -fast","priority":"1","duration": "a"}
 # Alternative program if radar not participating in Special program 
 radars['kod.d']["modes"]['Special:ST-APOG']["altprogram"]="normalsound"
-radars['kod.d']["modes"]['Special:ST-APOG']["altargs"]="-fast -df 10400 -nf 10400"
+radars['kod.d']["modes"]['Special:ST-APOG']["altargs"]="--fast --df 10400 --nf 10400"
 
-radars['kod.d']["modes"]['Special:PFISR']={"controlprogram":"rbspscan","args": "-df 10750 -nf 10750 -meribm 2 -westbm 0 -eastbm 4 ","priority":"1","duration": "a"}
+radars['kod.d']["modes"]['Special:PFISR']={"controlprogram":"uafscan","args": "--beamapttern rbsp --df 10750 --nf 10750 --meribm 2 --westbm 0 --eastbm 4 ","priority":"1","duration": "a"}
 radars['kod.d']["modes"]['Special:PFISR']["altprogram"]="normalsound"
-radars['kod.d']["modes"]['Special:PFISR']["altargs"]="-fast -df 10400 -nf 10400"
+radars['kod.d']["modes"]['Special:PFISR']["altargs"]="--fast --df 10400 --nf 10400"
 
-radars['kod.d']["modes"]['Special:World Day']={"controlprogram":"iwdscan","args":"-startbeam 0 -stopbeam 8 -df 10400 -nf 10400","priority":"0", "duration":"a"}
+radars['kod.d']["modes"]['Special:World Day']={"controlprogram":"iwdscan","args":"--startbeam 0 --stopbeam 8 --df 10400 --nf 10400","priority":"0", "duration":"a"}
 # Alternative program if radar not participating in Special program
 radars['kod.d']["modes"]['Special:World Day']["altprogram"]="normalsound"
-radars['kod.d']["modes"]['Special:World Day']["altargs"]="-fast -df 10400 -nf 10400"
+radars['kod.d']["modes"]['Special:World Day']["altargs"]="--fast --df 10400 --nf 10400"
 
 radars['mcm.a']["modes"]={}
 radars['mcm.a']["modes"]['default']={"controlprogram":"normalscan","args":"-fast -df 10750 -nf 10750"}
