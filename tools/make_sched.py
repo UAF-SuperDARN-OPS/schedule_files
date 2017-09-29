@@ -6,7 +6,6 @@ import string
 default_radar='kod'
 from radar_modes import *
 
-
 months=['January','February','March','April','May','June','July','August','September','October','November','December']
 month=None
 year=None

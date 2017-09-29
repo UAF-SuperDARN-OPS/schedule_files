@@ -132,9 +132,9 @@ radars['mcm.b']["sitelib"]="ros"
 #Schedule modes mapped to Controlprograms 
 radars['kod']["modes"]={}
 radars['kod']["modes"]['default']={"controlprogram":"uafscan","args":"--fast --df 10400 --nf 10400"}
-radars['kod']["modes"]['Discretionary']={"controlprogram":"normalsound","args":"-di -fast -df 10400 -nf 10400"}
+radars['kod']["modes"]['Discretionary']={"controlprogram":"uafscan","args":"--fast --df 10400 --nf 10400"}
+radars['kod']["modes"]['Common:1-min']={"controlprogram":"uafscan","args":"--fast --df 10400 --nf 10400"}
 radars['kod']["modes"]['Common']={"controlprogram":"normalsound","args":"-df 10400 -nf 10400"}
-radars['kod']["modes"]['Common:1-min']={"controlprogram":"normalsound","args":"-fast -df 10400 -nf 10400"}
 radars['kod']["modes"]['Common:THEMIS']={"controlprogram":"uafscan","args":"--beampattern themis --df 10400 --nf 10400"}
 radars['kod']["modes"]['Special:THEMIS']={"controlprogram":"uafscan","args":"--beampattern themis --df 10400 --nf 10400"}
 radars['kod']["modes"]['Common:no switching']={"controlprogram":"uafscan","args":"--df 10400 --nf 10400"}
@@ -195,14 +195,14 @@ radars['kod.c']["modes"]['Special:ARASE']["altargs"]="--sb 3 --eb 3 --fast --df 
 
 
 radars['kod.d']["modes"]={}
-radars['kod.d']["modes"]['default']={"controlprogram":"uafscan","args":"--fast --df 10400 --nf 10400","priority":"1", "duration":"a"}
-radars['kod.d']["modes"]['Discretionary']={"controlprogram":"normalsound","args":"--di -fast --df 10400 --nf 10400","priority":"5", "duration":"a"}
+radars['kod.d']["modes"]['default']={"controlprogram":"uafscan","args":"--fast --df 10400 --nf 10400","priority":"1", "duration":"a", "priority":"1"}
+radars['kod.d']["modes"]['Discretionary']={"controlprogram":"uafscan","args":"--fast --df 10400 --nf 10400", "duration":"a","priority":"5"}
+radars['kod.d']["modes"]['Common:1-min']={"controlprogram":"uafscan","args":"--fast --df 10400 --nf 10400", "duration":"a","priority":"5"}
 radars['kod.d']["modes"]['Common']={"controlprogram":"normalsound","args":"--df 10400 --nf 10400","priority":"5", "duration":"a"}
-radars['kod.d']["modes"]['Common:1-min']={"controlprogram":"normalsound","args":"--fast --df 10400 --nf 10400","priority":"5", "duration":"a"}
 radars['kod.d']["modes"]['Common:THEMIS']={"controlprogram":"uafscan","args":"--beampattern themis --df 10400 --nf 10400","priority":"15", "duration":"a"}
 radars['kod.d']["modes"]['Special:THEMIS']={"controlprogram":"uafscan","args":"--beampattern themis --df 10400 --nf 10400","priority":"15", "duration":"a"}
 radars['kod.d']["modes"]['Special:ARASE'] ={"controlprogram":"uafscan","args":"--beampattern interleave --df 10400 --nf 10400","priority":"15", "duration":"a"}
-radars['kod.d']["modes"]['Special:ARASE']["altprogram"]="normalsound"
+radars['kod.d']["modes"]['Special:ARASE']["altprogram"]="uafscan"
 radars['kod.d']["modes"]['Special:ARASE']["altargs"]="--fast --df 10400 --nf 10400"
 radars['kod.d']["modes"]['Common:no switching']={"controlprogram":"uafscan","args":"--df 10400 --nf 10400","priority":"5", "duration":"a"}
 radars['kod.d']["modes"]['Common:1-min:no switching']={"controlprogram":"uafscan","args":"--fast --df 10400 --nf 10400","priority":"5", "duration":"a"}
