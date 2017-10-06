@@ -100,3 +100,51 @@ duration  0
 # >>> Schedule note <<< please re-confirm correct schedule: see Note A
 2017 10 31 00 00    480  10 interleavescan -stid adw -xcf 1  -df 13600 -nf 10750 -c 1
 2017 10 31 08 00    960  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+2017 11 01 00 00    720  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+2017 11 01 12 00   6480   1 normalsound -stid adw -xcf 1 -di -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2017 11 06 00 00    360  15 themisscan -stid adw -xcf 1 -camp 12 -df 13600 -nf 10750 -c 1
+2017 11 06 06 00   1200  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2017 11 07 02 00    480  10 interleavescan -stid adw -xcf 1  -df 13600 -nf 10750 -c 1
+2017 11 07 10 00   1200  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2017 11 08 06 00    360  15 themisscan -stid adw -xcf 1 -camp 12 -df 13600 -nf 10750 -c 1
+2017 11 08 12 00    840  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2017 11 09 02 00    480  10 interleavescan -stid adw -xcf 1  -df 13600 -nf 10750 -c 1
+2017 11 09 10 00    600  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2017 11 09 20 00    600  10 interleavescan -stid adw -xcf 1  -df 13600 -nf 10750 -c 1
+2017 11 10 06 00   2280  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2017 11 11 20 00    480  10 normalscan -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+2017 11 12 04 00   1200  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2017 11 13 00 00    480  10 interleavescan -stid adw -xcf 1  -df 13600 -nf 10750 -c 1
+2017 11 13 08 00    600  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+2017 11 13 18 00   2880  10 normalscan -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2017 11 15 18 00    600  10 normalscan -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+2017 11 16 04 00   1200  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note C
+2017 11 17 00 00    720  15 themisscan -stid adw -xcf 1 -camp 12 -df 13600 -nf 10750 -c 1
+2017 11 17 12 00    720  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note C
+2017 11 18 00 00    720  15 themisscan -stid adw -xcf 1 -camp 12 -df 13600 -nf 10750 -c 1
+2017 11 18 12 00    720  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note C
+2017 11 19 00 00    720  15 themisscan -stid adw -xcf 1 -camp 12 -df 13600 -nf 10750 -c 1
+2017 11 19 12 00   6480   1 normalsound -stid adw -xcf 1 -di -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2017 11 24 00 00    600  10 interleavescan -stid adw -xcf 1  -df 13600 -nf 10750 -c 1
+2017 11 24 10 00   1200  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2017 11 25 06 00    360  15 themisscan -stid adw -xcf 1 -camp 12 -df 13600 -nf 10750 -c 1
+2017 11 25 12 00    720  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2017 11 26 00 00    600  10 interleavescan -stid adw -xcf 1  -df 13600 -nf 10750 -c 1
+2017 11 26 10 00   2280  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2017 11 28 00 00    360  15 themisscan -stid adw -xcf 1 -camp 12 -df 13600 -nf 10750 -c 1
+2017 11 28 06 00   3960  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
