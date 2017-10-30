@@ -104,3 +104,51 @@ duration a
 # >>> Schedule note <<< please re-confirm correct schedule: see Note B
 2017 11 28 00 00    360  15 uafscan --stid kod --xcf 1 --beampattern themis --df 10400 --nf 10400 -c 4
 2017 11 28 06 00   3960   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+2017 11 01 00 00    720   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+2017 11 01 12 00   6480   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2017 11 06 00 00    360  15 uafscan --stid kod --xcf 1 --beampattern themis --df 10400 --nf 10400 -c 4
+2017 11 06 06 00   1200   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2017 11 07 02 00    480  15 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+2017 11 07 10 00   1200   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2017 11 08 06 00    360  15 uafscan --stid kod --xcf 1 --beampattern themis --df 10400 --nf 10400 -c 4
+2017 11 08 12 00    840   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2017 11 09 02 00    480  15 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+2017 11 09 10 00    600   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2017 11 09 20 00    600  15 uafscan --stid kod --xcf 1 --beampattern interleave --df 10400 --nf 10400 -c 4
+2017 11 10 06 00   2280   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2017 11 11 20 00    480  15 uafscan --stid kod --xcf 1 --beampattern interleave --df 10400 --nf 10400 -c 4
+2017 11 12 04 00   1200   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2017 11 13 00 00    480  15 uafscan --stid kod --xcf 1 --beampattern interleave --df 10400 --nf 10400 -c 4
+2017 11 13 08 00    600   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+2017 11 13 18 00   2880   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2017 11 15 18 00    600  15 uafscan --stid kod --xcf 1 --beampattern interleave --df 10400 --nf 10400 -c 4
+2017 11 16 04 00   1200   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note C
+2017 11 17 00 00    720  15 uafscan --stid kod --xcf 1 --beampattern themis --df 10400 --nf 10400 -c 4
+2017 11 17 12 00    720   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note C
+2017 11 18 00 00    720  15 uafscan --stid kod --xcf 1 --beampattern themis --df 10400 --nf 10400 -c 4
+2017 11 18 12 00    720   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note C
+2017 11 19 00 00    720  15 uafscan --stid kod --xcf 1 --beampattern themis --df 10400 --nf 10400 -c 4
+2017 11 19 12 00   6480   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2017 11 24 00 00    600  15 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+2017 11 24 10 00   1200   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2017 11 25 06 00    360  15 uafscan --stid kod --xcf 1 --beampattern themis --df 10400 --nf 10400 -c 4
+2017 11 25 12 00    720   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2017 11 26 00 00    600  15 uafscan --stid kod --xcf 1 --beampattern interleave --df 10400 --nf 10400 -c 4
+2017 11 26 10 00   2280   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note B
+2017 11 28 00 00    360  15 uafscan --stid kod --xcf 1 --beampattern themis --df 10400 --nf 10400 -c 4
+2017 11 28 06 00   3960   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
