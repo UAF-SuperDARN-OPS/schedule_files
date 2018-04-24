@@ -309,3 +309,28 @@ duration  0
 # >>> Schedule note <<< please re-confirm correct schedule: see Note A
 2018 04 30 04 00    360   5 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
 2018 04 30 10 00    840   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+2018 05 01 00 00   1320   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 05 01 22 00    360   5 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
+2018 05 02 04 00   6480   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
+2018 05 06 16 00   1200   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 05 07 12 00    360   5 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
+2018 05 07 18 00   1440   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 05 08 18 00    360   5 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
+2018 05 09 00 00   1920   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 05 10 08 00    360   5 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
+2018 05 10 14 00   2880   5 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+2018 05 12 14 00   2760   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 05 14 12 00    360   5 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
+2018 05 14 18 00   3720   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 05 17 08 00    360   5 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
+2018 05 17 14 00   6480   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
+2018 05 22 02 00   3120   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 05 24 06 00    360   5 themisscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -xcf 1 -c 1
+2018 05 24 12 00  10800   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
