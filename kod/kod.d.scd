@@ -373,3 +373,28 @@ duration a
 # >>> Schedule note <<< please re-confirm correct schedule: see Note A
 2018 04 30 04 00    360  15 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
 2018 04 30 10 00    840   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+2018 05 01 00 00   1320   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 05 01 22 00    360  15 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+2018 05 02 04 00   6480   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+2018 05 06 16 00   1200   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 05 07 12 00    360  15 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+2018 05 07 18 00   1440   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 05 08 18 00    360  15 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+2018 05 09 00 00   1920   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 05 10 08 00    360  15 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+2018 05 10 14 00   2880   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+2018 05 12 14 00   2760   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 05 14 12 00    360  15 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+2018 05 14 18 00   3720   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 05 17 08 00    360  15 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+2018 05 17 14 00   6480   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+2018 05 22 02 00   3120   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 05 24 06 00    360  15 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+2018 05 24 12 00  10800   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
