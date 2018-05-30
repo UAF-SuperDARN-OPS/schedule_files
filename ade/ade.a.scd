@@ -373,3 +373,24 @@ duration  0
 # >>> Schedule note <<< please re-confirm correct schedule: see Note A
 2018 05 24 06 00    360  10 themisscan -stid ade -xcf 1  -df 13600 -nf 10750 -c 1
 2018 05 24 12 00  10800  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
+2018 06 01 00 00    720  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 06 01 12 00    360  10 themisscan -stid ade -xcf 1  -df 13600 -nf 10750 -c 1
+2018 06 01 18 00   6480  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
+2018 06 06 06 00   2880  10 normalscan -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
+2018 06 08 06 00  12960   1 normalsound -stid ade -xcf 1 -di -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 06 17 06 00    360  10 themisscan -stid ade -xcf 1  -df 13600 -nf 10750 -c 1
+2018 06 17 12 00   3840  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 06 20 04 00    360  10 themisscan -stid ade -xcf 1  -df 13600 -nf 10750 -c 1
+2018 06 20 10 00   4080  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 06 23 06 00    360  10 themisscan -stid ade -xcf 1  -df 13600 -nf 10750 -c 1
+2018 06 23 12 00   3840  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 06 26 04 00    360  10 themisscan -stid ade -xcf 1  -df 13600 -nf 10750 -c 1
+2018 06 26 10 00   3720  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 06 29 00 00    360  10 themisscan -stid ade -xcf 1  -df 13600 -nf 10750 -c 1
+2018 06 29 06 00   2520  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
