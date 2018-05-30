@@ -210,3 +210,24 @@ priority 1
 # >>> Schedule note <<< please re-confirm correct schedule: see Note A
 2018 05 24 06 00    360   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
 2018 05 24 12 00  10800   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+2018 06 01 00 00    720   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 06 01 12 00    360   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+2018 06 01 18 00   6480   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+2018 06 06 06 00   2880   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+2018 06 08 06 00  12960   5 uafscan --stid mcm --xcf 1 --di --fast --df 11500 --nf 11500 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 06 17 06 00    360   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+2018 06 17 12 00   3840   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 06 20 04 00    360   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+2018 06 20 10 00   4080   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 06 23 06 00    360   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+2018 06 23 12 00   3840   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 06 26 04 00    360   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+2018 06 26 10 00   3720   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 06 29 00 00    360   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+2018 06 29 06 00   2520   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
