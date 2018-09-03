@@ -292,6 +292,12 @@ radars['sps.a']["modes"]['Special:ST-APOG']={"controlprogram":"rbspscan","args":
 # Alternative program if radar not participating in Special program 
 radars['sps.a']["modes"]['Special:ST-APOG']["altprogram"]="normalscan"
 radars['sps.a']["modes"]['Special:ST-APOG']["altargs"]="-df 12550 -nf 12550 -fast -xcf 1"
+radars['sps.a']["modes"]['Special:ARASE']={"controlprogram":"interleavescan","args": "-df 12550 -nf 12550","priority":"1","duration": "a"}
+# Alternative program if radar not participating in Special program
+radars['sps.a']["modes"]['Special:ARASE']["altprogram"]="normalscan"
+radars['sps.a']["modes"]['Special:ARASE']["altargs"]="-df 12550 -nf 12550 -fast"
+
+
 
 radars['sps.b']["modes"]={}
 radars['sps.b']["modes"]['default']={"controlprogram":"normalscan","args":"-fast -df 10750 -nf 10750", 
@@ -314,6 +320,10 @@ radars['sps.b']["modes"]['Special:ST-APOG']={"controlprogram":"rbspscan","args":
 # Alternative program if radar not participating in Special program 
 radars['sps.b']["modes"]['Special:ST-APOG']["altprogram"]="normalscan"
 radars['sps.b']["modes"]['Special:ST-APOG']["altargs"]="-df 10750 -nf 10750 -fast"
+radars['sps.b']["modes"]['Special:ARASE']={"controlprogram":"interleavescan","args": "-df 10750 -nf 10750","priority":"1","duration": "a"}
+# Alternative program if radar not participating in Special program
+radars['sps.b']["modes"]['Special:ARASE']["altprogram"]="normalscan"
+radars['sps.b']["modes"]['Special:ARASE']["altargs"]="-df 10750 -nf 10750 -fast"
 
 
 radars['ade.a']["modes"]={}
