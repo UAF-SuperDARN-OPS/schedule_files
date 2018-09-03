@@ -485,3 +485,37 @@ duration  0
 2018 09 29 02 00    600  10 interleavescan -stid adw -xcf 1  -df 13600 -nf 10750 -c 1
 2018 09 29 12 00   2160  10 normalscan -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
 
+2018 10 01 00 00    120  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 10 01 02 00    600  10 interleavescan -stid adw -xcf 1  -df 13600 -nf 10750 -c 1
+2018 10 01 12 00   4320   1 normalsound -stid adw -xcf 1 -di -fast -df 13600 -nf 10750 -c 1
+2018 10 04 12 00    720  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 10 05 00 00    600  10 interleavescan -stid adw -xcf 1  -df 13600 -nf 10750 -c 1
+2018 10 05 10 00   2280  10 normalscan -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 10 07 00 00    600  10 interleavescan -stid adw -xcf 1  -df 13600 -nf 10750 -c 1
+2018 10 07 10 00   4320   1 normalsound -stid adw -xcf 1 -di -fast -df 13600 -nf 10750 -c 1
+2018 10 10 10 00   2520  10 normalscan -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 10 12 04 00    480  10 interleavescan -stid adw -xcf 1  -df 13600 -nf 10750 -c 1
+2018 10 12 12 00   5160  10 normalscan -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 10 16 02 00    480  10 interleavescan -stid adw -xcf 1  -df 13600 -nf 10750 -c 1
+2018 10 16 10 00   2400  10 normalscan -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 10 18 02 00    480  10 interleavescan -stid adw -xcf 1  -df 13600 -nf 10750 -c 1
+2018 10 18 10 00   1200  10 normalscan -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 10 19 06 00    480  10 interleavescan -stid adw -xcf 1  -df 13600 -nf 10750 -c 1
+2018 10 19 14 00   2280  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 10 21 04 00    600  10 interleavescan -stid adw -xcf 1  -df 13600 -nf 10750 -c 1
+2018 10 21 14 00   4320   1 normalsound -stid adw -xcf 1 -di -fast -df 13600 -nf 10750 -c 1
+2018 10 24 14 00    840  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 10 25 04 00    480  10 interleavescan -stid adw -xcf 1  -df 13600 -nf 10750 -c 1
+2018 10 25 12 00   2280  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 10 27 02 00    600  10 interleavescan -stid adw -xcf 1  -df 13600 -nf 10750 -c 1
+2018 10 27 12 00   6480  10 normalsound -stid adw -xcf 1 -fast -df 13600 -nf 10750 -c 1
