@@ -289,3 +289,69 @@ priority 1
 # >>> Schedule note <<< please re-confirm correct schedule: see Note A
 2018 08 29 22 00    360   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
 2018 08 30 04 00   2640   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+2018 09 01 00 00    240   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 09 01 04 00    480   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+2018 09 01 12 00   2280   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 09 03 02 00    600   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+2018 09 03 12 00   4920   5 uafscan --stid mcm --xcf 1 --di --fast --df 11500 --nf 11500 -c 2
+2018 09 06 22 00   1920   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 09 08 06 00    480   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+2018 09 08 14 00   5160   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 09 12 04 00    600   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+2018 09 12 14 00   2280   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 09 14 04 00    480   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+2018 09 14 12 00   8040   5 uafscan --stid mcm --xcf 1 --di --fast --df 11500 --nf 11500 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 09 20 02 00    480   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+2018 09 20 10 00   1200   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 09 21 06 00    480   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+2018 09 21 14 00   2280   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 09 23 04 00    600   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+2018 09 23 14 00   5160   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 09 27 04 00    480   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+2018 09 27 12 00   2280   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 09 29 02 00    600   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+2018 09 29 12 00   2160   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+2018 10 01 00 00    120   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 10 01 02 00    600   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+2018 10 01 12 00   4320   5 uafscan --stid mcm --xcf 1 --di --fast --df 11500 --nf 11500 -c 2
+2018 10 04 12 00    720   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 10 05 00 00    600   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+2018 10 05 10 00   2280   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 10 07 00 00    600   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+2018 10 07 10 00   4320   5 uafscan --stid mcm --xcf 1 --di --fast --df 11500 --nf 11500 -c 2
+2018 10 10 10 00   2520   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 10 12 04 00    480   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+2018 10 12 12 00   5160   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 10 16 02 00    480   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+2018 10 16 10 00   2400   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 10 18 02 00    480   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+2018 10 18 10 00   1200   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 10 19 06 00    480   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+2018 10 19 14 00   2280   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 10 21 04 00    600   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+2018 10 21 14 00   4320   5 uafscan --stid mcm --xcf 1 --di --fast --df 11500 --nf 11500 -c 2
+2018 10 24 14 00    840   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 10 25 04 00    480   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+2018 10 25 12 00   2280   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 10 27 02 00    600   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+2018 10 27 12 00   6480   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
