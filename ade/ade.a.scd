@@ -581,3 +581,31 @@ duration  0
 # >>> Schedule note <<< please re-confirm correct schedule: see Note A
 2018 12 28 02 00    480  10 interleavescan -stid ade -xcf 1  -df 13600 -nf 10750 -c 1
 2018 12 28 10 00   5160  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
+2019 01 01 00 00   1680  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2019 01 02 04 00    480  10 interleavescan -stid ade -xcf 1  -df 13600 -nf 10750 -c 1
+2019 01 02 12 00    600  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2019 01 02 22 00    600  10 interleavescan -stid ade -xcf 1  -df 13600 -nf 10750 -c 1
+2019 01 03 08 00   1080  10 normalscan -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2019 01 04 02 00    600  10 interleavescan -stid ade -xcf 1  -df 13600 -nf 10750 -c 1
+2019 01 04 12 00   4320   1 normalsound -stid ade -xcf 1 -di -fast -df 13600 -nf 10750 -c 1
+2019 01 07 12 00  12120  10 normalscan -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2019 01 15 22 00    600  10 interleavescan -stid ade -xcf 1  -df 13600 -nf 10750 -c 1
+2019 01 16 08 00   4320   1 normalsound -stid ade -xcf 1 -di -fast -df 13600 -nf 10750 -c 1
+2019 01 19 08 00   5280  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2019 01 23 00 00    600  10 interleavescan -stid ade -xcf 1  -df 13600 -nf 10750 -c 1
+2019 01 23 10 00   4320   1 normalsound -stid ade -xcf 1 -di -fast -df 13600 -nf 10750 -c 1
+2019 01 26 10 00   3600  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2019 01 28 22 00    600  10 interleavescan -stid ade -xcf 1  -df 13600 -nf 10750 -c 1
+2019 01 29 08 00   1080  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2019 01 30 02 00    600  10 interleavescan -stid ade -xcf 1  -df 13600 -nf 10750 -c 1
+2019 01 30 12 00    600  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2019 01 30 22 00    600  10 interleavescan -stid ade -xcf 1  -df 13600 -nf 10750 -c 1
+2019 01 31 08 00    960  10 normalsound -stid ade -xcf 1 -fast -df 13600 -nf 10750 -c 1
