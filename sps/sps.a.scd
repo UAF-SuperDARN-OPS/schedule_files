@@ -490,3 +490,62 @@ duration  0
 # >>> Schedule note <<< please re-confirm correct schedule: see Note A
 2018 11 30 00 00    600   1 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -c 1
 2018 11 30 10 00    840   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+2018 12 01 00 00   7080   5 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 12 05 22 00    600   1 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -c 1
+2018 12 06 08 00   2280   5 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 12 07 22 00    600   1 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -c 1
+2018 12 08 08 00   4320   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
+2018 12 11 08 00   2400   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 12 13 00 00    600   1 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -c 1
+2018 12 13 10 00   4320   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
+2018 12 16 10 00    840   5 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 12 17 00 00    480   1 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -c 1
+2018 12 17 08 00   2280   5 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 12 18 22 00    600   1 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -c 1
+2018 12 19 08 00   4320   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
+2018 12 22 08 00    840   5 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 12 22 22 00    480   1 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -c 1
+2018 12 23 06 00   2280   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 12 24 20 00    600   1 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -c 1
+2018 12 25 06 00   1080   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 12 26 00 00    600   1 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -c 1
+2018 12 26 10 00   2400   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2018 12 28 02 00    480   1 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -c 1
+2018 12 28 10 00   5160   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+2019 01 01 00 00   1680   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2019 01 02 04 00    480   1 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -c 1
+2019 01 02 12 00    600   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2019 01 02 22 00    600   1 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -c 1
+2019 01 03 08 00   1080   5 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2019 01 04 02 00    600   1 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -c 1
+2019 01 04 12 00   4320   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
+2019 01 07 12 00  12120   5 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2019 01 15 22 00    600   1 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -c 1
+2019 01 16 08 00   4320   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
+2019 01 19 08 00   5280   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2019 01 23 00 00    600   1 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -c 1
+2019 01 23 10 00   4320   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
+2019 01 26 10 00   3600   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2019 01 28 22 00    600   1 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -c 1
+2019 01 29 08 00   1080   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2019 01 30 02 00    600   1 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -c 1
+2019 01 30 12 00    600   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2019 01 30 22 00    600   1 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -c 1
+2019 01 31 08 00    960   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
