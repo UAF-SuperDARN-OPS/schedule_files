@@ -535,3 +535,11 @@ duration a
 # >>> Schedule note <<< please re-confirm correct schedule: see Note A
 2019 01 30 22 00    600   5 uafscan --stid kod --xcf 1 --sb 3 --eb 3 --fast --df 10400 --nf 10400 -c 3
 2019 01 31 08 00    960   5 uafscan --stid kod --xcf 1 --sb 3 --eb 3 --fast --df 10400 --nf 10400 -c 3
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2019 02 01 00 00  14400   5 uafscan --stid kod --xcf 1 --sb 3 --eb 3 --fast --df 10400 --nf 10400 -c 3
+2019 02 11 00 00   4320   5 uafscan --stid kod --xcf 1 --sb 3 --eb 3 --fast --di --df 10400 --nf 10400 -c 3
+2019 02 14 00 00   5760   5 uafscan --stid kod --xcf 1 --sb 3 --eb 3 --fast --df 10400 --nf 10400 -c 3
+2019 02 18 00 00   4320   5 uafscan --stid kod --xcf 1 --sb 3 --eb 3 --fast --di --df 10400 --nf 10400 -c 3
+2019 02 21 00 00   5760   5 uafscan --stid kod --xcf 1 --sb 3 --eb 3 --fast --df 10400 --nf 10400 -c 3
+2019 02 25 00 00   4320   5 uafscan --stid kod --xcf 1 --sb 3 --eb 3 --fast --di --df 10400 --nf 10400 -c 3
+2019 02 28 00 00   1440   5 uafscan --stid kod --xcf 1 --sb 3 --eb 3 --fast --df 10400 --nf 10400 -c 3
