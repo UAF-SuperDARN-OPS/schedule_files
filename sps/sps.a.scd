@@ -549,3 +549,12 @@ duration  0
 # >>> Schedule note <<< please re-confirm correct schedule: see Note A
 2019 01 30 22 00    600   1 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -df 12550 -nf 12550 -fast -c 1
 2019 01 31 08 00    960   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+
+# >>> Schedule note <<< please re-confirm correct schedule: see Note A
+2019 02 01 00 00  14400   5 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+2019 02 11 00 00   4320   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
+2019 02 14 00 00   5760   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+2019 02 18 00 00   4320   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
+2019 02 21 00 00   5760   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+2019 02 25 00 00   4320   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
+2019 02 28 00 00   1440   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
