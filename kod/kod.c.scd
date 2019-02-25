@@ -543,3 +543,11 @@ duration a
 2019 02 21 00 00   5760   5 uafscan --stid kod --xcf 1 --sb 3 --eb 3 --fast --df 10400 --nf 10400 -c 3
 2019 02 25 00 00   4320   5 uafscan --stid kod --xcf 1 --sb 3 --eb 3 --fast --di --df 10400 --nf 10400 -c 3
 2019 02 28 00 00   1440   5 uafscan --stid kod --xcf 1 --sb 3 --eb 3 --fast --df 10400 --nf 10400 -c 3
+2019 03 01 00 00   2880   5 uafscan --stid kod --xcf 1 --sb 3 --eb 3 --fast --df 10400 --nf 10400 -c 3
+2019 03 03 00 00   4320   5 uafscan --stid kod --xcf 1 --sb 3 --eb 3 --fast --di --df 10400 --nf 10400 -c 3
+2019 03 06 00 00   8640   5 uafscan --stid kod --xcf 1 --sb 3 --eb 3 --fast --df 10400 --nf 10400 -c 3
+2019 03 12 00 00   4320   5 uafscan --stid kod --xcf 1 --sb 3 --eb 3 --fast --di --df 10400 --nf 10400 -c 3
+2019 03 15 00 00   8640   5 uafscan --stid kod --xcf 1 --sb 3 --eb 3 --fast --df 10400 --nf 10400 -c 3
+2019 03 21 00 00   4320   5 uafscan --stid kod --xcf 1 --sb 3 --eb 3 --fast --di --df 10400 --nf 10400 -c 3
+2019 03 24 00 00   7200   5 uafscan --stid kod --xcf 1 --sb 3 --eb 3 --fast --df 10400 --nf 10400 -c 3
+2019 03 29 00 00   4320   5 uafscan --stid kod --xcf 1 --sb 3 --eb 3 --fast --df 10400 --nf 10400 -c 3
