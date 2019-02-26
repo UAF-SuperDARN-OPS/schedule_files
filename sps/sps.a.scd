@@ -558,3 +558,11 @@ duration  0
 2019 02 21 00 00   5760   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
 2019 02 25 00 00   4320   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
 2019 02 28 00 00   1440   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+2019 03 01 00 00   2880   5 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+2019 03 03 00 00   4320   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
+2019 03 06 00 00   8640   5 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+2019 03 12 00 00   4320   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
+2019 03 15 00 00   8640   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+2019 03 21 00 00   4320   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
+2019 03 24 00 00   7200   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+2019 03 29 00 00   4320   5 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
