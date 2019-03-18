@@ -642,7 +642,7 @@ duration a
 2019 02 21 00 00   5760   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
 2019 02 25 00 00   4320   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
 2019 02 28 00 00   1440   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
-2019 03 01 00 00   2880   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+2019 03 01 00 00   2880   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 --baud 5 --rsep 15 --nrang 220 -c 4
 2019 03 03 00 00   4320   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
 2019 03 03 23 00     30  15 timscan --stid kod --nowait -c 4
 2019 03 06 00 00   8640   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
