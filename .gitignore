@@ -18,3 +18,5 @@
 
 # Month schedule files (created in the process of updating the master schedule)
 tools/*.scd
+
+*.pyc
