@@ -463,3 +463,11 @@ priority 1
 2019 03 21 00 00   4320   5 uafscan --stid mcm --xcf 1 --di --fast --df 11500 --nf 11500 -c 2
 2019 03 24 00 00   7200   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
 2019 03 29 00 00   4320   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+
+2019 04 01 00 00  10080   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+2019 04 08 00 00   4320   5 uafscan --stid mcm --xcf 1 --di --fast --df 11500 --nf 11500 -c 2
+2019 04 11 00 00   5760   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+2019 04 15 00 00   4320   5 uafscan --stid mcm --xcf 1 --di --fast --df 11500 --nf 11500 -c 2
+2019 04 18 00 00   5760   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+2019 04 22 00 00   4320   5 uafscan --stid mcm --xcf 1 --di --fast --df 11500 --nf 11500 -c 2
+2019 04 25 00 00   8640   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
