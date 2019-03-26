@@ -68,7 +68,7 @@ priority 5
 2017 02 23 01 00    270   90 pcodecamp_bm9_15km -stid kod -xcf 1 -df 10400 -nf 10400 -c 4 -onesec -di -clrskip 30
  
 # HAARP campaign 2019/03
-2019 03 27 00 01  120 99 uafscan --stid kod --fixfrq 10400 --fast --xcf 1 --df 10400 --nf 10400 -c 4
+2019 03 27 01 00   60 99 uafscan --stid kod --fixfrq 10400 --fast --xcf 1 --df 10400 --nf 10400 -c 4
 2019 03 27 05 30   60 99 uafscan --stid kod --fixfrq 10400 --fast --xcf 1 --df 10400 --nf 10400 -c 4
-2019 03 28 00 01  120 99 uafscan --stid kod --fixfrq 10400 --fast --xcf 1 --df 10400 --nf 10400 -c 4
+2019 03 28 01 00   60 99 uafscan --stid kod --fixfrq 10400 --fast --xcf 1 --df 10400 --nf 10400 -c 4
 2019 03 27 05 30   60 99 uafscan --stid kod --fixfrq 10400 --fast --xcf 1 --df 10400 --nf 10400 -c 4
