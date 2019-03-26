@@ -43,8 +43,6 @@ priority 5
 
 2017 01 04 15 00 1500 7 interleavescan -stid kod -xcf 1 -di -df 10400 -nf 10400 -c 4
 
-
-
 # test run for campaign 02/2017
 2017 02 04 04 00    180  80 pcodecamp_bm3_15km -stid kod -ep 44000 -sp 44001 -bp 44100 -di -fast -df 10400 -nf 10400 -xcf 1 -c 4
 2017 02 04 05 00     60  90 pcodecamp_bm9_15km -stid kod -xcf 1 -df 10400 -nf 10400 -c 4 -onesec -di
@@ -69,3 +67,8 @@ priority 5
 2017 02 22 17 30    150   90 pcodecamp_bm9_15km -stid kod -xcf 1 -df 10400 -nf 10400 -c 4 -onesec -di -clrskip 30
 2017 02 23 01 00    270   90 pcodecamp_bm9_15km -stid kod -xcf 1 -df 10400 -nf 10400 -c 4 -onesec -di -clrskip 30
  
+# HAARP campaign 2019/03
+2019 03 27 00 01  120 99 uafscan --stid kod --fixfrq 10400 --fast --xcf 1 --df 10400 --nf 10400 -c 4
+2019 03 27 05 30   60 99 uafscan --stid kod --fixfrq 10400 --fast --xcf 1 --df 10400 --nf 10400 -c 4
+2019 03 28 00 01  120 99 uafscan --stid kod --fixfrq 10400 --fast --xcf 1 --df 10400 --nf 10400 -c 4
+2019 03 27 05 30   60 99 uafscan --stid kod --fixfrq 10400 --fast --xcf 1 --df 10400 --nf 10400 -c 4
