@@ -52,6 +52,11 @@ duration a
 2019 03 21 00 00   4320   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
 2019 03 24 00 00   7200   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
 2019 03 29 00 00   4320   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+# HAARP campaign 2019/03
+2019 03 27 01 00   60 99 uafscan --stid kod --fixfrq 10400 --fast --xcf 1 --df $
+2019 03 27 05 30   60 99 uafscan --stid kod --fixfrq 10400 --fast --xcf 1 --df $
+2019 03 28 01 00   60 99 uafscan --stid kod --fixfrq 10400 --fast --xcf 1 --df $
+2019 03 27 05 30   60 99 uafscan --stid kod --fixfrq 10400 --fast --xcf 1 --df $
 
 2019 04 01 00 00  10080   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
 2019 04 08 00 00   4320   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
@@ -60,3 +65,4 @@ duration a
 2019 04 18 00 00   5760   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
 2019 04 22 00 00   4320   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
 2019 04 25 00 00   8640   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+
