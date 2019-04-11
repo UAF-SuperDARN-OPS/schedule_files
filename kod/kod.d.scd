@@ -62,6 +62,12 @@ duration a
 2019 04 01 00 00  10080   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
 2019 04 08 00 00   4320   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
 2019 04 11 00 00   5760   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+# Tim's requested data
+2019 04 12 06 00      5  15 timscan --stid kod --nowait -c 4
+2019 04 13 06 00      5  15 timscan --stid kod --nowait -c 4
+2019 04 14 06 00      5  15 timscan --stid kod --nowait -c 4
+2019 04 15 06 00      5  15 timscan --stid kod --nowait -c 4
+
 2019 04 15 00 00   4320   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
 2019 04 18 00 00   5760   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
 2019 04 22 00 00   4320   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
