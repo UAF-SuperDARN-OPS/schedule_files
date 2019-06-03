@@ -90,3 +90,11 @@ duration a
 2019 06 20 00 00   5760   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
 2019 06 24 00 00   4320   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
 2019 06 27 00 00   5760   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+
+2019 07 01 00 00  10080   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+2019 07 08 00 00   4320   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+2019 07 11 00 00   5760   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+2019 07 15 00 00   4320   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+2019 07 18 00 00   5760   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+2019 07 22 00 00   4320   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+2019 07 25 00 00  10080   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
