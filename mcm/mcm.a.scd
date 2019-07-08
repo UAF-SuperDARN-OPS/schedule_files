@@ -496,3 +496,10 @@ priority 1
 2019 07 18 00 00   5760   5 uafscan --stid mcm --xcf 1 --fast --df 10250 --nf 10250 -c 1
 2019 07 22 00 00   4320   5 uafscan --stid mcm --xcf 1 --di --fast --df 10250 --nf 10250 -c 1
 2019 07 25 00 00  10080   5 uafscan --stid mcm --xcf 1 --fast --df 10250 --nf 10250 -c 1
+
+2019 08 01 00 00   5760   5 uafscan --stid mcm --xcf 1 --fast --df 10250 --nf 10250 -c 1
+2019 08 05 00 00   4320   5 uafscan --stid mcm --xcf 1 --di --fast --df 10250 --nf 10250 -c 1
+2019 08 08 00 00   5760   5 uafscan --stid mcm --xcf 1 --fast --df 10250 --nf 10250 -c 1
+2019 08 12 00 00   8640   5 uafscan --stid mcm --xcf 1 --di --fast --df 10250 --nf 10250 -c 1
+2019 08 18 00 00   4320   5 uafscan --stid mcm --xcf 1 --fast --df 10250 --nf 10250 -c 1
+2019 08 21 00 00  15840   5 uafscan --stid mcm --xcf 1 --fast --df 10250 --nf 10250 -c 1
