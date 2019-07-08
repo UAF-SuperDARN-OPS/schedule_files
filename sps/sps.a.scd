@@ -82,3 +82,10 @@ duration  0
 2019 07 18 00 00   5760   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
 2019 07 22 00 00   4320   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
 2019 07 25 00 00  10080   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+
+2019 08 01 00 00   5760   5 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+2019 08 05 00 00   4320   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
+2019 08 08 00 00   5760   5 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+2019 08 12 00 00   8640   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -di -fast -df 12550 -nf 12550 -xcf 1 -c 1
+2019 08 18 00 00   4320   5 normalscan -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
+2019 08 21 00 00  15840   5 normalsound -stid sps -ep 41000 -sp 41001 -bp 41100 -fast -df 12550 -nf 12550 -xcf 1 -c 1
