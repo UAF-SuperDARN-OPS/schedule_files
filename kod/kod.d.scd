@@ -78,7 +78,7 @@ duration a
 2019 05 10 00 00   7200   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
 2019 05 15 00 00   4320   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
 2019 05 18 00 00   4320   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
-2019 05 21 00 00   4320   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+2019 05 21 00 00   4320   5 uafscan --stid kod --xcf 1 --fast --df 11500 --nf 11500 -c 4
 2019 05 24 00 00  11520   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
 
 
