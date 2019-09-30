@@ -516,10 +516,10 @@ priority 1
 2019 10 01 00 00   4320   5 uafscan --stid mcm --xcf 1 --di --fast --df 11500 --nf 11500 -c 2
 2019 10 04 00 00   4320   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
 # >>> Schedule note <<< please re-confirm correct schedule: see Note A
-2019 10 07 00 00   4320   5 BAD MODE: Special --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+2019 10 07 00 00   4320   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
 2019 10 08 00 00   1440   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
 # >>> Schedule note <<< please re-confirm correct schedule: see Note A
-2019 10 09 00 00   1440   5 BAD MODE: Special --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+2019 10 09 00 00   1440   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
 2019 10 10 00 00   2880   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
 2019 10 12 00 00   5760   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
 # >>> Schedule note <<< please re-confirm correct schedule: see Note C
@@ -529,7 +529,7 @@ priority 1
 2019 10 21 00 00   4320   5 uafscan --stid mcm --xcf 1 --di --fast --df 11500 --nf 11500 -c 2
 2019 10 24 00 00   2880   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
 # >>> Schedule note <<< please re-confirm correct schedule: see Note A
-2019 10 26 00 00   2880   5 BAD MODE: Special --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+2019 10 26 00 00   2880   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
 # >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2019 10 27 00 00   2880   5 BAD MODE: Special --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+2019 10 27 00 00   2880   5 uafscan --stid mcm --beampattern rbsp --meribm 1 --westbm 0 --eastbm 3 --xcf 1 --fast --df 11500 --nf 11500 -c 2
 2019 10 30 00 00   2880   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
