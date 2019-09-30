@@ -118,10 +118,10 @@ duration a
 2019 10 01 00 00   4320   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
 2019 10 04 00 00   4320   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
 # >>> Schedule note <<< please re-confirm correct schedule: see Note A
-2019 10 07 00 00   4320   5 BAD MODE: Special --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+2019 10 07 00 00   4320   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
 2019 10 08 00 00   1440   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
 # >>> Schedule note <<< please re-confirm correct schedule: see Note A
-2019 10 09 00 00   1440   5 BAD MODE: Special --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+2019 10 09 00 00   1440   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
 2019 10 10 00 00   2880   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
 2019 10 12 00 00   5760   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
 # >>> Schedule note <<< please re-confirm correct schedule: see Note C
@@ -131,7 +131,7 @@ duration a
 2019 10 21 00 00   4320   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
 2019 10 24 00 00   2880   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
 # >>> Schedule note <<< please re-confirm correct schedule: see Note A
-2019 10 26 00 00   2880   5 BAD MODE: Special --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+2019 10 26 00 00   2880   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
 # >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2019 10 27 00 00   2880   5 BAD MODE: Special --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
+2019 10 27 00 00   2880   5 uafscan --stid kod --beampattern rbsp --meribm 10 --westbm 2 --eastbm 19 --xcf 1 --fast --df 10400 --nf 10400 -c 4
 2019 10 30 00 00   2880   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
