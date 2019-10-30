@@ -133,5 +133,6 @@ duration a
 # >>> Schedule note <<< please re-confirm correct schedule: see Note A
 2019 10 26 00 00   2880   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
 # >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2019 10 27 00 00   2880   5 uafscan --stid kod --beampattern rbsp --meribm 10 --westbm 2 --eastbm 19 --xcf 1 --fast --df 10400 --nf 10400 -c 4
+#2019 10 27 00 00   2880   5 uafscan --stid kod --beampattern rbsp --meribm 10 --westbm 2 --eastbm 19 --xcf 1 --fast --df 10400 --nf 10400 -c 4
+2019 10 27 00 00   2880   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
 2019 10 30 00 00   2880   5 uafscan --stid kod --xcf 1 --fast --df 10400 --nf 10400 -c 4
