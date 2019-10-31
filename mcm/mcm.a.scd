@@ -531,5 +531,6 @@ priority 1
 # >>> Schedule note <<< please re-confirm correct schedule: see Note A
 2019 10 26 00 00   2880   5 uafscan --stid mcm --xcf 1 --fast --df 10250 --nf 10250 -c 1
 # >>> Schedule note <<< please re-confirm correct schedule: see Note B
-2019 10 27 00 00   2880   5 uafscan --stid mcm --beampattern rbsp --meribm 1 --westbm 0 --eastbm 3 --xcf 1 --fast --df 10250 --nf 10250 -c 1
+#2019 10 27 00 00   2880   5 uafscan --stid mcm --beampattern rbsp --meribm 1 --westbm 0 --eastbm 3 --xcf 1 --fast --df 10250 --nf 10250 -c 1
+2019 10 27 00 00   2880   5 uafscan --stid mcm --xcf 1 --fast --df 10250 --nf 10250 -c 1
 2019 10 30 00 00   2880   5 uafscan --stid mcm --xcf 1 --fast --df 10250 --nf 10250 -c 1
