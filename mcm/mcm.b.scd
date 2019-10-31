@@ -533,3 +533,26 @@ priority 1
 # >>> Schedule note <<< please re-confirm correct schedule: see Note B
 2019 10 27 00 00   2880   5 uafscan --stid mcm --beampattern rbsp --meribm 1 --westbm 0 --eastbm 3 --xcf 1 --fast --df 11500 --nf 11500 -c 2
 2019 10 30 00 00   2880   5 uafscan --stid mcm --xcf 1 --fast --df 11500 --nf 11500 -c 2
+
+2019 11 01 00 00   4320   5 uafscan --stid mcm  --xcf 1 --fast --df 11250 --nf 11250 -c 2            
+2019 11 04 00 00   4320   5 uafscan --stid mcm --di --xcf 1 --fast --df 10250 --nf 10250 -c 2        
+2019 11 07 00 00   5760   5 uafscan --stid mcm  --xcf 1 --fast --df 11250 --nf 11250 -c 2            
+2019 11 11 00 00   4320   5 uafscan --stid mcm --di --xcf 1 --fast --df 10250 --nf 10250 -c 2        
+2019 11 14 00 00   5760   5 uafscan --stid mcm  --xcf 1 --fast --df 11250 --nf 11250 -c 2            
+2019 11 18 00 00   4320   5 uafscan --stid mcm --di --xcf 1 --fast --df 10250 --nf 10250 -c 2        
+2019 11 21 00 00   2880   5 uafscan --stid mcm  --xcf 1 --fast --df 11250 --nf 11250 -c 2            
+# >>> Schedule Note <<< The following entry is operating in the mode Special:RBSPSCAN                
+2019 11 23 00 00   4320   5 uafscan --stid mcm  --xcf 1 --fast --df 11250 --nf 11250 -c 2            
+2019 11 26 00 00    360   5 uafscan --stid mcm  --xcf 1 --fast --df 11250 --nf 11250 -c 2            
+# >>> Schedule Note <<< The following entry is operating in the mode Special:THEMISSCAN              
+2019 11 26 06 00    360   5 uafscan --stid mcm  --xcf 1 --fast --df 11250 --nf 11250 -c 2            
+2019 11 26 12 00    360   5 uafscan --stid mcm  --xcf 1 --fast --df 11250 --nf 11250 -c 2            
+# >>> Schedule Note <<< The following entry is operating in the mode Special:THEMISSCAN              
+2019 11 26 18 00    720   5 uafscan --stid mcm  --xcf 1 --fast --df 11250 --nf 11250 -c 2            
+2019 11 27 06 00   1440   5 uafscan --stid mcm  --xcf 1 --fast --df 11250 --nf 11250 -c 2            
+# >>> Schedule Note <<< The following entry is operating in the mode Special:THEMISSCAN              
+2019 11 28 06 00   1440   5 uafscan --stid mcm  --xcf 1 --fast --df 11250 --nf 11250 -c 2            
+2019 11 29 06 00   1080   5 uafscan --stid mcm  --xcf 1 --fast --df 11250 --nf 11250 -c 2            
+# >>> Schedule Note <<< The following entry is operating in the mode Special:THEMISSCAN              
+2019 11 30 00 00   1080   5 uafscan --stid mcm  --xcf 1 --fast --df 11250 --nf 11250 -c 2            
+2019 11 30 18 00    360   5 uafscan --stid mcm  --xcf 1 --fast --df 11250 --nf 11250 -c 2 
