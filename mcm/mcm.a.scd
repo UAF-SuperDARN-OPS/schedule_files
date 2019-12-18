@@ -58,3 +58,12 @@ priority 1
 2019 12 30 06 00    360   5 uafscan --stid mcm  --xcf 1 --fast --df 10250 --nf 10250 -c 1            
 2019 12 30 12 00   2160   5 uafscan --stid mcm  --xcf 1 --fast --df 10250 --nf 10250 -c 1            
 
+
+2020 01 01 00 00  15840   5 uafscan --stid mcm  --xcf 1 --fast --df 10250 --nf 10250 -c 1            
+2020 01 12 00 00   1440   5 uafscan --stid mcm  --xcf 1 --fast --df 10250 --nf 10250 -c 1            
+2020 01 13 00 00   4320   5 uafscan --stid mcm --di --xcf 1 --fast --df 10250 --nf 10250 -c 1        
+2020 01 16 00 00   5760   5 uafscan --stid mcm  --xcf 1 --fast --df 10250 --nf 10250 -c 1            
+2020 01 20 00 00   4320   5 uafscan --stid mcm --di --xcf 1 --fast --df 10250 --nf 10250 -c 1        
+2020 01 23 00 00   5760   5 uafscan --stid mcm  --xcf 1 --fast --df 10250 --nf 10250 -c 1            
+2020 01 27 00 00   4320   5 uafscan --stid mcm --di --xcf 1 --fast --df 10250 --nf 10250 -c 1        
+2020 01 30 00 00   2880   5 uafscan --stid mcm  --xcf 1 --fast --df 10250 --nf 10250 -c 1            
