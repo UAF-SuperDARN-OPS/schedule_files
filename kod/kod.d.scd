@@ -15,3 +15,13 @@ duration a
 2020 02 20 00 00   5760   5 uafscan --stid kod  --xcf 1 --fast --df 10400 --nf 10400 -c 4            
 2020 02 24 00 00   4320   5 uafscan --stid kod --di --xcf 1 --fast --df 10400 --nf 10400 -c 4        
 2020 02 27 00 00   4320   5 uafscan --stid kod  --xcf 1 --fast --df 10400 --nf 10400 -c 4            
+
+
+2020 03 01 00 00  11520   5 uafscan --stid kod  --xcf 1 --fast --df 10400 --nf 10400 -c 4            
+2020 03 09 00 00   4320   5 uafscan --stid kod --di --xcf 1 --fast --df 10400 --nf 10400 -c 4        
+2020 03 12 00 00   5760   5 uafscan --stid kod  --xcf 1 --fast --df 10400 --nf 10400 -c 4            
+2020 03 16 00 00   4320   5 uafscan --stid kod --di --xcf 1 --fast --df 10400 --nf 10400 -c 4        
+2020 03 19 00 00   5760   5 uafscan --stid kod  --xcf 1 --fast --df 10400 --nf 10400 -c 4            
+2020 03 23 00 00   4320   5 uafscan --stid kod --di --xcf 1 --fast --df 10400 --nf 10400 -c 4        
+2020 03 26 00 00   4320   5 uafscan --stid kod  --xcf 1 --fast --df 10400 --nf 10400 -c 4            
+2020 03 29 00 00   4320   5 uafscan --stid kod  --xcf 1 --fast --df 10400 --nf 10400 -c 4            
