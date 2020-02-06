@@ -1,4 +1,4 @@
-path /home/radar/rst/usr/bin
+path /home/radar/ros.3.6/usr/bin
 default uafscan --stid mcm --xcf 1 --fast --df 10250 --nf 10250 -c 2
 stationid mcm
 sitelib ros
