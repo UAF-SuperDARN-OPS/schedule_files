@@ -30,3 +30,11 @@ duration a
 2020 04 11 00 00  14400   5 uafscan --stid mcm  --xcf 1 --fast --df 10250 --nf 10250 -c 1            
 2020 04 21 00 00  12960   5 uafscan --stid mcm --di --xcf 1 --fast --df 10250 --nf 10250 -c 1        
 2020 04 30 00 00   1440   5 uafscan --stid mcm  --xcf 1 --fast --df 10250 --nf 10250 -c 1            
+
+2020 05 01 00 00   4320   5 uafscan --stid mcm  --xcf 1 --fast --df 10250 --nf 10250 -c 1            
+2020 05 04 00 00   4320   5 uafscan --stid mcm --di --xcf 1 --fast --df 10250 --nf 10250 -c 1        
+2020 05 07 00 00   5760   5 uafscan --stid mcm  --xcf 1 --fast --df 10250 --nf 10250 -c 1            
+2020 05 11 00 00   4320   5 uafscan --stid mcm --di --xcf 1 --fast --df 10250 --nf 10250 -c 1        
+2020 05 14 00 00   5760   5 uafscan --stid mcm  --xcf 1 --fast --df 10250 --nf 10250 -c 1            
+2020 05 18 00 00   4320   5 uafscan --stid mcm --di --xcf 1 --fast --df 10250 --nf 10250 -c 1        
+2020 05 21 00 00  15840   5 uafscan --stid mcm  --xcf 1 --fast --df 10250 --nf 10250 -c 1            
